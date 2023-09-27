@@ -1,0 +1,3 @@
+musicpy
+pygame
+ipython
