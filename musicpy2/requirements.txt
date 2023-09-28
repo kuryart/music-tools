@@ -1,3 +1,0 @@
-musicpy
-pygame
-ipython
