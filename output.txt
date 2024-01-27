@@ -1,0 +1,2401 @@
+[C4, D#4, F#4, A4]: Cdim7
+[C4, D#4, F#4, B4]: Cdim(Maj7)
+[C4, D#4, F#4, C5]: Cdim
+[C4, D#4, F#4, D5]: Cmadd9 bG
+[C4, D#4, F#4, E5]: Eaugmaj9 omit G# /B#
+[C4, D#4, F#4, F5]: D#m13 omit A#, C#, G# /B#
+[C4, D#4, F#4, G5]: Cmadd4 #F
+[C4, D#4, G#4, A4]: Adim(Maj7)/C
+[C4, D#4, G#4, B4]: Cminormajor7 #G
+[C4, D#4, G#4, C5]: G#major/B#
+[C4, D#4, G#4, D5]: D#maj13sus4 omit A#, E# /B#
+[C4, D#4, G#4, E5]: Eaugmaj7 sort as [3, 4, 2, 1]
+[C4, D#4, G#4, F5]: D#13sus4 omit A#, C# /B#
+[C4, D#4, G#4, G5]: G#maj7 sort as [2, 3, 1, 4]
+[C4, D#4, A4, A4]: Adim/C
+[C4, D#4, A4, B4]: Amadd2 bE /C
+[C4, D#4, A4, C5]: Adim/C
+[C4, D#4, A4, D5]: Cm69 omit G
+[C4, D#4, A4, E5]: Eaugmaj7 #G# /D# sort as [1, 2, 4, 3]
+[C4, D#4, A4, F5]: F7 sort as [3, 4, 2, 1]
+[C4, D#4, A4, G5]: Cm6 sort as [1, 2, 4, 3]
+[C4, D#4, B4, A4]: Amadd9 bE /Eb
+[C4, D#4, B4, B4]: Cminormajor7 omit G
+[C4, D#4, B4, C5]: Cminormajor7 omit G
+[C4, D#4, B4, D5]: Cminormajor9 omit G
+[C4, D#4, B4, E5]: [Badd4 omit F# sort as [2, 1, 3]]/[note C]
+[C4, D#4, B4, F5]: F13#11 omit A, G, D /C
+[C4, D#4, B4, G5]: Cminormajor7 sort as [1, 2, 4, 3]
+[C4, D#4, C#5, A4]: C#augmaj9 omit E# /B#
+[C4, D#4, C#5, B4]: [Badd9 omit F# /D#]/[note C]
+[C4, D#4, C#5, C5]: C#maj9 omit E#, G# /B#
+[C4, D#4, C#5, D5]: [[C# with minor second]/[note D#]]/[note C]
+[C4, D#4, C#5, E5]: C#minormajor9 omit G# /B#
+[C4, D#4, C#5, F5]: C#maj9 omit G# /B#
+[C4, D#4, C#5, G5]: C#maj9#11 omit E#, G# sort as [2, 3, 1, 4]
+[C4, D#4, D5, A4]: Cm13 omit G, Bb, F
+[C4, D#4, D5, B4]: Cminormajor9 omit G sort as [1, 2, 4, 3]
+[C4, D#4, D5, C5]: Cmadd9 omit G
+[C4, D#4, D5, D5]: Cmadd9 omit G
+[C4, D#4, D5, E5]: [[D with major second]/[note D#]]/[note C]
+[C4, D#4, D5, F5]: Cm11 omit G, Bb
+[C4, D#4, D5, G5]: Cmadd2 sort as [1, 3, 2, 4]
+[C4, D#4, E5, A4]: Eaugmaj7 #G# /B#
+[C4, D#4, E5, B4]: [Emaj7 omit G# /D#]/[note C]
+[C4, D#4, E5, C5]: Eaugmaj7 omit G# /B#
+[C4, D#4, E5, D5]: [[E with minor seventh]/[note D#]]/[note C]
+[C4, D#4, E5, E5]: Eaugmaj7 omit G# /B#
+[C4, D#4, E5, F5]: [[E with minor second]/[note D#]]/[note C]
+[C4, D#4, E5, G5]: Cadd2 #D
+[C4, E#4, F#4, A4]: F#dim(Maj7)/C
+[C4, E#4, F#4, B4]: Cmaj7sus4 bG
+[C4, E#4, F#4, C5]: F#maj7b5 omit A# /C
+[C4, E#4, F#4, D5]: [F#augmaj7 omit A# /E#]/[note C]
+[C4, E#4, F#4, E5]: [[F# with minor seventh]/[note E#]]/[note C]
+[C4, E#4, F#4, F5]: F#maj7#11 omit A#, C# sort as [3, 2, 1, 2]
+[C4, E#4, F#4, G5]: Cadd4 #E, #F
+[C4, E#4, G#4, A4]: C6sus4 #G
+[C4, E#4, G#4, B4]: Caugmaj7 #E
+[C4, E#4, G#4, C5]: E#minor/B#
+[C4, E#4, G#4, D5]: E#m6 sort as [3, 1, 2, 4]
+[C4, E#4, G#4, E5]: E#minormajor7 sort as [3, 1, 2, 4]
+[C4, E#4, G#4, F5]: E#m9 omit D#, Fx sort as [3, 1, 2, 1]
+[C4, E#4, G#4, G5]: E#madd2 sort as [4, 1, 3, 2]
+[C4, E#4, A4, A4]: E#major/B#
+[C4, E#4, A4, B4]: E#add4 #Bb /B#
+[C4, E#4, A4, C5]: E#major/B#
+[C4, E#4, A4, D5]: C13sus4 omit G, Bb sort as [1, 2, 4, 3]
+[C4, E#4, A4, E5]: E#maj7 sort as [3, 1, 2, 4]
+[C4, E#4, A4, F5]: C13sus4 omit G, Bb, D sort as [1, 2, 3, 2]
+[C4, E#4, A4, G5]: C6sus4 sort as [1, 2, 4, 3]
+[C4, E#4, B4, A4]: Cmaj13sus4 omit G, D
+[C4, E#4, B4, B4]: Cmaj7sus4 omit G
+[C4, E#4, B4, C5]: Cmaj7sus4 omit G
+[C4, E#4, B4, D5]: Cmaj9sus4 omit G
+[C4, E#4, B4, E5]: Cmaj11 omit G, D sort as [1, 4, 2, 3]
+[C4, E#4, B4, F5]: Cmaj9sus4 omit G, D sort as [1, 2, 3, 2]
+[C4, E#4, B4, G5]: Cmaj7sus4 sort as [1, 2, 4, 3]
+[C4, E#4, C#5, A4]: C#augmaj7 sort as [4, 2, 1, 3]
+[C4, E#4, C#5, B4]: [C#aug6 sort as [2, 1, 3]]/[note C]
+[C4, E#4, C#5, C5]: C#maj7 omit G# sort as [3, 2, 1]
+[C4, E#4, C#5, D5]: [Dminormajor7 omit A /F]/[note C]
+[C4, E#4, C#5, E5]: [E#augmaj7 omit Gx]/[note C]
+[C4, E#4, C#5, F5]: C#maj9 omit G#, D# sort as [3, 2, 1, 2]
+[C4, E#4, C#5, G5]: C#maj7b5 sort as [4, 2, 1, 3]
+[C4, E#4, D5, A4]: C13sus4 omit G, Bb
+[C4, E#4, D5, B4]: Cmaj9sus4 omit G sort as [1, 2, 4, 3]
+[C4, E#4, D5, C5]: C9sus4 omit G, Bb
+[C4, E#4, D5, D5]: C9sus4 omit G, Bb
+[C4, E#4, D5, E5]: C11 omit G, Bb sort as [1, 4, 2, 3]
+[C4, E#4, D5, F5]: C9sus4 omit G, Bb sort as [1, 2, 3, 2]
+[C4, E#4, D5, G5]: C9sus4 omit Bb sort as [1, 2, 4, 3]
+[C4, E#4, E5, A4]: E#maj7 sort as [3, 1, 4, 2]
+[C4, E#4, E5, B4]: E#maj7#11 omit Gx sort as [2, 1, 3, 4]
+[C4, E#4, E5, C5]: Cadd4 omit G sort as [1, 3, 2]
+[C4, E#4, E5, D5]: Dm9 omit A sort as [3, 2, 4, 1]
+[C4, E#4, E5, E5]: Cadd4 omit G sort as [1, 3, 2]
+[C4, E#4, E5, F5]: Fmaj9 omit A, G sort as [2, 1, 3, 1]
+[C4, E#4, E5, G5]: Cadd4 sort as [1, 3, 2, 4]
+[C4, F#4, F#4, A4]: F#dim/C
+[C4, F#4, F#4, B4]: Cmaj7b5 omit E
+[C4, F#4, F#4, C5]: C with diminished fifth
+[C4, F#4, F#4, D5]: Cfifth_9th bG
+[C4, F#4, F#4, E5]: Eaug9 omit G#, D /B#
+[C4, F#4, F#4, F5]: F#maj7#11 omit A#, C# /B#
+[C4, F#4, F#4, G5]: Gmaj7sus4 omit D /C
+[C4, F#4, G#4, A4]: F#madd2 bC# /C
+[C4, F#4, G#4, B4]: B6sus2 bC# /C
+[C4, F#4, G#4, C5]: G#aug6/B#
+[C4, F#4, G#4, D5]: G#frenchsixth sort as [2, 4, 1, 3]
+[C4, F#4, G#4, E5]: G#aug7 sort as [2, 4, 1, 3]
+[C4, F#4, G#4, F5]: F#maj9#11 omit A#, C# sort as [4, 1, 3, 2]
+[C4, F#4, G#4, G5]: [[G# with major seventh]/[note F#]]/[note C]
+[C4, F#4, A4, A4]: F#dim/C
+[C4, F#4, A4, B4]: F#madd4 bC# /C
+[C4, F#4, A4, C5]: F#dim/C
+[C4, F#4, A4, D5]: D7 sort as [4, 2, 3, 1]
+[C4, F#4, A4, E5]: F#half-diminished7 sort as [3, 1, 2, 4]
+[C4, F#4, A4, F5]: F#dim(Maj7) sort as [3, 1, 2, 4]
+[C4, F#4, A4, G5]: Gmaj9sus4 omit D /C
+[C4, F#4, B4, A4]: Am69 omit E /C
+[C4, F#4, B4, B4]: Cmaj7b5 omit E
+[C4, F#4, B4, C5]: Cmaj7b5 omit E
+[C4, F#4, B4, D5]: Cmaj9#11 omit E, G sort as [1, 4, 2, 3]
+[C4, F#4, B4, E5]: Cmaj7b5 sort as [1, 3, 4, 2]
+[C4, F#4, B4, F5]: [F#maj7sus4 omit C#]/[note C]
+[C4, F#4, B4, G5]: Cmaj7#11 omit E sort as [1, 4, 2, 3]
+[C4, F#4, C#5, A4]: [F#minor sort as [1, 3, 2]]/[note C]
+[C4, F#4, C#5, B4]: [F#sus sort as [1, 3, 2]]/[note C]
+[C4, F#4, C#5, C5]: F#maj7#11 omit A#, E# /B#
+[C4, F#4, C#5, D5]: [Dmaj7 omit A /F#]/[note C]
+[C4, F#4, C#5, E5]: F#13#11 omit A#, G#, D# /B#
+[C4, F#4, C#5, F5]: F#maj7#11 omit A# /B#
+[C4, F#4, C#5, G5]: [Gmaj7#11 omit B, D /F#]/[note C]
+[C4, F#4, D5, A4]: D7 sort as [4, 2, 1, 3]
+[C4, F#4, D5, B4]: Cmaj9#11 omit E, G sort as [1, 4, 2, 3]
+[C4, F#4, D5, C5]: Cfifth_9th bG
+[C4, F#4, D5, D5]: Cfifth_9th bG
+[C4, F#4, D5, E5]: Eaug9 omit G# sort as [2, 4, 3, 1]
+[C4, F#4, D5, F5]: F6sus2 bG /Gb sort as [1, 4, 2, 3]
+[C4, F#4, D5, G5]: Gmaj7sus4 sort as [2, 4, 3, 1]
+[C4, F#4, E5, A4]: F#half-diminished7 sort as [3, 1, 4, 2]
+[C4, F#4, E5, B4]: Cmaj7b5 sort as [1, 3, 2, 4]
+[C4, F#4, E5, C5]: Eaug9 omit G#, D /B#
+[C4, F#4, E5, D5]: Eaug9 omit G# sort as [2, 4, 1, 3]
+[C4, F#4, E5, E5]: Eaug9 omit G#, D /B#
+[C4, F#4, E5, F5]: Cadd4 bG sort as [1, 4, 2, 3]
+[C4, F#4, E5, G5]: Gmaj13sus4 omit D, A /C
+[C4, G#4, F#4, A4]: F#madd9 bC# /G#
+[C4, G#4, F#4, B4]: [F#9sus4 omit C#, E /G#]/[note C]
+[C4, G#4, F#4, C5]: G#aug6 sort as [2, 1, 3]
+[C4, G#4, F#4, D5]: G#frenchsixth sort as [2, 1, 4, 3]
+[C4, G#4, F#4, E5]: Eaug9 omit D sort as [3, 2, 4, 1]
+[C4, G#4, F#4, F5]: F#maj9#11 omit A#, C# sort as [4, 3, 1, 2]
+[C4, G#4, F#4, G5]: [[F# with minor second]/[note G#]]/[note C]
+[C4, G#4, G#4, A4]: Aminormajor7 omit E /C
+[C4, G#4, G#4, B4]: Caugmaj7 omit E
+[C4, G#4, G#4, C5]: C with minor sixth
+[C4, G#4, G#4, D5]: Caug9 omit E, Bb
+[C4, G#4, G#4, E5]: Caug sort as [1, 3, 2]
+[C4, G#4, G#4, F5]: Fminor sort as [3, 2, 1]
+[C4, G#4, G#4, G5]: G#maj7 omit D# sort as [2, 1, 3]
+[C4, G#4, A4, A4]: Aminormajor7 omit E /C
+[C4, G#4, A4, B4]: Aminormajor9 omit E sort as [2, 3, 1, 4]
+[C4, G#4, A4, C5]: Aminormajor7 omit E /C
+[C4, G#4, A4, D5]: D13#11 omit F#, E, B /G# sort as [1, 2, 4, 3]
+[C4, G#4, A4, E5]: Aminormajor7 sort as [2, 4, 1, 3]
+[C4, G#4, A4, F5]: [Aaugmaj7 omit C# /G#]/[note C]
+[C4, G#4, A4, G5]: [[A with minor seventh]/[note G#]]/[note C]
+[C4, G#4, B4, A4]: Aminormajor9 omit E /C
+[C4, G#4, B4, B4]: Caugmaj7 omit E
+[C4, G#4, B4, C5]: Caugmaj7 omit E
+[C4, G#4, B4, D5]: Caugmaj9 omit E
+[C4, G#4, B4, E5]: Caugmaj7 sort as [1, 3, 4, 2]
+[C4, G#4, B4, F5]: [Fdim/Ab]/[note C]
+[C4, G#4, B4, G5]: [G#minormajor7 omit D#]/[note C]
+[C4, G#4, C#5, A4]: [Amaj7 omit E sort as [3, 2, 1]]/[note C]
+[C4, G#4, C#5, B4]: [B69 omit D#, F# /G#]/[note C]
+[C4, G#4, C#5, C5]: G#add4 omit D# sort as [2, 1, 3]
+[C4, G#4, C#5, D5]: C#maj7sus2 bD# /G# sort as [1, 4, 2, 3]
+[C4, G#4, C#5, E5]: C#minormajor7 sort as [4, 3, 1, 2]
+[C4, G#4, C#5, F5]: C#maj7 sort as [4, 3, 1, 2]
+[C4, G#4, C#5, G5]: G#maj11 omit D#, A# sort as [2, 1, 4, 3]
+[C4, G#4, D5, A4]: D13#11 omit F#, E, B /C
+[C4, G#4, D5, B4]: Caugmaj9 omit E sort as [1, 2, 4, 3]
+[C4, G#4, D5, C5]: Caug9 omit E, Bb
+[C4, G#4, D5, D5]: Caug9 omit E, Bb
+[C4, G#4, D5, E5]: Caug9 omit Bb sort as [1, 3, 4, 2]
+[C4, G#4, D5, F5]: Dhalf-diminished7 sort as [4, 3, 1, 2]
+[C4, G#4, D5, G5]: G#maj7b5 sort as [2, 1, 3, 4]
+[C4, G#4, E5, A4]: Aminormajor7 sort as [2, 4, 3, 1]
+[C4, G#4, E5, B4]: Caugmaj7 sort as [1, 3, 2, 4]
+[C4, G#4, E5, C5]: Caug sort as [1, 3, 2]
+[C4, G#4, E5, D5]: Caug9 omit Bb sort as [1, 3, 2, 4]
+[C4, G#4, E5, E5]: Caug sort as [1, 3, 2]
+[C4, G#4, E5, F5]: Fminormajor7 sort as [3, 2, 4, 1]
+[C4, G#4, E5, G5]: G#augmaj7 sort as [2, 1, 3, 4]
+[C4, A#4, F#4, A4]: A#augmaj9 omit Cx /B#
+[C4, A#4, F#4, B4]: [F#add4 omit C# sort as [2, 1, 3]]/[note C]
+[C4, A#4, F#4, C5]: A#aug9 omit Cx, G# /B#
+[C4, A#4, F#4, D5]: A#aug9 omit G# sort as [4, 1, 3, 2]
+[C4, A#4, F#4, E5]: Cfrenchsixth sort as [1, 4, 3, 2]
+[C4, A#4, F#4, F5]: F#maj7#11 omit C# sort as [4, 2, 1, 3]
+[C4, A#4, F#4, G5]: C7sus4 #F sort as [1, 4, 2, 3]
+[C4, A#4, G#4, A4]: [[G# with minor second]/[note A#]]/[note C]
+[C4, A#4, G#4, B4]: [G#madd9 omit D# /A#]/[note C]
+[C4, A#4, G#4, C5]: G#add9 omit D# /B#
+[C4, A#4, G#4, D5]: Caug9 omit E sort as [1, 3, 2, 4]
+[C4, A#4, G#4, E5]: Caug7 sort as [1, 4, 3, 2]
+[C4, A#4, G#4, F5]: A#9 omit Cx sort as [4, 1, 3, 2]
+[C4, A#4, G#4, G5]: G#maj9 omit D# sort as [2, 4, 1, 3]
+[C4, A#4, A4, A4]: A#maj9 omit Cx, E# /B#
+[C4, A#4, A4, B4]: [[A with major second]/[note A#]]/[note C]
+[C4, A#4, A4, C5]: A#maj9 omit Cx, E# /B#
+[C4, A#4, A4, D5]: C13sus4 omit F, G sort as [1, 2, 4, 3]
+[C4, A#4, A4, E5]: A#maj9#11 omit Cx, E# sort as [3, 1, 2, 4]
+[C4, A#4, A4, F5]: C13sus4 omit G, D sort as [1, 3, 4, 2]
+[C4, A#4, A4, G5]: C13sus4 omit F, D sort as [1, 3, 4, 2]
+[C4, A#4, B4, A4]: [[B with minor seventh]/[note A#]]/[note C]
+[C4, A#4, B4, B4]: [A# with minor second]/[note C]
+[C4, A#4, B4, C5]: [A# with minor second]/[note C]
+[C4, A#4, B4, D5]: [Bminormajor7 omit F# /A#]/[note C]
+[C4, A#4, B4, E5]: [Bmaj7sus4 omit F# /A#]/[note C]
+[C4, A#4, B4, F5]: [Bmaj7b5 omit D# /A#]/[note C]
+[C4, A#4, B4, G5]: [Baugmaj7 omit D# /A#]/[note C]
+[C4, A#4, C#5, A4]: A#minormajor9 omit E# /B#
+[C4, A#4, C#5, B4]: [Bmaj9 omit D#, F# /A#]/[note C]
+[C4, A#4, C#5, C5]: A#madd9 omit E# /B#
+[C4, A#4, C#5, D5]: [Daugmaj7 omit F# /A#]/[note C]
+[C4, A#4, C#5, E5]: A#madd9 bE# /B#
+[C4, A#4, C#5, F5]: A#madd9/B#
+[C4, A#4, C#5, G5]: A#m69 omit E# /B#
+[C4, A#4, D5, A4]: A#maj9 omit E# /B#
+[C4, A#4, D5, B4]: [Bminormajor7 omit F# sort as [3, 2, 1]]/[note C]
+[C4, A#4, D5, C5]: A#add9 omit E# /B#
+[C4, A#4, D5, D5]: A#add9 omit E# /B#
+[C4, A#4, D5, E5]: Caug9 omit Ab sort as [1, 3, 4, 2]
+[C4, A#4, D5, F5]: A#add9/B#
+[C4, A#4, D5, G5]: C7sus2 sort as [1, 4, 2, 3]
+[C4, A#4, E5, A4]: A#maj9#11 omit Cx, E# sort as [3, 1, 4, 2]
+[C4, A#4, E5, B4]: [Emaj7#11 omit G#, D# /A#]/[note C]
+[C4, A#4, E5, C5]: Caug6 sort as [1, 3, 2]
+[C4, A#4, E5, D5]: Caug9 omit Ab sort as [1, 3, 2, 4]
+[C4, A#4, E5, E5]: Caug6 sort as [1, 3, 2]
+[C4, A#4, E5, F5]: C11 omit G, D sort as [1, 3, 2, 4]
+[C4, A#4, E5, G5]: C7 sort as [1, 4, 2, 3]
+[C4, B4, F#4, A4]: Cmaj13#11 omit E, G, D
+[C4, B4, F#4, B4]: Cmaj7b5 omit E sort as [1, 3, 2]
+[C4, B4, F#4, C5]: Cmaj7b5 omit E sort as [1, 3, 2]
+[C4, B4, F#4, D5]: Cmaj9#11 omit E, G sort as [1, 2, 4, 3]
+[C4, B4, F#4, E5]: Cmaj7b5 sort as [1, 4, 3, 2]
+[C4, B4, F#4, F5]: [Bmaj7#11 omit D#, A#]/[note C]
+[C4, B4, F#4, G5]: Cmaj7#11 omit E sort as [1, 3, 4, 2]
+[C4, B4, G#4, A4]: Aminormajor9 omit E sort as [2, 4, 3, 1]
+[C4, B4, G#4, B4]: Caugmaj7 omit E sort as [1, 3, 2]
+[C4, B4, G#4, C5]: Caugmaj7 omit E sort as [1, 3, 2]
+[C4, B4, G#4, D5]: Caugmaj9 omit E sort as [1, 3, 2, 4]
+[C4, B4, G#4, E5]: Caugmaj7 sort as [1, 4, 3, 2]
+[C4, B4, G#4, F5]: [Fdim sort as [3, 2, 1]]/[note C]
+[C4, B4, G#4, G5]: [G#minormajor7 omit D# sort as [2, 1, 3]]/[note C]
+[C4, B4, A4, A4]: Amadd9 omit E /C
+[C4, B4, A4, B4]: Amadd9 omit E /C
+[C4, B4, A4, C5]: Amadd9 omit E /C
+[C4, B4, A4, D5]: Cmaj13sus4 omit F, G sort as [1, 2, 4, 3]
+[C4, B4, A4, E5]: Amadd9 sort as [2, 4, 1, 3]
+[C4, B4, A4, F5]: Cmaj13sus4 omit G, D sort as [1, 3, 4, 2]
+[C4, B4, A4, G5]: Cmaj13sus4 omit F, D sort as [1, 3, 4, 2]
+[C4, B4, B4, A4]: Amadd9 omit E /C
+[C4, B4, B4, B4]: C with major seventh
+[C4, B4, B4, C5]: C with major seventh
+[C4, B4, B4, D5]: Cmaj9 omit E, G
+[C4, B4, B4, E5]: Cmaj7 omit G sort as [1, 3, 2]
+[C4, B4, B4, F5]: Fmaj7#11 omit A, E /C
+[C4, B4, B4, G5]: Cmaj7 omit E sort as [1, 3, 2]
+[C4, B4, C#5, A4]: [B7sus2 omit F#]/[note C]
+[C4, B4, C#5, B4]: [B with major second]/[note C]
+[C4, B4, C#5, C5]: [B with major second]/[note C]
+[C4, B4, C#5, D5]: [Bmadd2 omit F#]/[note C]
+[C4, B4, C#5, E5]: [C#m7 omit G# /B]/[note C]
+[C4, B4, C#5, F5]: [C#aug6/Ax]/[note C]
+[C4, B4, C#5, G5]: Cmaj7sus2 bD sort as [1, 4, 2, 3]
+[C4, B4, D5, A4]: Cmaj13sus4 omit F, G
+[C4, B4, D5, B4]: Cmaj9 omit E, G
+[C4, B4, D5, C5]: Cmaj9 omit E, G
+[C4, B4, D5, D5]: Cmaj9 omit E, G
+[C4, B4, D5, E5]: D13sus2 omit A, G /C
+[C4, B4, D5, F5]: Cmaj11 omit E, G
+[C4, B4, D5, G5]: Cmaj7sus2 sort as [1, 4, 2, 3]
+[C4, B4, E5, A4]: Amadd2 sort as [3, 2, 4, 1]
+[C4, B4, E5, B4]: Cmaj7 omit G sort as [1, 3, 2]
+[C4, B4, E5, C5]: Cmaj7 omit G sort as [1, 3, 2]
+[C4, B4, E5, D5]: Cmaj9 omit G sort as [1, 3, 2, 4]
+[C4, B4, E5, E5]: Cmaj7 omit G sort as [1, 3, 2]
+[C4, B4, E5, F5]: Cmaj11 omit G, D sort as [1, 3, 2, 4]
+[C4, B4, E5, G5]: Cmaj7 sort as [1, 4, 2, 3]
+[C4, C#5, F#4, A4]: C#augmaj7 #E# /B#
+[C4, C#5, F#4, B4]: F#add4 #A#, #B sort as [2, 4, 1, 3]
+[C4, C#5, F#4, C5]: C#maj7sus4 omit G# /B#
+[C4, C#5, F#4, D5]: [Dmaj7 omit A sort as [3, 2, 1]]/[note C]
+[C4, C#5, F#4, E5]: C#dim(Maj7) bb5/#4 sort as [1, 2, 4, 3]
+[C4, C#5, F#4, F5]: F#maj7#11 omit A# sort as [4, 2, 1, 3]
+[C4, C#5, F#4, G5]: C#maj7sus4 bG# /B#
+[C4, C#5, G#4, A4]: [Amaj7 omit E /C#]/[note C]
+[C4, C#5, G#4, B4]: [C#m7 omit E]/[note C]
+[C4, C#5, G#4, C5]: C#maj7 omit E# /B#
+[C4, C#5, G#4, D5]: C#maj7sus2 bD# /G# sort as [1, 2, 4, 3]
+[C4, C#5, G#4, E5]: C#minormajor7 sort as [4, 1, 3, 2]
+[C4, C#5, G#4, F5]: C#maj7 sort as [4, 1, 3, 2]
+[C4, C#5, G#4, G5]: C#maj7#11 omit E# sort as [3, 1, 2, 4]
+[C4, C#5, A4, A4]: C#augmaj7 omit E# /B#
+[C4, C#5, A4, B4]: [C#aug7 omit E#]/[note C]
+[C4, C#5, A4, C5]: C#augmaj7 omit E# /B#
+[C4, C#5, A4, D5]: [Aadd4 omit E sort as [2, 1, 3]]/[note C]
+[C4, C#5, A4, E5]: C#minormajor7 #G# /Gx sort as [1, 2, 4, 3]
+[C4, C#5, A4, F5]: C#augmaj7 sort as [4, 1, 3, 2]
+[C4, C#5, A4, G5]: C6sus2 bD sort as [1, 2, 4, 3]
+[C4, C#5, B4, A4]: [Aadd9 omit E /C#]/[note C]
+[C4, C#5, B4, B4]: [C# with minor seventh]/[note C]
+[C4, C#5, B4, C5]: [C# with minor seventh]/[note C]
+[C4, C#5, B4, D5]: [Bmadd9 omit F# /C#]/[note C]
+[C4, C#5, B4, E5]: [B9sus4 omit F#, A /C#]/[note C]
+[C4, C#5, B4, F5]: [C#aug6 sort as [1, 3, 2]]/[note C]
+[C4, C#5, B4, G5]: Cmaj7sus2 bD sort as [1, 2, 4, 3]
+[C4, C#5, C#5, A4]: C#augmaj7 omit E# /B#
+[C4, C#5, C#5, B4]: [C# with minor seventh]/[note C]
+[C4, C#5, C#5, C5]: C with minor second
+[C4, C#5, C#5, D5]: [C# with minor second]/[note C]
+[C4, C#5, C#5, E5]: C#minormajor7 omit G# /B#
+[C4, C#5, C#5, F5]: C#maj7 omit G# /B#
+[C4, C#5, C#5, G5]: C#maj7b5 omit E# /B#
+[C4, C#5, D5, A4]: [Dmaj7 omit F# /C#]/[note C]
+[C4, C#5, D5, B4]: [Bmadd2 omit F# /C#]/[note C]
+[C4, C#5, D5, C5]: [C# with minor second]/[note C]
+[C4, C#5, D5, D5]: [C# with minor second]/[note C]
+[C4, C#5, D5, E5]: [Dmaj7sus2 omit A /C#]/[note C]
+[C4, C#5, D5, F5]: [Dminormajor7 omit A /C#]/[note C]
+[C4, C#5, D5, G5]: Cmadd2 bD, bb3
+[C4, C#5, E5, A4]: C#minormajor7 #G# /B#
+[C4, C#5, E5, B4]: [C#m7 omit G#]/[note C]
+[C4, C#5, E5, C5]: C#minormajor7 omit G# /B#
+[C4, C#5, E5, D5]: [Dmaj9 omit F#, A /C#]/[note C]
+[C4, C#5, E5, E5]: C#minormajor7 omit G# /B#
+[C4, C#5, E5, F5]: [Faugmaj7 omit A /C#]/[note C]
+[C4, C#5, E5, G5]: C#dim(Maj7)/B#
+[D4, D#4, F#4, A4]: D#dim(Maj7)/Cx
+[D4, D#4, F#4, B4]: D#minormajor7 #A# /Cx
+[D4, D#4, F#4, C5]: Cmadd2 bG /D
+[D4, D#4, F#4, D5]: D#minormajor7 omit A# /Cx
+[D4, D#4, F#4, E5]: [Emaj9 omit G#, B /D#]/[note D]
+[D4, D#4, F#4, F5]: D#minormajor9 omit A# sort as [3, 1, 2, 4]
+[D4, D#4, F#4, G5]: [Gaugmaj7 omit B /D#]/[note D]
+[D4, D#4, G#4, A4]: D#maj7sus4 bA# /Cx
+[D4, D#4, G#4, B4]: D#augmaj7 #Fx /Cx
+[D4, D#4, G#4, C5]: G#add4 #C# /Cx
+[D4, D#4, G#4, D5]: D#maj7sus4 omit A# /Cx
+[D4, D#4, G#4, E5]: [Emaj7 omit B sort as [3, 2, 1]]/[note D]
+[D4, D#4, G#4, F5]: D#maj9sus4 omit A# sort as [3, 1, 2, 4]
+[D4, D#4, G#4, G5]: G#maj7#11 omit B# sort as [4, 2, 1, 3]
+[D4, D#4, A4, A4]: D#maj7b5 omit Fx /Cx
+[D4, D#4, A4, B4]: D6sus2 bE
+[D4, D#4, A4, C5]: D7sus2 bE
+[D4, D#4, A4, D5]: D#maj7b5 omit Fx /Cx
+[D4, D#4, A4, E5]: Dmadd2 bE, bb3 sort as [1, 2, 4, 3]
+[D4, D#4, A4, F5]: D#maj9#11 omit Fx, A# sort as [2, 1, 4, 3]
+[D4, D#4, A4, G5]: D#maj7b5 sort as [4, 1, 3, 2]
+[D4, D#4, B4, A4]: D6sus2 bE sort as [1, 2, 4, 3]
+[D4, D#4, B4, B4]: D#augmaj7 omit Fx /Cx
+[D4, D#4, B4, C5]: Cminormajor9 omit G sort as [4, 2, 3, 1]
+[D4, D#4, B4, D5]: D#augmaj7 omit Fx /Cx
+[D4, D#4, B4, E5]: [Badd4 omit F# sort as [2, 1, 3]]/[note D]
+[D4, D#4, B4, F5]: D#augmaj9 omit Fx sort as [3, 1, 2, 4]
+[D4, D#4, B4, G5]: D#augmaj7 sort as [4, 1, 3, 2]
+[D4, D#4, C#5, A4]: Dmaj7sus2 bE sort as [1, 2, 4, 3]
+[D4, D#4, C#5, B4]: [Badd9 omit F# /D#]/[note D]
+[D4, D#4, C#5, C5]: [C#maj9 omit E#, G# /D#]/[note D]
+[D4, D#4, C#5, D5]: [D# with minor seventh]/[note D]
+[D4, D#4, C#5, E5]: [C#madd9 omit G# /D#]/[note D]
+[D4, D#4, C#5, F5]: [C#add9 omit G# /D#]/[note D]
+[D4, D#4, C#5, G5]: [D#aug6 sort as [1, 3, 2]]/[note D]
+[D4, D#4, D5, A4]: D#maj7b5 omit Fx /Cx
+[D4, D#4, D5, B4]: D#augmaj7 omit Fx /Cx
+[D4, D#4, D5, C5]: Cmadd2 omit G /D
+[D4, D#4, D5, D5]: D with minor second
+[D4, D#4, D5, E5]: [D# with minor second]/[note D]
+[D4, D#4, D5, F5]: D#maj7sus2 omit A# /Cx
+[D4, D#4, D5, G5]: D#maj7 omit A# /Cx
+[D4, D#4, E5, A4]: Dmadd2 bE, bb3
+[D4, D#4, E5, B4]: [Emaj7 omit G# /D#]/[note D]
+[D4, D#4, E5, C5]: [Eaugmaj7 omit G# /D#]/[note D]
+[D4, D#4, E5, D5]: [D# with minor second]/[note D]
+[D4, D#4, E5, E5]: [D# with minor second]/[note D]
+[D4, D#4, E5, F5]: [[E with minor second]/[note D#]]/[note D]
+[D4, D#4, E5, G5]: [Eminormajor7 omit B /D#]/[note D]
+[D4, E#4, F#4, A4]: Dadd2 #E
+[D4, E#4, F#4, B4]: F#augmaj7 #A# /Cx
+[D4, E#4, F#4, C5]: E#6sus2 bG /Cx
+[D4, E#4, F#4, D5]: F#augmaj7 omit A# /Cx
+[D4, E#4, F#4, E5]: [[F# with minor seventh]/[note E#]]/[note D]
+[D4, E#4, F#4, F5]: F#augmaj9 omit A#, G# sort as [2, 3, 1, 3]
+[D4, E#4, F#4, G5]: [[F# with minor second]/[note E#]]/[note D]
+[D4, E#4, G#4, A4]: Dmadd4 #G
+[D4, E#4, G#4, B4]: Ddim7
+[D4, E#4, G#4, C5]: Dhalf-diminished7
+[D4, E#4, G#4, D5]: Ddim
+[D4, E#4, G#4, E5]: Dmadd9 bA
+[D4, E#4, G#4, F5]: E#m69 omit B#, Fx sort as [3, 1, 2, 1]
+[D4, E#4, G#4, G5]: E#m13 omit B#, D#, A# /Cx
+[D4, E#4, A4, A4]: Dminor
+[D4, E#4, A4, B4]: Dm6
+[D4, E#4, A4, C5]: Dm7
+[D4, E#4, A4, D5]: Dminor
+[D4, E#4, A4, E5]: Dmadd9
+[D4, E#4, A4, F5]: Dmadd9 #E
+[D4, E#4, A4, G5]: Dmadd4 sort as [1, 2, 4, 3]
+[D4, E#4, B4, A4]: Dm6 sort as [1, 2, 4, 3]
+[D4, E#4, B4, B4]: Bdim/D
+[D4, E#4, B4, C5]: E#6sus4 #Bb /Cx
+[D4, E#4, B4, D5]: Bdim/D
+[D4, E#4, B4, E5]: Dm69 omit A
+[D4, E#4, B4, F5]: Dm69 omit A, E sort as [1, 2, 3, 2]
+[D4, E#4, B4, G5]: G7 sort as [3, 4, 2, 1]
+[D4, E#4, C#5, A4]: Dminormajor7 sort as [1, 2, 4, 3]
+[D4, E#4, C#5, B4]: Bmadd9 bF# /F
+[D4, E#4, C#5, C5]: [C#maj7 omit G# sort as [2, 1, 3]]/[note D]
+[D4, E#4, C#5, D5]: Dminormajor7 omit A
+[D4, E#4, C#5, E5]: Dminormajor9 omit A
+[D4, E#4, C#5, F5]: Dminormajor9 omit A, E sort as [1, 2, 3, 2]
+[D4, E#4, C#5, G5]: G13#11 omit B, A, E /D
+[D4, E#4, D5, A4]: Dminor
+[D4, E#4, D5, B4]: Bdim/D
+[D4, E#4, D5, C5]: Dm7 omit A
+[D4, E#4, D5, D5]: D with minor third
+[D4, E#4, D5, E5]: Dmadd9 omit A
+[D4, E#4, D5, F5]: [E# with perfect octave]/[note D]
+[D4, E#4, D5, G5]: Dmadd4 omit A
+[D4, E#4, E5, A4]: Dmadd2 sort as [1, 3, 2, 4]
+[D4, E#4, E5, B4]: Dm13 omit A, C, G
+[D4, E#4, E5, C5]: Dm9 omit A sort as [1, 2, 4, 3]
+[D4, E#4, E5, D5]: Dmadd9 omit A
+[D4, E#4, E5, E5]: Dmadd9 omit A
+[D4, E#4, E5, F5]: Dm9 omit A, C sort as [1, 2, 3, 2]
+[D4, E#4, E5, G5]: Dm11 omit A, C
+[D4, F#4, F#4, A4]: Dmajor
+[D4, F#4, F#4, B4]: Bminor/D
+[D4, F#4, F#4, C5]: Daug6
+[D4, F#4, F#4, D5]: D with major third
+[D4, F#4, F#4, E5]: Dadd9 omit A
+[D4, F#4, F#4, F5]: F#augmaj7 omit A# sort as [2, 1, 3]
+[D4, F#4, F#4, G5]: Dadd4 omit A
+[D4, F#4, G#4, A4]: Dadd4 #G
+[D4, F#4, G#4, B4]: G#half-diminished7/D
+[D4, F#4, G#4, C5]: Dfrenchsixth
+[D4, F#4, G#4, D5]: Dfrenchsixth omit C
+[D4, F#4, G#4, E5]: Dadd9 bA
+[D4, F#4, G#4, F5]: F#augmaj9 omit A# sort as [2, 1, 4, 3]
+[D4, F#4, G#4, G5]: Dadd4 bA sort as [1, 2, 4, 3]
+[D4, F#4, A4, A4]: Dmajor
+[D4, F#4, A4, B4]: Dadd6
+[D4, F#4, A4, C5]: D7
+[D4, F#4, A4, D5]: Dmajor
+[D4, F#4, A4, E5]: Dadd9
+[D4, F#4, A4, F5]: Dadd9 #E
+[D4, F#4, A4, G5]: Dadd4 sort as [1, 2, 4, 3]
+[D4, F#4, B4, A4]: Dadd6 sort as [1, 2, 4, 3]
+[D4, F#4, B4, B4]: Bminor/D
+[D4, F#4, B4, C5]: Daug7 #b6/#5
+[D4, F#4, B4, D5]: Bminor/D
+[D4, F#4, B4, E5]: D69 omit A
+[D4, F#4, B4, F5]: [F#maj7sus4 omit C#]/[note D]
+[D4, F#4, B4, G5]: Gmaj7 sort as [3, 4, 2, 1]
+[D4, F#4, C#5, A4]: Dmaj7 sort as [1, 2, 4, 3]
+[D4, F#4, C#5, B4]: Bmadd9/D
+[D4, F#4, C#5, C5]: [F#maj7#11 omit A#, E#]/[note D]
+[D4, F#4, C#5, D5]: Dmaj7 omit A
+[D4, F#4, C#5, E5]: Dmaj9 omit A
+[D4, F#4, C#5, F5]: [F#maj7 omit A#]/[note D]
+[D4, F#4, C#5, G5]: Gmaj7#11 omit B /D
+[D4, F#4, D5, A4]: Dmajor
+[D4, F#4, D5, B4]: Bminor/D
+[D4, F#4, D5, C5]: Daug6
+[D4, F#4, D5, D5]: D with major third
+[D4, F#4, D5, E5]: Dadd9 omit A
+[D4, F#4, D5, F5]: F#augmaj7 omit A# sort as [2, 1, 3]
+[D4, F#4, D5, G5]: Dadd4 omit A
+[D4, F#4, E5, A4]: Dadd2 sort as [1, 3, 2, 4]
+[D4, F#4, E5, B4]: E9 omit G# /D
+[D4, F#4, E5, C5]: Eaug9 omit G# /D
+[D4, F#4, E5, D5]: Dadd9 omit A
+[D4, F#4, E5, E5]: Dadd9 omit A
+[D4, F#4, E5, F5]: [[E with minor second]/[note F#]]/[note D]
+[D4, F#4, E5, G5]: Em9 omit B /D
+[D4, G#4, F#4, A4]: Amaj13sus4 omit E, B /D
+[D4, G#4, F#4, B4]: G#half-diminished7 sort as [3, 1, 4, 2]
+[D4, G#4, F#4, C5]: Dfrenchsixth sort as [1, 3, 2, 4]
+[D4, G#4, F#4, D5]: F#aug9 omit A#, E /Cx
+[D4, G#4, F#4, E5]: F#aug9 omit A# sort as [2, 4, 1, 3]
+[D4, G#4, F#4, F5]: F#augmaj9 omit A# sort as [2, 4, 1, 3]
+[D4, G#4, F#4, G5]: Dadd4 bA sort as [1, 4, 2, 3]
+[D4, G#4, G#4, A4]: Amaj7sus4 omit E /D
+[D4, G#4, G#4, B4]: G#dim/D
+[D4, G#4, G#4, C5]: Dhalf-diminished7 omit F
+[D4, G#4, G#4, D5]: D with diminished fifth
+[D4, G#4, G#4, E5]: Dfifth_9th bA
+[D4, G#4, G#4, F5]: Ddim sort as [1, 3, 2]
+[D4, G#4, G#4, G5]: G#maj7#11 omit B#, D# /Cx
+[D4, G#4, A4, A4]: Amaj7sus4 omit E /D
+[D4, G#4, A4, B4]: D6sus4 #G
+[D4, G#4, A4, C5]: D7sus4 #G
+[D4, G#4, A4, D5]: Amaj7sus4 omit E /D
+[D4, G#4, A4, E5]: Amaj7sus4 sort as [2, 4, 1, 3]
+[D4, G#4, A4, F5]: [Aaugmaj7 omit C# /G#]/[note D]
+[D4, G#4, A4, G5]: [[A with minor seventh]/[note G#]]/[note D]
+[D4, G#4, B4, A4]: Amaj9sus4 omit E /D
+[D4, G#4, B4, B4]: G#dim/D
+[D4, G#4, B4, C5]: Cmaj7sus2 #G /D
+[D4, G#4, B4, D5]: G#dim/D
+[D4, G#4, B4, E5]: E7 sort as [4, 2, 3, 1]
+[D4, G#4, B4, F5]: Ddim7 sort as [1, 3, 4, 2]
+[D4, G#4, B4, G5]: G#dim(Maj7) sort as [3, 1, 2, 4]
+[D4, G#4, C#5, A4]: Dmaj7#11 omit F# sort as [1, 4, 2, 3]
+[D4, G#4, C#5, B4]: Bm69 omit F# /D
+[D4, G#4, C#5, C5]: G#add4 bD# /C# sort as [1, 2, 4, 3]
+[D4, G#4, C#5, D5]: Dmaj7b5 omit F#
+[D4, G#4, C#5, E5]: Dmaj9#11 omit F#, A sort as [1, 4, 2, 3]
+[D4, G#4, C#5, F5]: Ddim(Maj7) sort as [1, 3, 4, 2]
+[D4, G#4, C#5, G5]: [G#maj7sus4 omit D#]/[note D]
+[D4, G#4, D5, A4]: Amaj7sus4 omit E /D
+[D4, G#4, D5, B4]: G#dim/D
+[D4, G#4, D5, C5]: Dhalf-diminished7 omit F
+[D4, G#4, D5, D5]: D with diminished fifth
+[D4, G#4, D5, E5]: Dfifth_9th bA
+[D4, G#4, D5, F5]: Ddim sort as [1, 3, 2]
+[D4, G#4, D5, G5]: G#maj7#11 omit B#, D# /Cx
+[D4, G#4, E5, A4]: Amaj7sus4 sort as [2, 4, 3, 1]
+[D4, G#4, E5, B4]: E7 sort as [4, 2, 1, 3]
+[D4, G#4, E5, C5]: Eaug7 sort as [4, 2, 1, 3]
+[D4, G#4, E5, D5]: Dfifth_9th bA
+[D4, G#4, E5, E5]: Dfifth_9th bA
+[D4, G#4, E5, F5]: Dmadd2 bA sort as [1, 4, 2, 3]
+[D4, G#4, E5, G5]: G6sus2 bA /Ab sort as [1, 4, 2, 3]
+[D4, A#4, F#4, A4]: A#augmaj7 sort as [2, 1, 3, 4]
+[D4, A#4, F#4, B4]: Bminormajor7 sort as [2, 4, 3, 1]
+[D4, A#4, F#4, C5]: Daug7 sort as [1, 3, 2, 4]
+[D4, A#4, F#4, D5]: Daug sort as [1, 3, 2]
+[D4, A#4, F#4, E5]: Daug9 omit C sort as [1, 3, 2, 4]
+[D4, A#4, F#4, F5]: F#augmaj7 sort as [3, 2, 1, 4]
+[D4, A#4, F#4, G5]: Gminormajor7 sort as [3, 2, 4, 1]
+[D4, A#4, G#4, A4]: [[G# with minor second]/[note A#]]/[note D]
+[D4, A#4, G#4, B4]: G#madd9 bD# /A#
+[D4, A#4, G#4, C5]: A#aug9 omit F# sort as [2, 1, 3, 4]
+[D4, A#4, G#4, D5]: A#aug6 sort as [2, 1, 3]
+[D4, A#4, G#4, E5]: A#frenchsixth sort as [2, 1, 4, 3]
+[D4, A#4, G#4, F5]: A#7 sort as [2, 1, 4, 3]
+[D4, A#4, G#4, G5]: G#maj9#11 omit B#, D# sort as [4, 3, 1, 2]
+[D4, A#4, A4, A4]: A#maj7 omit E# sort as [2, 1, 3]
+[D4, A#4, A4, B4]: [[A with major second]/[note A#]]/[note D]
+[D4, A#4, A4, C5]: C13sus2 omit G, F /D
+[D4, A#4, A4, D5]: A#maj7 omit E# sort as [2, 1, 3]
+[D4, A#4, A4, E5]: A#maj7#11 omit E# sort as [2, 1, 3, 4]
+[D4, A#4, A4, F5]: A#maj7 sort as [2, 1, 4, 3]
+[D4, A#4, A4, G5]: Gmadd9 sort as [3, 2, 4, 1]
+[D4, A#4, B4, A4]: [[B with minor seventh]/[note A#]]/[note D]
+[D4, A#4, B4, B4]: Bminormajor7 omit F# /D
+[D4, A#4, B4, C5]: [[B with minor second]/[note A#]]/[note D]
+[D4, A#4, B4, D5]: Bminormajor7 omit F# /D
+[D4, A#4, B4, E5]: E13#11 omit G#, F#, C# /A# sort as [1, 2, 4, 3]
+[D4, A#4, B4, F5]: Bdim(Maj7) sort as [2, 4, 1, 3]
+[D4, A#4, B4, G5]: [Baugmaj7 omit D# /A#]/[note D]
+[D4, A#4, C#5, A4]: [A#minormajor7 omit E#]/[note D]
+[D4, A#4, C#5, B4]: Bminormajor9 omit F# /D
+[D4, A#4, C#5, C5]: [A#madd9 omit E#]/[note D]
+[D4, A#4, C#5, D5]: Daugmaj7 omit F#
+[D4, A#4, C#5, E5]: Daugmaj9 omit F#
+[D4, A#4, C#5, F5]: [A#minor]/[note D]
+[D4, A#4, C#5, G5]: [Gdim/Bb]/[note D]
+[D4, A#4, D5, A4]: A#maj7 omit E# sort as [2, 1, 3]
+[D4, A#4, D5, B4]: Bminormajor7 omit F# /D
+[D4, A#4, D5, C5]: Daug7 omit F#
+[D4, A#4, D5, D5]: D with minor sixth
+[D4, A#4, D5, E5]: Daug9 omit F#, C
+[D4, A#4, D5, F5]: A#major sort as [2, 1, 3]
+[D4, A#4, D5, G5]: Gminor sort as [3, 2, 1]
+[D4, A#4, E5, A4]: A#maj7b5 sort as [2, 1, 3, 4]
+[D4, A#4, E5, B4]: E13#11 omit G#, F#, C# /D
+[D4, A#4, E5, C5]: Daug9 omit F# sort as [1, 2, 4, 3]
+[D4, A#4, E5, D5]: Daug9 omit F#, C
+[D4, A#4, E5, E5]: Daug9 omit F#, C
+[D4, A#4, E5, F5]: A#maj7#11 omit Gx sort as [2, 1, 4, 3]
+[D4, A#4, E5, G5]: Ehalf-diminished7 sort as [4, 3, 1, 2]
+[D4, B4, F#4, A4]: Dadd6 sort as [1, 4, 2, 3]
+[D4, B4, F#4, B4]: Bminor sort as [2, 1, 3]
+[D4, B4, F#4, C5]: Cmaj9#11 omit E, G sort as [3, 2, 4, 1]
+[D4, B4, F#4, D5]: Bminor sort as [2, 1, 3]
+[D4, B4, F#4, E5]: D69 omit A sort as [1, 3, 2, 4]
+[D4, B4, F#4, F5]: [Bmaj7#11 omit D#, A#]/[note D]
+[D4, B4, F#4, G5]: Gmaj7 sort as [3, 2, 4, 1]
+[D4, B4, G#4, A4]: Amaj9sus4 omit E sort as [2, 4, 3, 1]
+[D4, B4, G#4, B4]: G#dim sort as [3, 2, 1]
+[D4, B4, G#4, C5]: Caugmaj9 omit E sort as [4, 3, 2, 1]
+[D4, B4, G#4, D5]: G#dim sort as [3, 2, 1]
+[D4, B4, G#4, E5]: E7 sort as [4, 3, 2, 1]
+[D4, B4, G#4, F5]: Ddim7 sort as [1, 4, 3, 2]
+[D4, B4, G#4, G5]: G#dim(Maj7) sort as [3, 2, 1, 4]
+[D4, B4, A4, A4]: A9sus4 omit E, G /D
+[D4, B4, A4, B4]: A9sus4 omit E, G /D
+[D4, B4, A4, C5]: Cmaj13sus2 omit G, F /D
+[D4, B4, A4, D5]: A9sus4 omit E, G /D
+[D4, B4, A4, E5]: D6sus2 sort as [1, 4, 3, 2]
+[D4, B4, A4, F5]: Dm6 sort as [1, 4, 3, 2]
+[D4, B4, A4, G5]: D6sus4 sort as [1, 4, 3, 2]
+[D4, B4, B4, A4]: A9sus4 omit E, G /D
+[D4, B4, B4, B4]: D with major sixth
+[D4, B4, B4, C5]: Cmaj7sus2 omit G /D
+[D4, B4, B4, D5]: D with major sixth
+[D4, B4, B4, E5]: D6sus2 omit A sort as [1, 3, 2]
+[D4, B4, B4, F5]: Bdim sort as [2, 1, 3]
+[D4, B4, B4, G5]: Gmajor sort as [3, 2, 1]
+[D4, B4, C#5, A4]: Dmaj13sus4 omit G, E sort as [1, 4, 2, 3]
+[D4, B4, C#5, B4]: Bmadd2 omit F# /D
+[D4, B4, C#5, C5]: [[C# with major seventh]/[note B]]/[note D]
+[D4, B4, C#5, D5]: Bmadd2 omit F# /D
+[D4, B4, C#5, E5]: Dmaj13sus4 omit G, A sort as [1, 4, 2, 3]
+[D4, B4, C#5, F5]: [C#aug6/Ax]/[note D]
+[D4, B4, C#5, G5]: Dmaj13sus2 omit E, A sort as [1, 4, 2, 3]
+[D4, B4, D5, A4]: A9sus4 omit E, G /D
+[D4, B4, D5, B4]: D with major sixth
+[D4, B4, D5, C5]: Cmaj7sus2 omit G /D
+[D4, B4, D5, D5]: D with major sixth
+[D4, B4, D5, E5]: D6sus2 omit A sort as [1, 3, 2]
+[D4, B4, D5, F5]: Bdim sort as [2, 1, 3]
+[D4, B4, D5, G5]: Gmajor sort as [3, 2, 1]
+[D4, B4, E5, A4]: D6sus2 sort as [1, 4, 2, 3]
+[D4, B4, E5, B4]: D6sus2 omit A sort as [1, 3, 2]
+[D4, B4, E5, C5]: D13sus2 omit A, G sort as [1, 4, 2, 3]
+[D4, B4, E5, D5]: D6sus2 omit A sort as [1, 3, 2]
+[D4, B4, E5, E5]: D6sus2 omit A sort as [1, 3, 2]
+[D4, B4, E5, F5]: Dm69 omit A sort as [1, 3, 4, 2]
+[D4, B4, E5, G5]: Em7 sort as [4, 3, 1, 2]
+[D4, C#5, F#4, A4]: Dmaj7 sort as [1, 4, 2, 3]
+[D4, C#5, F#4, B4]: Bmadd2 sort as [3, 2, 4, 1]
+[D4, C#5, F#4, C5]: [C#maj7sus4 omit G#]/[note D]
+[D4, C#5, F#4, D5]: Dmaj7 omit A sort as [1, 3, 2]
+[D4, C#5, F#4, E5]: Dmaj9 omit A sort as [1, 3, 2, 4]
+[D4, C#5, F#4, F5]: [C#add4 omit G# sort as [1, 3, 2]]/[note D]
+[D4, C#5, F#4, G5]: Dmaj11 omit A, E sort as [1, 3, 2, 4]
+[D4, C#5, G#4, A4]: Dmaj7#11 omit F# sort as [1, 3, 4, 2]
+[D4, C#5, G#4, B4]: Dmaj13#11 omit F#, A, E
+[D4, C#5, G#4, C5]: G#add4 bD# /C# sort as [1, 4, 2, 3]
+[D4, C#5, G#4, D5]: Dmaj7b5 omit F# sort as [1, 3, 2]
+[D4, C#5, G#4, E5]: Dmaj9#11 omit F#, A sort as [1, 2, 4, 3]
+[D4, C#5, G#4, F5]: Ddim(Maj7) sort as [1, 4, 3, 2]
+[D4, C#5, G#4, G5]: [C#maj7#11 omit E#, B#]/[note D]
+[D4, C#5, A4, A4]: Dmaj7 omit F# sort as [1, 3, 2]
+[D4, C#5, A4, B4]: Dmaj13sus4 omit G, E sort as [1, 3, 2, 4]
+[D4, C#5, A4, C5]: [C#augmaj7 omit E#]/[note D]
+[D4, C#5, A4, D5]: Dmaj7 omit F# sort as [1, 3, 2]
+[D4, C#5, A4, E5]: Dmaj7sus2 sort as [1, 4, 3, 2]
+[D4, C#5, A4, F5]: Dminormajor7 sort as [1, 4, 3, 2]
+[D4, C#5, A4, G5]: Dmaj7sus4 sort as [1, 4, 3, 2]
+[D4, C#5, B4, A4]: Dmaj13sus4 omit G, E sort as [1, 3, 4, 2]
+[D4, C#5, B4, B4]: Bmadd9 omit F# /D
+[D4, C#5, B4, C5]: [[B with minor second]/[note C#]]/[note D]
+[D4, C#5, B4, D5]: Bmadd9 omit F# /D
+[D4, C#5, B4, E5]: Dmaj13sus4 omit G, A sort as [1, 2, 4, 3]
+[D4, C#5, B4, F5]: [C#aug6 sort as [1, 3, 2]]/[note D]
+[D4, C#5, B4, G5]: Dmaj13sus4 omit A, E sort as [1, 3, 4, 2]
+[D4, C#5, C#5, A4]: Dmaj7 omit F# sort as [1, 3, 2]
+[D4, C#5, C#5, B4]: Bmadd9 omit F# /D
+[D4, C#5, C#5, C5]: [C# with major seventh]/[note D]
+[D4, C#5, C#5, D5]: D with major seventh
+[D4, C#5, C#5, E5]: Dmaj9 omit F#, A
+[D4, C#5, C#5, F5]: Dminormajor7 omit A sort as [1, 3, 2]
+[D4, C#5, C#5, G5]: Gmaj7#11 omit B, F# /D
+[D4, C#5, D5, A4]: Dmaj7 omit F# sort as [1, 3, 2]
+[D4, C#5, D5, B4]: Bmadd9 omit F# /D
+[D4, C#5, D5, C5]: [C# with major seventh]/[note D]
+[D4, C#5, D5, D5]: D with major seventh
+[D4, C#5, D5, E5]: Dmaj9 omit F#, A
+[D4, C#5, D5, F5]: Dminormajor7 omit A sort as [1, 3, 2]
+[D4, C#5, D5, G5]: Gmaj7#11 omit B, F# /D
+[D4, C#5, E5, A4]: Dmaj7sus2 sort as [1, 4, 2, 3]
+[D4, C#5, E5, B4]: Dmaj13sus4 omit G, A
+[D4, C#5, E5, C5]: [C#minormajor7 omit G#]/[note D]
+[D4, C#5, E5, D5]: Dmaj9 omit F#, A
+[D4, C#5, E5, E5]: Dmaj9 omit F#, A
+[D4, C#5, E5, F5]: Dminormajor9 omit A sort as [1, 3, 4, 2]
+[D4, C#5, E5, G5]: Dmaj11 omit F#, A
+[Eb4, D#4, F#4, A4]: F#m69 omit C#, G# sort as [3, 3, 1, 2]
+[Eb4, D#4, F#4, B4]: B9 omit A, C# sort as [2, 2, 3, 1]
+[Eb4, D#4, F#4, C5]: Ebm69 omit Bb, F sort as [1, 1, 2, 3]
+[Eb4, D#4, F#4, D5]: Ebminormajor9 omit Bb, F sort as [1, 1, 2, 3]
+[Eb4, D#4, F#4, E5]: Emaj9 omit G#, B sort as [2, 2, 3, 1]
+[Eb4, D#4, F#4, F5]: Ebm9 omit Bb, Db sort as [1, 1, 2, 3]
+[Eb4, D#4, F#4, G5]: Gaugmaj9 omit B, A sort as [2, 2, 3, 1]
+[Eb4, D#4, G#4, A4]: Amaj7#11 omit C#, E sort as [3, 3, 2, 1]
+[Eb4, D#4, G#4, B4]: G#m9 omit F#, A# sort as [3, 3, 1, 2]
+[Eb4, D#4, G#4, C5]: Eb13sus4 omit Bb, Db, F sort as [1, 1, 2, 3]
+[Eb4, D#4, G#4, D5]: Ebmaj9sus4 omit Bb, F sort as [1, 1, 2, 3]
+[Eb4, D#4, G#4, E5]: Emaj9 omit B, F# sort as [3, 3, 2, 1]
+[Eb4, D#4, G#4, F5]: Eb9sus4 omit Bb, Db sort as [1, 1, 2, 3]
+[Eb4, D#4, G#4, G5]: Eb11 omit Bb, Db, F sort as [1, 1, 4, 3]
+[Eb4, D#4, A4, A4]: D#5(+octave) bA# /D#
+[Eb4, D#4, A4, B4]: Baug9 omit G, C# sort as [2, 2, 3, 1]
+[Eb4, D#4, A4, C5]: Cm69 omit G, D sort as [2, 2, 3, 1]
+[Eb4, D#4, A4, D5]: Ebmaj7#11 omit G, Bb sort as [1, 1, 4, 3]
+[Eb4, D#4, A4, E5]: Amaj7#11 omit C#, G# sort as [3, 3, 1, 2]
+[Eb4, D#4, A4, F5]: Ebmaj9#11 omit G, Bb, D sort as [1, 1, 4, 3]
+[Eb4, D#4, A4, G5]: Gaug9 omit B, F sort as [2, 2, 3, 1]
+[Eb4, D#4, B4, A4]: Baug9 omit G, C# sort as [2, 2, 1, 3]
+[Eb4, D#4, B4, B4]: D#5(+octave) #A# /D#
+[Eb4, D#4, B4, C5]: Cminormajor9 omit G, D sort as [2, 2, 3, 1]
+[Eb4, D#4, B4, D5]: Ebaugmaj9 omit G, F sort as [1, 1, 2, 3]
+[Eb4, D#4, B4, E5]: B11 omit F#, A, C# sort as [2, 2, 1, 3]
+[Eb4, D#4, B4, F5]: Ebaug9 omit G, Db sort as [1, 1, 2, 3]
+[Eb4, D#4, B4, G5]: Ebaug9 omit Db, F sort as [1, 1, 4, 3]
+[Eb4, D#4, C#5, A4]: C#aug9 omit E#, B sort as [3, 3, 1, 2]
+[Eb4, D#4, C#5, B4]: C#aug9 omit E#, A sort as [3, 3, 1, 2]
+[Eb4, D#4, C#5, C5]: Eb13sus4 omit Ab, Bb, F sort as [1, 1, 2, 3]
+[Eb4, D#4, C#5, D5]: [[C# with minor second]/[note D#]]/[note Eb]
+[Eb4, D#4, C#5, E5]: C#m9 omit G#, B sort as [3, 3, 1, 2]
+[Eb4, D#4, C#5, F5]: Ebaug9 omit G, Cb sort as [1, 1, 2, 3]
+[Eb4, D#4, C#5, G5]: Ebaug9 omit Cb, F sort as [1, 1, 4, 3]
+[Eb4, D#4, D5, A4]: Ebmaj7#11 omit G, Bb sort as [1, 1, 2, 3]
+[Eb4, D#4, D5, B4]: Ebaugmaj9 omit G, F sort as [1, 1, 4, 3]
+[Eb4, D#4, D5, C5]: Ebmaj13sus4 omit Ab, Bb, F sort as [1, 1, 2, 3]
+[Eb4, D#4, D5, D5]: [D# with major seventh]/[note Eb]
+[Eb4, D#4, D5, E5]: [[D with major second]/[note D#]]/[note Eb]
+[Eb4, D#4, D5, F5]: Ebmaj9 omit G, Bb sort as [1, 1, 2, 3]
+[Eb4, D#4, D5, G5]: Ebmaj9 omit Bb, F sort as [1, 1, 4, 3]
+[Eb4, D#4, E5, A4]: Emaj9sus4 omit B, F# sort as [3, 3, 1, 2]
+[Eb4, D#4, E5, B4]: Emaj9 omit G#, F# sort as [3, 3, 1, 2]
+[Eb4, D#4, E5, C5]: Eaugmaj9 omit G#, F# sort as [3, 3, 1, 2]
+[Eb4, D#4, E5, D5]: [[E with minor seventh]/[note D#]]/[note Eb]
+[Eb4, D#4, E5, E5]: [D# with minor second]/[note Eb]
+[Eb4, D#4, E5, F5]: [[E with minor second]/[note D#]]/[note Eb]
+[Eb4, D#4, E5, G5]: Eminormajor9 omit B, F# sort as [3, 3, 1, 2]
+[Eb4, E#4, F#4, A4]: Ebmadd2 bA#
+[Eb4, E#4, F#4, B4]: Ebmadd2 #A#
+[Eb4, E#4, F#4, C5]: E#7sus2 bG /D#
+[Eb4, E#4, F#4, D5]: Ebminormajor9 omit Bb sort as [1, 4, 2, 3]
+[Eb4, E#4, F#4, E5]: [[F# with minor seventh]/[note E#]]/[note Eb]
+[Eb4, E#4, F#4, F5]: F#maj13sus4 omit B, C#, G# sort as [3, 2, 1, 2]
+[Eb4, E#4, F#4, G5]: [[F# with minor second]/[note E#]]/[note Eb]
+[Eb4, E#4, G#4, A4]: G#6sus2 bA# /D#
+[Eb4, E#4, G#4, B4]: E#half-diminished7/D#
+[Eb4, E#4, G#4, C5]: E#m7/D#
+[Eb4, E#4, G#4, D5]: G#6sus4 #C# /D#
+[Eb4, E#4, G#4, E5]: [E#minormajor7 omit B#]/[note Eb]
+[Eb4, E#4, G#4, F5]: Eb11 omit G, Bb, Db sort as [1, 2, 3, 2]
+[Eb4, E#4, G#4, G5]: Eb11 omit Bb, Db sort as [1, 3, 4, 2]
+[Eb4, E#4, A4, A4]: E#aug6/C###
+[Eb4, E#4, A4, B4]: E#frenchsixth/C###
+[Eb4, E#4, A4, C5]: E#7/D#
+[Eb4, E#4, A4, D5]: Ebmaj7sus2 bA#
+[Eb4, E#4, A4, E5]: [E#maj7 omit B#]/[note Eb]
+[Eb4, E#4, A4, F5]: Ebmaj9#11 omit G, Bb, D sort as [1, 2, 3, 2]
+[Eb4, E#4, A4, G5]: Gaug9 omit B /D#
+[Eb4, E#4, B4, A4]: E#frenchsixth sort as [4, 1, 3, 2]
+[Eb4, E#4, B4, B4]: E#half-diminished7 omit G# /D#
+[Eb4, E#4, B4, C5]: Eb6sus2 #A#
+[Eb4, E#4, B4, D5]: Ebaugmaj9 omit G sort as [1, 4, 2, 3]
+[Eb4, E#4, B4, E5]: [E#maj7b5 omit Gx]/[note Eb]
+[Eb4, E#4, B4, F5]: Ebaug9 omit G, Db sort as [1, 3, 2, 3]
+[Eb4, E#4, B4, G5]: Gaug7 sort as [3, 4, 2, 1]
+[Eb4, E#4, C#5, A4]: E#aug7 sort as [4, 1, 3, 2]
+[Eb4, E#4, C#5, B4]: C#aug9 omit A sort as [4, 2, 1, 3]
+[Eb4, E#4, C#5, C5]: Eb13sus2 omit Bb, Ab
+[Eb4, E#4, C#5, D5]: [Dminormajor7 omit A /F]/[note Eb]
+[Eb4, E#4, C#5, E5]: [E#augmaj7 omit Gx]/[note Eb]
+[Eb4, E#4, C#5, F5]: Eb9sus2 omit Bb
+[Eb4, E#4, C#5, G5]: E#aug9 omit Gx sort as [3, 1, 2, 4]
+[Eb4, E#4, D5, A4]: Ebmaj9#11 omit G, Bb sort as [1, 3, 2, 4]
+[Eb4, E#4, D5, B4]: Ebaugmaj9 omit G sort as [1, 4, 2, 3]
+[Eb4, E#4, D5, C5]: Ebmaj13sus2 omit Bb, Ab
+[Eb4, E#4, D5, D5]: Ebmaj7sus2 omit Bb
+[Eb4, E#4, D5, E5]: [Dmadd2 omit A /F]/[note Eb]
+[Eb4, E#4, D5, F5]: Ebmaj9 omit G, Bb sort as [1, 3, 2, 3]
+[Eb4, E#4, D5, G5]: Ebmaj9 omit Bb sort as [1, 4, 2, 3]
+[Eb4, E#4, E5, A4]: [E#maj7 omit B# sort as [1, 3, 2]]/[note Eb]
+[Eb4, E#4, E5, B4]: [E#maj7b5 omit Gx sort as [1, 3, 2]]/[note Eb]
+[Eb4, E#4, E5, C5]: [E#maj7 omit Gx sort as [1, 3, 2]]/[note Eb]
+[Eb4, E#4, E5, D5]: [Dmadd9 omit A /F]/[note Eb]
+[Eb4, E#4, E5, E5]: [E# with major seventh]/[note Eb]
+[Eb4, E#4, E5, F5]: [[E with minor second]/[note E#]]/[note Eb]
+[Eb4, E#4, E5, G5]: [E#maj9 omit Gx, B#]/[note Eb]
+[Eb4, F#4, F#4, A4]: Ebdim
+[Eb4, F#4, F#4, B4]: Bmajor/D#
+[Eb4, F#4, F#4, C5]: Cdim/Eb
+[Eb4, F#4, F#4, D5]: Ebminormajor7 omit Bb
+[Eb4, F#4, F#4, E5]: Emaj9 omit G#, B /D#
+[Eb4, F#4, F#4, F5]: Ebmadd9 omit Bb
+[Eb4, F#4, F#4, G5]: Gaugmaj7 omit B /D#
+[Eb4, F#4, G#4, A4]: Ebmadd4 bA#
+[Eb4, F#4, G#4, B4]: G#m7/D#
+[Eb4, F#4, G#4, C5]: G#7/D#
+[Eb4, F#4, G#4, D5]: Ebdim(Maj7) bb5/#4
+[Eb4, F#4, G#4, E5]: F#13sus2 omit C#, B /D#
+[Eb4, F#4, G#4, F5]: F#maj13sus2 omit C#, B /D#
+[Eb4, F#4, G#4, G5]: [[G# with major seventh]/[note F#]]/[note Eb]
+[Eb4, F#4, A4, A4]: Ebdim
+[Eb4, F#4, A4, B4]: B7/D#
+[Eb4, F#4, A4, C5]: Ebdim7
+[Eb4, F#4, A4, D5]: Ebdim(Maj7)
+[Eb4, F#4, A4, E5]: Emaj11 omit G#, B /D#
+[Eb4, F#4, A4, F5]: Ebmadd9 bA#
+[Eb4, F#4, A4, G5]: Gaugmaj9 omit B /D#
+[Eb4, F#4, B4, A4]: B7 sort as [2, 3, 1, 4]
+[Eb4, F#4, B4, B4]: Bmajor/D#
+[Eb4, F#4, B4, C5]: Cdim(Maj7)/Eb
+[Eb4, F#4, B4, D5]: Ebminormajor7 #A#
+[Eb4, F#4, B4, E5]: F#13sus4 omit C#, G# /D#
+[Eb4, F#4, B4, F5]: F#maj13sus4 omit C#, G# /D#
+[Eb4, F#4, B4, G5]: Gaugmaj7 sort as [3, 4, 2, 1]
+[Eb4, F#4, C#5, A4]: Ebhalf-diminished7 sort as [1, 2, 4, 3]
+[Eb4, F#4, C#5, B4]: Badd9/D#
+[Eb4, F#4, C#5, C5]: C#maj11 omit E#, G# /D#
+[Eb4, F#4, C#5, D5]: [Dmaj7 omit A /F#]/[note Eb]
+[Eb4, F#4, C#5, E5]: F#13sus4 omit B, G# /D#
+[Eb4, F#4, C#5, F5]: Ebm9 omit Bb
+[Eb4, F#4, C#5, G5]: F#6sus2 bG# /C# sort as [1, 2, 4, 3]
+[Eb4, F#4, D5, A4]: Ebdim(Maj7) sort as [1, 2, 4, 3]
+[Eb4, F#4, D5, B4]: Badd9 #C# /F#
+[Eb4, F#4, D5, C5]: Cmadd9 bG /Gb
+[Eb4, F#4, D5, D5]: Ebminormajor7 omit Bb
+[Eb4, F#4, D5, E5]: [F#aug7 omit A#]/[note Eb]
+[Eb4, F#4, D5, F5]: Ebminormajor9 omit Bb
+[Eb4, F#4, D5, G5]: [Dadd4 omit A sort as [2, 1, 3]]/[note Eb]
+[Eb4, F#4, E5, A4]: Emaj9sus4 omit B /D#
+[Eb4, F#4, E5, B4]: Emaj9 omit G# /D#
+[Eb4, F#4, E5, C5]: Eaugmaj9 omit G# /D#
+[Eb4, F#4, E5, D5]: [Dadd9 omit A /F#]/[note Eb]
+[Eb4, F#4, E5, E5]: Emaj9 omit G#, B /D#
+[Eb4, F#4, E5, F5]: [[E with minor second]/[note F#]]/[note Eb]
+[Eb4, F#4, E5, G5]: Eminormajor9 omit B /D#
+[Eb4, G#4, F#4, A4]: F#m69 omit C# /D#
+[Eb4, G#4, F#4, B4]: G#m7 sort as [3, 1, 4, 2]
+[Eb4, G#4, F#4, C5]: G#7 sort as [3, 1, 4, 2]
+[Eb4, G#4, F#4, D5]: G#13#11 omit B#, A#, E# /Cx sort as [1, 4, 2, 3]
+[Eb4, G#4, F#4, E5]: Emaj9 omit B sort as [3, 2, 4, 1]
+[Eb4, G#4, F#4, F5]: G#13sus4 omit C#, A# sort as [2, 1, 3, 4]
+[Eb4, G#4, F#4, G5]: [[F# with minor second]/[note G#]]/[note Eb]
+[Eb4, G#4, G#4, A4]: Amaj7b5 omit C# /Eb
+[Eb4, G#4, G#4, B4]: G#minor/D#
+[Eb4, G#4, G#4, C5]: G#major/D#
+[Eb4, G#4, G#4, D5]: Ebmaj7sus4 omit Bb
+[Eb4, G#4, G#4, E5]: Emaj7 omit B sort as [3, 2, 1]
+[Eb4, G#4, G#4, F5]: Eb9sus4 omit Bb, Db
+[Eb4, G#4, G#4, G5]: Ebadd4 omit Bb sort as [1, 3, 2]
+[Eb4, G#4, A4, A4]: Amaj7b5 omit C# /Eb
+[Eb4, G#4, A4, B4]: G#madd2 bA# /D#
+[Eb4, G#4, A4, C5]: Adim(Maj7)/Eb
+[Eb4, G#4, A4, D5]: Ebmaj7sus4 bA#
+[Eb4, G#4, A4, E5]: Amaj7#11 omit C# sort as [4, 3, 1, 2]
+[Eb4, G#4, A4, F5]: [Aaugmaj7 omit C# /G#]/[note Eb]
+[Eb4, G#4, A4, G5]: [[A with minor seventh]/[note G#]]/[note Eb]
+[Eb4, G#4, B4, A4]: Amaj9#11 omit C#, E sort as [4, 2, 3, 1]
+[Eb4, G#4, B4, B4]: G#minor/D#
+[Eb4, G#4, B4, C5]: Eb6sus4 #A#
+[Eb4, G#4, B4, D5]: Ebaugmaj7 #Fx
+[Eb4, G#4, B4, E5]: Emaj7 sort as [4, 2, 3, 1]
+[Eb4, G#4, B4, F5]: G#m6 sort as [3, 1, 2, 4]
+[Eb4, G#4, B4, G5]: G#minormajor7 sort as [3, 1, 2, 4]
+[Eb4, G#4, C#5, A4]: Amaj7b5 sort as [3, 4, 2, 1]
+[Eb4, G#4, C#5, B4]: B69 omit F# /D#
+[Eb4, G#4, C#5, C5]: Eb13sus4 omit Bb, F
+[Eb4, G#4, C#5, D5]: G#add4 #B#, #C# sort as [4, 1, 3, 2]
+[Eb4, G#4, C#5, E5]: C#madd2 sort as [2, 4, 1, 3]
+[Eb4, G#4, C#5, F5]: Eb9sus4 omit Bb
+[Eb4, G#4, C#5, G5]: G#maj7sus4 sort as [3, 1, 2, 4]
+[Eb4, G#4, D5, A4]: Ebmaj7sus4 bA# sort as [1, 2, 4, 3]
+[Eb4, G#4, D5, B4]: Ebaugmaj7 #Fx sort as [1, 2, 4, 3]
+[Eb4, G#4, D5, C5]: Ebmaj13sus4 omit Bb, F
+[Eb4, G#4, D5, D5]: Ebmaj7sus4 omit Bb
+[Eb4, G#4, D5, E5]: [Eaug6/G#]/[note Eb]
+[Eb4, G#4, D5, F5]: Ebmaj9sus4 omit Bb
+[Eb4, G#4, D5, G5]: Ebmaj11 omit Bb, F sort as [1, 4, 2, 3]
+[Eb4, G#4, E5, A4]: Emaj11 omit B, F# sort as [3, 2, 1, 4]
+[Eb4, G#4, E5, B4]: Emaj7 sort as [4, 2, 1, 3]
+[Eb4, G#4, E5, C5]: Eaugmaj7 sort as [4, 2, 1, 3]
+[Eb4, G#4, E5, D5]: [Eaug6 sort as [2, 1, 3]]/[note Eb]
+[Eb4, G#4, E5, E5]: Emaj7 omit B sort as [3, 2, 1]
+[Eb4, G#4, E5, F5]: [Fminormajor7 omit C /Ab]/[note Eb]
+[Eb4, G#4, E5, G5]: [G#augmaj7 omit B#]/[note Eb]
+[Eb4, A#4, F#4, A4]: Ebmadd4 #G# sort as [1, 4, 2, 3]
+[Eb4, A#4, F#4, B4]: Bmaj7 sort as [2, 4, 3, 1]
+[Eb4, A#4, F#4, C5]: Ebm6 sort as [1, 3, 2, 4]
+[Eb4, A#4, F#4, D5]: Ebminormajor7 sort as [1, 3, 2, 4]
+[Eb4, A#4, F#4, E5]: Emaj9#11 omit G#, B sort as [2, 4, 3, 1]
+[Eb4, A#4, F#4, F5]: Ebmadd2 sort as [1, 4, 3, 2]
+[Eb4, A#4, F#4, G5]: Ebadd2 #E# sort as [1, 4, 2, 3]
+[Eb4, A#4, G#4, A4]: Ebadd4 #Fx, #G# sort as [1, 4, 2, 3]
+[Eb4, A#4, G#4, B4]: G#madd9/D#
+[Eb4, A#4, G#4, C5]: Eb6sus4 sort as [1, 3, 2, 4]
+[Eb4, A#4, G#4, D5]: Ebmaj7sus4 sort as [1, 3, 2, 4]
+[Eb4, A#4, G#4, E5]: Emaj7#11 omit B sort as [3, 4, 2, 1]
+[Eb4, A#4, G#4, F5]: Eb9sus4 omit Db sort as [1, 3, 2, 4]
+[Eb4, A#4, G#4, G5]: Ebadd4 sort as [1, 4, 3, 2]
+[Eb4, A#4, A4, A4]: Ebmaj7#11 omit G, D
+[Eb4, A#4, A4, B4]: [[A with major second]/[note A#]]/[note Eb]
+[Eb4, A#4, A4, C5]: A#maj11 omit Cx, E# /D#
+[Eb4, A#4, A4, D5]: Ebmaj7#11 omit G sort as [1, 2, 4, 3]
+[Eb4, A#4, A4, E5]: [A#maj7b5 omit Cx sort as [1, 3, 2]]/[note Eb]
+[Eb4, A#4, A4, F5]: Ebmaj9#11 omit G, D sort as [1, 2, 4, 3]
+[Eb4, A#4, A4, G5]: Ebmaj7#11 omit D sort as [1, 3, 4, 2]
+[Eb4, A#4, B4, A4]: [[B with minor seventh]/[note A#]]/[note Eb]
+[Eb4, A#4, B4, B4]: Bmaj7 omit F# /D#
+[Eb4, A#4, B4, C5]: [[B with minor second]/[note A#]]/[note Eb]
+[Eb4, A#4, B4, D5]: [Bminormajor7 omit F# /A#]/[note Eb]
+[Eb4, A#4, B4, E5]: Emaj7#11 omit G# sort as [3, 4, 2, 1]
+[Eb4, A#4, B4, F5]: Bmaj7b5 sort as [2, 4, 1, 3]
+[Eb4, A#4, B4, G5]: Baugmaj7 sort as [2, 4, 1, 3]
+[Eb4, A#4, C#5, A4]: Eb13#11 omit G, F, C
+[Eb4, A#4, C#5, B4]: Bmaj9 omit F# /D#
+[Eb4, A#4, C#5, C5]: Eb13sus4 omit Ab, F
+[Eb4, A#4, C#5, D5]: [Daugmaj7 omit F# /A#]/[note Eb]
+[Eb4, A#4, C#5, E5]: C#m13 omit G#, B, F# /D#
+[Eb4, A#4, C#5, F5]: Eb7sus2 sort as [1, 3, 4, 2]
+[Eb4, A#4, C#5, G5]: Eb7 sort as [1, 3, 4, 2]
+[Eb4, A#4, D5, A4]: Ebmaj7#11 omit G
+[Eb4, A#4, D5, B4]: [Bminormajor7 omit F# sort as [3, 2, 1]]/[note Eb]
+[Eb4, A#4, D5, C5]: Cm9 omit G /Eb
+[Eb4, A#4, D5, D5]: Ebmaj7 omit G
+[Eb4, A#4, D5, E5]: [A#frenchsixth omit G#]/[note Eb]
+[Eb4, A#4, D5, F5]: Ebmaj7sus2 sort as [1, 3, 4, 2]
+[Eb4, A#4, D5, G5]: Ebmaj7 sort as [1, 3, 4, 2]
+[Eb4, A#4, E5, A4]: Emaj7sus4 bB /Bb sort as [1, 4, 2, 3]
+[Eb4, A#4, E5, B4]: Emaj7#11 omit G# /D#
+[Eb4, A#4, E5, C5]: [A#fifth_9th bE#]/[note Eb]
+[Eb4, A#4, E5, D5]: [Daug9 omit F#, C /A#]/[note Eb]
+[Eb4, A#4, E5, E5]: Emaj7#11 omit G#, B /D#
+[Eb4, A#4, E5, F5]: Ebmadd2 bE#, bb3 sort as [1, 4, 2, 3]
+[Eb4, A#4, E5, G5]: Edim(Maj7) sort as [4, 3, 1, 2]
+[Eb4, B4, F#4, A4]: B7 sort as [2, 1, 3, 4]
+[Eb4, B4, F#4, B4]: Bmajor sort as [2, 1, 3]
+[Eb4, B4, F#4, C5]: Cdim(Maj7) sort as [2, 4, 3, 1]
+[Eb4, B4, F#4, D5]: [Bminor sort as [1, 3, 2]]/[note Eb]
+[Eb4, B4, F#4, E5]: Emaj9 omit G# sort as [3, 2, 4, 1]
+[Eb4, B4, F#4, F5]: Bmaj7#11 omit A# sort as [2, 1, 3, 4]
+[Eb4, B4, F#4, G5]: Gaugmaj7 sort as [3, 2, 4, 1]
+[Eb4, B4, G#4, A4]: Amaj9#11 omit C#, E sort as [4, 3, 2, 1]
+[Eb4, B4, G#4, B4]: G#minor sort as [3, 2, 1]
+[Eb4, B4, G#4, C5]: G#add9 #A# /Ax
+[Eb4, B4, G#4, D5]: [G#dim sort as [2, 1, 3]]/[note Eb]
+[Eb4, B4, G#4, E5]: Emaj7 sort as [4, 3, 2, 1]
+[Eb4, B4, G#4, F5]: G#m6 sort as [3, 2, 1, 4]
+[Eb4, B4, G#4, G5]: G#minormajor7 sort as [3, 2, 1, 4]
+[Eb4, B4, A4, A4]: Baug6 sort as [2, 1, 3]
+[Eb4, B4, A4, B4]: Baug6 sort as [2, 1, 3]
+[Eb4, B4, A4, C5]: Amadd9 bE /B
+[Eb4, B4, A4, D5]: [A9sus4 omit E, G /B]/[note Eb]
+[Eb4, B4, A4, E5]: B11 omit F#, C# sort as [2, 1, 3, 4]
+[Eb4, B4, A4, F5]: Bfrenchsixth sort as [2, 1, 4, 3]
+[Eb4, B4, A4, G5]: Gaug9 omit F sort as [3, 2, 4, 1]
+[Eb4, B4, B4, A4]: Baug6 sort as [2, 1, 3]
+[Eb4, B4, B4, B4]: Eb with minor sixth
+[Eb4, B4, B4, C5]: Cminormajor7 omit G /Eb
+[Eb4, B4, B4, D5]: Ebaugmaj7 omit G
+[Eb4, B4, B4, E5]: Badd4 omit F# sort as [2, 1, 3]
+[Eb4, B4, B4, F5]: Ebaug9 omit G, Db
+[Eb4, B4, B4, G5]: Ebaug sort as [1, 3, 2]
+[Eb4, B4, C#5, A4]: C#aug9 omit E# sort as [4, 3, 1, 2]
+[Eb4, B4, C#5, B4]: Ebaug7 omit G
+[Eb4, B4, C#5, C5]: [[C# with major seventh]/[note B]]/[note Eb]
+[Eb4, B4, C#5, D5]: [Bmadd2 omit F#]/[note Eb]
+[Eb4, B4, C#5, E5]: C#m9 omit G# sort as [4, 3, 1, 2]
+[Eb4, B4, C#5, F5]: Ebaug9 omit G
+[Eb4, B4, C#5, G5]: Ebaug7 sort as [1, 3, 4, 2]
+[Eb4, B4, D5, A4]: [Bm7 omit F#]/[note Eb]
+[Eb4, B4, D5, B4]: Ebaugmaj7 omit G
+[Eb4, B4, D5, C5]: Cminormajor9 omit G /Eb
+[Eb4, B4, D5, D5]: Ebaugmaj7 omit G
+[Eb4, B4, D5, E5]: [Bmadd4 omit F#]/[note Eb]
+[Eb4, B4, D5, F5]: Ebaugmaj9 omit G
+[Eb4, B4, D5, G5]: Ebaugmaj7 sort as [1, 3, 4, 2]
+[Eb4, B4, E5, A4]: Emaj7sus4 sort as [4, 3, 1, 2]
+[Eb4, B4, E5, B4]: Badd4 omit F# sort as [2, 1, 3]
+[Eb4, B4, E5, C5]: [Cmaj7 omit G sort as [3, 2, 1]]/[note Eb]
+[Eb4, B4, E5, D5]: [D69 omit F#, A /B]/[note Eb]
+[Eb4, B4, E5, E5]: Badd4 omit F# sort as [2, 1, 3]
+[Eb4, B4, E5, F5]: Emaj7sus2 bF# /B sort as [1, 4, 2, 3]
+[Eb4, B4, E5, G5]: Eminormajor7 sort as [4, 3, 1, 2]
+[Eb4, C#5, F#4, A4]: Ebhalf-diminished7 sort as [1, 4, 2, 3]
+[Eb4, C#5, F#4, B4]: C#9sus4 omit G# /D#
+[Eb4, C#5, F#4, C5]: C#maj9sus4 omit G# /D#
+[Eb4, C#5, F#4, D5]: [Dmaj7 omit A sort as [3, 2, 1]]/[note Eb]
+[Eb4, C#5, F#4, E5]: F#13sus4 omit B, G# sort as [4, 2, 1, 3]
+[Eb4, C#5, F#4, F5]: Ebm9 omit Bb sort as [1, 3, 2, 4]
+[Eb4, C#5, F#4, G5]: F#6sus2 bG# /C# sort as [1, 4, 2, 3]
+[Eb4, C#5, G#4, A4]: Amaj7b5 sort as [3, 2, 4, 1]
+[Eb4, C#5, G#4, B4]: C#9 omit E# /D#
+[Eb4, C#5, G#4, C5]: C#maj9 omit E# /D#
+[Eb4, C#5, G#4, D5]: [Dmaj7#11 omit F#, A /C#]/[note Eb]
+[Eb4, C#5, G#4, E5]: C#madd9 sort as [4, 1, 3, 2]
+[Eb4, C#5, G#4, F5]: Eb9sus4 omit Bb sort as [1, 3, 2, 4]
+[Eb4, C#5, G#4, G5]: Eb11 omit Bb, F sort as [1, 3, 4, 2]
+[Eb4, C#5, A4, A4]: C#aug9 omit E#, B /D#
+[Eb4, C#5, A4, B4]: C#aug9 omit E# /D#
+[Eb4, C#5, A4, C5]: C#augmaj9 omit E# /D#
+[Eb4, C#5, A4, D5]: [Aadd4 omit E sort as [2, 1, 3]]/[note Eb]
+[Eb4, C#5, A4, E5]: Amaj7#11 omit G# sort as [4, 2, 1, 3]
+[Eb4, C#5, A4, F5]: C#aug9 omit B sort as [4, 1, 3, 2]
+[Eb4, C#5, A4, G5]: Ebfrenchsixth sort as [1, 4, 3, 2]
+[Eb4, C#5, B4, A4]: C#aug9 omit E# sort as [4, 1, 3, 2]
+[Eb4, C#5, B4, B4]: Badd9 omit F# /D#
+[Eb4, C#5, B4, C5]: [[B with minor second]/[note C#]]/[note Eb]
+[Eb4, C#5, B4, D5]: [Bmadd9 omit F# /C#]/[note Eb]
+[Eb4, C#5, B4, E5]: C#m9 omit G# sort as [4, 1, 3, 2]
+[Eb4, C#5, B4, F5]: Ebaug9 omit G sort as [1, 3, 2, 4]
+[Eb4, C#5, B4, G5]: Ebaug7 sort as [1, 4, 3, 2]
+[Eb4, C#5, C#5, A4]: C#aug9 omit E#, B /D#
+[Eb4, C#5, C#5, B4]: Badd9 omit F# /D#
+[Eb4, C#5, C#5, C5]: C#maj9 omit E#, G# /D#
+[Eb4, C#5, C#5, D5]: [C# with minor second]/[note Eb]
+[Eb4, C#5, C#5, E5]: C#madd9 omit G# /D#
+[Eb4, C#5, C#5, F5]: C#add9 omit G# /D#
+[Eb4, C#5, C#5, G5]: Ebaug6 sort as [1, 3, 2]
+[Eb4, C#5, D5, A4]: [Dmaj7 omit F# /C#]/[note Eb]
+[Eb4, C#5, D5, B4]: [Bmadd2 omit F# /C#]/[note Eb]
+[Eb4, C#5, D5, C5]: [[D with minor seventh]/[note C#]]/[note Eb]
+[Eb4, C#5, D5, D5]: [C# with minor second]/[note Eb]
+[Eb4, C#5, D5, E5]: [Dmaj7sus2 omit A /C#]/[note Eb]
+[Eb4, C#5, D5, F5]: [Dminormajor7 omit A /C#]/[note Eb]
+[Eb4, C#5, D5, G5]: [Dmaj7sus4 omit A /C#]/[note Eb]
+[Eb4, C#5, E5, A4]: Emaj13sus4 omit B, F# /D#
+[Eb4, C#5, E5, B4]: C#m9 omit G# /D#
+[Eb4, C#5, E5, C5]: C#minormajor9 omit G# /D#
+[Eb4, C#5, E5, D5]: [Dmaj9 omit F#, A /C#]/[note Eb]
+[Eb4, C#5, E5, E5]: C#madd9 omit G# /D#
+[Eb4, C#5, E5, F5]: [Faugmaj7 omit A /C#]/[note Eb]
+[Eb4, C#5, E5, G5]: C#madd9 bG# /D#
+[F4, D#4, F#4, A4]: D#madd9 bA# /E#
+[F4, D#4, F#4, B4]: F#maj13sus4 omit C#, G# /E#
+[F4, D#4, F#4, C5]: D#m69 omit A# /E#
+[F4, D#4, F#4, D5]: D#minormajor9 omit A# /E#
+[F4, D#4, F#4, E5]: [Emaj9 omit G#, B /D#]/[note F]
+[F4, D#4, F#4, F5]: D#madd9 omit A# /E#
+[F4, D#4, F#4, G5]: [Gaugmaj7 omit B /D#]/[note F]
+[F4, D#4, G#4, A4]: G#6sus2 bA# /D# sort as [1, 4, 2, 3]
+[F4, D#4, G#4, B4]: Fhalf-diminished7 sort as [1, 4, 2, 3]
+[F4, D#4, G#4, C5]: Fm7 sort as [1, 4, 2, 3]
+[F4, D#4, G#4, D5]: D#maj9sus4 omit A# /E#
+[F4, D#4, G#4, E5]: [Emaj7 omit B sort as [3, 2, 1]]/[note F]
+[F4, D#4, G#4, F5]: D#9sus4 omit A#, C# /E#
+[F4, D#4, G#4, G5]: Fm9 omit C sort as [1, 3, 2, 4]
+[F4, D#4, A4, A4]: Faug6 sort as [1, 3, 2]
+[F4, D#4, A4, B4]: Ffrenchsixth sort as [1, 4, 2, 3]
+[F4, D#4, A4, C5]: F7 sort as [1, 4, 2, 3]
+[F4, D#4, A4, D5]: D#maj9#11 omit Fx, A# sort as [3, 1, 4, 2]
+[F4, D#4, A4, E5]: [Amaj7#11 omit C#, G# /D#]/[note F]
+[F4, D#4, A4, F5]: Faug6 sort as [1, 3, 2]
+[F4, D#4, A4, G5]: Faug9 omit Db sort as [1, 3, 2, 4]
+[F4, D#4, B4, A4]: Ffrenchsixth sort as [1, 4, 3, 2]
+[F4, D#4, B4, B4]: D#aug9 omit Fx, C# /E#
+[F4, D#4, B4, C5]: F7sus4 #Bb sort as [1, 4, 2, 3]
+[F4, D#4, B4, D5]: D#augmaj9 omit Fx /E#
+[F4, D#4, B4, E5]: [Badd4 omit F# sort as [2, 1, 3]]/[note F]
+[F4, D#4, B4, F5]: D#aug9 omit Fx, C# /E#
+[F4, D#4, B4, G5]: D#aug9 omit C# sort as [4, 1, 3, 2]
+[F4, D#4, C#5, A4]: Faug7 sort as [1, 4, 3, 2]
+[F4, D#4, C#5, B4]: D#aug9 omit Fx sort as [4, 1, 3, 2]
+[F4, D#4, C#5, C5]: C#maj9 omit G# sort as [2, 4, 1, 3]
+[F4, D#4, C#5, D5]: [[C# with minor second]/[note D#]]/[note F]
+[F4, D#4, C#5, E5]: [C#madd9 omit G# /D#]/[note F]
+[F4, D#4, C#5, F5]: C#add9 omit G# /E#
+[F4, D#4, C#5, G5]: Faug9 omit A sort as [1, 3, 2, 4]
+[F4, D#4, D5, A4]: D#maj9#11 omit Fx, A# sort as [3, 1, 2, 4]
+[F4, D#4, D5, B4]: D#augmaj9 omit Fx sort as [4, 1, 3, 2]
+[F4, D#4, D5, C5]: F13sus4 omit Bb, G sort as [1, 3, 4, 2]
+[F4, D#4, D5, D5]: D#maj9 omit Fx, A# /E#
+[F4, D#4, D5, E5]: [[D with major second]/[note D#]]/[note F]
+[F4, D#4, D5, F5]: D#maj9 omit Fx, A# /E#
+[F4, D#4, D5, G5]: F13sus4 omit Bb, C sort as [1, 2, 4, 3]
+[F4, D#4, E5, A4]: [Emaj7sus4 omit B /D#]/[note F]
+[F4, D#4, E5, B4]: [Emaj7 omit G# /D#]/[note F]
+[F4, D#4, E5, C5]: [Eaugmaj7 omit G# /D#]/[note F]
+[F4, D#4, E5, D5]: [[E with minor seventh]/[note D#]]/[note F]
+[F4, D#4, E5, E5]: [D# with minor second]/[note F]
+[F4, D#4, E5, F5]: [D# with minor second]/[note F]
+[F4, D#4, E5, G5]: [Eminormajor7 omit B /D#]/[note F]
+[F4, E#4, F#4, A4]: F#minormajor9 omit C#, G# sort as [3, 3, 1, 2]
+[F4, E#4, F#4, B4]: F#maj9sus4 omit C#, G# sort as [3, 3, 1, 2]
+[F4, E#4, F#4, C5]: F#maj7#11 omit A#, C# sort as [2, 2, 1, 3]
+[F4, E#4, F#4, D5]: F#augmaj9 omit A#, G# sort as [3, 3, 1, 2]
+[F4, E#4, F#4, E5]: [[F# with minor seventh]/[note E#]]/[note F]
+[F4, E#4, F#4, F5]: [E# with minor second]/[note F]
+[F4, E#4, F#4, G5]: [[F# with minor second]/[note E#]]/[note F]
+[F4, E#4, G#4, A4]: Aaugmaj9 omit C#, B sort as [2, 2, 3, 1]
+[F4, E#4, G#4, B4]: G#m69 omit D#, A# sort as [3, 3, 1, 2]
+[F4, E#4, G#4, C5]: Fm9 omit Eb, G sort as [1, 1, 2, 3]
+[F4, E#4, G#4, D5]: Fm69 omit C, G sort as [1, 1, 2, 3]
+[F4, E#4, G#4, E5]: Fminormajor9 omit C, G sort as [1, 1, 2, 3]
+[F4, E#4, G#4, F5]: [E# with minor third]/[note F]
+[F4, E#4, G#4, G5]: Fm9 omit C, Eb sort as [1, 1, 2, 3]
+[F4, E#4, A4, A4]: [E# with major third]/[note F]
+[F4, E#4, A4, B4]: Fmaj7#11 omit C, E sort as [1, 1, 2, 3]
+[F4, E#4, A4, C5]: F9 omit Eb, G sort as [1, 1, 2, 3]
+[F4, E#4, A4, D5]: F69 omit C, G sort as [1, 1, 2, 3]
+[F4, E#4, A4, E5]: Fmaj9 omit C, G sort as [1, 1, 2, 3]
+[F4, E#4, A4, F5]: [E# with major third]/[note F]
+[F4, E#4, A4, G5]: Faug9 omit Db, Eb sort as [1, 1, 2, 3]
+[F4, E#4, B4, A4]: Aaug9 omit C#, G sort as [2, 2, 3, 1]
+[F4, E#4, B4, B4]: E#5(+octave) bC /E#
+[F4, E#4, B4, C5]: Cmaj9sus4 omit G, D sort as [2, 2, 3, 1]
+[F4, E#4, B4, D5]: Dm69 omit A, E sort as [2, 2, 3, 1]
+[F4, E#4, B4, E5]: Fmaj7#11 omit A, C sort as [1, 1, 4, 3]
+[F4, E#4, B4, F5]: E#5(+octave) bC /E#
+[F4, E#4, B4, G5]: Fmaj9#11 omit A, C, E sort as [1, 1, 4, 3]
+[F4, E#4, C#5, A4]: Faug9 omit Eb, G sort as [1, 1, 4, 3]
+[F4, E#4, C#5, B4]: C#aug9 omit A, D# sort as [2, 2, 1, 3]
+[F4, E#4, C#5, C5]: C#maj9 omit G#, D# sort as [2, 2, 1, 3]
+[F4, E#4, C#5, D5]: Dminormajor9 omit A, E sort as [2, 2, 3, 1]
+[F4, E#4, C#5, E5]: Faugmaj9 omit A, G sort as [1, 1, 2, 3]
+[F4, E#4, C#5, F5]: E#5(+octave) #C /E#
+[F4, E#4, C#5, G5]: Faug9 omit A, Eb sort as [1, 1, 2, 3]
+[F4, E#4, D5, A4]: F69 omit C, G sort as [1, 1, 4, 3]
+[F4, E#4, D5, B4]: Dm69 omit A, E sort as [2, 2, 1, 3]
+[F4, E#4, D5, C5]: C9sus4 omit G, Bb sort as [2, 2, 3, 1]
+[F4, E#4, D5, D5]: [E# with major sixth]/[note F]
+[F4, E#4, D5, E5]: Fmaj13sus4 omit Bb, C, G sort as [1, 1, 4, 3]
+[F4, E#4, D5, F5]: [E# with major sixth]/[note F]
+[F4, E#4, D5, G5]: F69 omit A, C sort as [1, 1, 2, 3]
+[F4, E#4, E5, A4]: Fmaj9 omit C, G sort as [1, 1, 4, 3]
+[F4, E#4, E5, B4]: Fmaj7#11 omit A, C sort as [1, 1, 2, 3]
+[F4, E#4, E5, C5]: Fmaj9 omit A, G sort as [1, 1, 4, 3]
+[F4, E#4, E5, D5]: Fmaj13sus4 omit Bb, C, G sort as [1, 1, 2, 3]
+[F4, E#4, E5, E5]: [E# with major seventh]/[note F]
+[F4, E#4, E5, F5]: [E# with major seventh]/[note F]
+[F4, E#4, E5, G5]: Fmaj9 omit A, C sort as [1, 1, 2, 3]
+[F4, F#4, F#4, A4]: F#minormajor7 omit C# /E#
+[F4, F#4, F#4, B4]: F#maj7sus4 omit C# /E#
+[F4, F#4, F#4, C5]: F#maj7b5 omit A# /E#
+[F4, F#4, F#4, D5]: F#augmaj7 omit A# /E#
+[F4, F#4, F#4, E5]: [F# with minor seventh]/[note F]
+[F4, F#4, F#4, F5]: F with minor second
+[F4, F#4, F#4, G5]: [F# with minor second]/[note F]
+[F4, F#4, G#4, A4]: F#minormajor9 omit C# sort as [3, 1, 4, 2]
+[F4, F#4, G#4, B4]: B6sus4 #E /E#
+[F4, F#4, G#4, C5]: Fmadd2 bG
+[F4, F#4, G#4, D5]: F#maj7sus2 #C# /E#
+[F4, F#4, G#4, E5]: [F#7sus2 omit C#]/[note F]
+[F4, F#4, G#4, F5]: F#maj7sus2 omit C# /E#
+[F4, F#4, G#4, G5]: [[G# with major seventh]/[note F#]]/[note F]
+[F4, F#4, A4, A4]: F#minormajor7 omit C# /E#
+[F4, F#4, A4, B4]: F#dim(Maj7) bb5/#4
+[F4, F#4, A4, C5]: F#dim(Maj7)/E#
+[F4, F#4, A4, D5]: F#minormajor7 #C# /E#
+[F4, F#4, A4, E5]: [F#m7 omit C#]/[note F]
+[F4, F#4, A4, F5]: F#minormajor7 omit C# /E#
+[F4, F#4, A4, G5]: [Gmaj9 omit B, D /F#]/[note F]
+[F4, F#4, B4, A4]: F#dim(Maj7) bb5/#4 sort as [1, 2, 4, 3]
+[F4, F#4, B4, B4]: F#maj7sus4 omit C# /E#
+[F4, F#4, B4, C5]: F#maj7sus4 bC# /E#
+[F4, F#4, B4, D5]: F#augmaj7 #A# /E#
+[F4, F#4, B4, E5]: Badd4 #D#, #E sort as [2, 4, 1, 3]
+[F4, F#4, B4, F5]: F#maj7sus4 omit C# /E#
+[F4, F#4, B4, G5]: [Gmaj7 omit D sort as [3, 2, 1]]/[note F]
+[F4, F#4, C#5, A4]: F#minormajor7 sort as [4, 1, 3, 2]
+[F4, F#4, C#5, B4]: F#maj7sus4 sort as [4, 1, 3, 2]
+[F4, F#4, C#5, C5]: F#maj7#11 omit A# sort as [3, 1, 2, 4]
+[F4, F#4, C#5, D5]: [Dmaj7 omit A /F#]/[note F]
+[F4, F#4, C#5, E5]: [F#m7 omit A]/[note F]
+[F4, F#4, C#5, F5]: F#maj7 omit A# /E#
+[F4, F#4, C#5, G5]: F#maj7sus2 bG# /C# sort as [1, 2, 4, 3]
+[F4, F#4, D5, A4]: F#minormajor7 #C# /Cx sort as [1, 2, 4, 3]
+[F4, F#4, D5, B4]: F#augmaj7 #A# /Cx sort as [1, 2, 4, 3]
+[F4, F#4, D5, C5]: F6sus2 bG sort as [1, 2, 4, 3]
+[F4, F#4, D5, D5]: F#augmaj7 omit A# /E#
+[F4, F#4, D5, E5]: [F#aug7 omit A#]/[note F]
+[F4, F#4, D5, F5]: F#augmaj7 omit A# /E#
+[F4, F#4, D5, G5]: [Dadd4 omit A sort as [2, 1, 3]]/[note F]
+[F4, F#4, E5, A4]: [E9sus4 omit B, D /F#]/[note F]
+[F4, F#4, E5, B4]: Badd4 #D#, #E sort as [2, 4, 3, 1]
+[F4, F#4, E5, C5]: Fmaj7sus2 bG sort as [1, 2, 4, 3]
+[F4, F#4, E5, D5]: [Dadd9 omit A /F#]/[note F]
+[F4, F#4, E5, E5]: [F# with minor seventh]/[note F]
+[F4, F#4, E5, F5]: [F# with minor seventh]/[note F]
+[F4, F#4, E5, G5]: [Emadd9 omit B /F#]/[note F]
+[F4, G#4, F#4, A4]: F#minormajor9 omit C# /E#
+[F4, G#4, F#4, B4]: F#maj9sus4 omit C# /E#
+[F4, G#4, F#4, C5]: F#maj9#11 omit A#, C# sort as [2, 3, 1, 4]
+[F4, G#4, F#4, D5]: F#augmaj9 omit A# /E#
+[F4, G#4, F#4, E5]: [Eadd9 omit B /G#]/[note F]
+[F4, G#4, F#4, F5]: F#maj9 omit A#, C# /E#
+[F4, G#4, F#4, G5]: [[F# with minor second]/[note G#]]/[note F]
+[F4, G#4, G#4, A4]: Aaugmaj7 omit C# /E#
+[F4, G#4, G#4, B4]: Fdim
+[F4, G#4, G#4, C5]: Fminor
+[F4, G#4, G#4, D5]: Ddim/F
+[F4, G#4, G#4, E5]: Fminormajor7 omit C
+[F4, G#4, G#4, F5]: F with minor third
+[F4, G#4, G#4, G5]: Fmadd9 omit C
+[F4, G#4, A4, A4]: Aaugmaj7 omit C# /E#
+[F4, G#4, A4, B4]: Amaj7sus2 #E /E#
+[F4, G#4, A4, C5]: Fadd2 #G
+[F4, G#4, A4, D5]: Aaugmaj7 #C# /E#
+[F4, G#4, A4, E5]: [Amaj7 omit C# /G#]/[note F]
+[F4, G#4, A4, F5]: Aaugmaj7 omit C# /E#
+[F4, G#4, A4, G5]: [[A with minor seventh]/[note G#]]/[note F]
+[F4, G#4, B4, A4]: Aaugmaj9 omit C# /E#
+[F4, G#4, B4, B4]: Fdim
+[F4, G#4, B4, C5]: Fmadd4 #Bb
+[F4, G#4, B4, D5]: Fdim7
+[F4, G#4, B4, E5]: Fdim(Maj7)
+[F4, G#4, B4, F5]: Fdim
+[F4, G#4, B4, G5]: Fmadd9 bC
+[F4, G#4, C#5, A4]: Aaugmaj7 sort as [3, 4, 2, 1]
+[F4, G#4, C#5, B4]: C#7 sort as [2, 3, 1, 4]
+[F4, G#4, C#5, C5]: C#maj7 sort as [2, 3, 1, 4]
+[F4, G#4, C#5, D5]: Ddim(Maj7)/F
+[F4, G#4, C#5, E5]: Fminormajor7 #C
+[F4, G#4, C#5, F5]: C#major/E#
+[F4, G#4, C#5, G5]: G#maj13sus4 omit D#, A# /E#
+[F4, G#4, D5, A4]: Aaugmaj7 #C# /G# sort as [1, 2, 4, 3]
+[F4, G#4, D5, B4]: Fdim7 sort as [1, 2, 4, 3]
+[F4, G#4, D5, C5]: Fm6 sort as [1, 2, 4, 3]
+[F4, G#4, D5, D5]: Ddim/F
+[F4, G#4, D5, E5]: Dmadd2 bA /F
+[F4, G#4, D5, F5]: Ddim/F
+[F4, G#4, D5, G5]: Fm69 omit C
+[F4, G#4, E5, A4]: [Eadd4 omit B sort as [2, 1, 3]]/[note F]
+[F4, G#4, E5, B4]: Fdim(Maj7) sort as [1, 2, 4, 3]
+[F4, G#4, E5, C5]: Fminormajor7 sort as [1, 2, 4, 3]
+[F4, G#4, E5, D5]: Dmadd9 bA /Ab
+[F4, G#4, E5, E5]: Fminormajor7 omit C
+[F4, G#4, E5, F5]: Fminormajor7 omit C
+[F4, G#4, E5, G5]: Fminormajor9 omit C
+[F4, A#4, F#4, A4]: [A#augmaj7 omit Cx]/[note F]
+[F4, A#4, F#4, B4]: F#maj11 omit C#, G# sort as [3, 2, 1, 4]
+[F4, A#4, F#4, C5]: F#maj7b5 sort as [4, 2, 1, 3]
+[F4, A#4, F#4, D5]: F#augmaj7 sort as [4, 2, 1, 3]
+[F4, A#4, F#4, E5]: [F#aug6 sort as [2, 1, 3]]/[note F]
+[F4, A#4, F#4, F5]: F#maj7 omit C# sort as [3, 2, 1]
+[F4, A#4, F#4, G5]: [Gminormajor7 omit D /Bb]/[note F]
+[F4, A#4, G#4, A4]: [[G# with minor second]/[note A#]]/[note F]
+[F4, A#4, G#4, B4]: G#m69 omit D# /E#
+[F4, A#4, G#4, C5]: Fmadd4 sort as [1, 3, 2, 4]
+[F4, A#4, G#4, D5]: A#7 sort as [3, 1, 4, 2]
+[F4, A#4, G#4, E5]: A#13#11 omit Cx, B#, Fx /Dx sort as [1, 4, 2, 3]
+[F4, A#4, G#4, F5]: G#69 omit B#, D# /E#
+[F4, A#4, G#4, G5]: A#13sus4 omit D#, B# sort as [2, 1, 3, 4]
+[F4, A#4, A4, A4]: Fadd4 omit C sort as [1, 3, 2]
+[F4, A#4, A4, B4]: [[A with major second]/[note A#]]/[note F]
+[F4, A#4, A4, C5]: Fadd4 sort as [1, 3, 2, 4]
+[F4, A#4, A4, D5]: A#maj7 sort as [3, 1, 4, 2]
+[F4, A#4, A4, E5]: A#maj7#11 omit Cx sort as [2, 1, 3, 4]
+[F4, A#4, A4, F5]: Fadd4 omit C sort as [1, 3, 2]
+[F4, A#4, A4, G5]: Gm9 omit D sort as [3, 2, 4, 1]
+[F4, A#4, B4, A4]: [[B with minor seventh]/[note A#]]/[note F]
+[F4, A#4, B4, B4]: Bmaj7b5 omit D# /F
+[F4, A#4, B4, C5]: Fadd4 #A, #Bb
+[F4, A#4, B4, D5]: Bdim(Maj7)/F
+[F4, A#4, B4, E5]: Fmaj7sus4 bC
+[F4, A#4, B4, F5]: Bmaj7b5 omit D# /F
+[F4, A#4, B4, G5]: [Baugmaj7 omit D# /A#]/[note F]
+[F4, A#4, C#5, A4]: A#minormajor7 sort as [3, 1, 2, 4]
+[F4, A#4, C#5, B4]: Bmaj9#11 omit D#, F# sort as [4, 2, 3, 1]
+[F4, A#4, C#5, C5]: A#madd2 sort as [4, 1, 3, 2]
+[F4, A#4, C#5, D5]: F6sus4 #C
+[F4, A#4, C#5, E5]: Faugmaj7 #A
+[F4, A#4, C#5, F5]: A#minor/E#
+[F4, A#4, C#5, G5]: A#m6 sort as [3, 1, 2, 4]
+[F4, A#4, D5, A4]: A#maj7 sort as [3, 1, 2, 4]
+[F4, A#4, D5, B4]: Bdim(Maj7) sort as [3, 4, 2, 1]
+[F4, A#4, D5, C5]: F6sus4 sort as [1, 2, 4, 3]
+[F4, A#4, D5, D5]: A#major/E#
+[F4, A#4, D5, E5]: A#add4 #D# /E#
+[F4, A#4, D5, F5]: A#major/E#
+[F4, A#4, D5, G5]: F13sus4 omit C, Eb sort as [1, 2, 4, 3]
+[F4, A#4, E5, A4]: Fmaj11 omit C, G sort as [1, 4, 2, 3]
+[F4, A#4, E5, B4]: Fmaj7sus4 bC sort as [1, 2, 4, 3]
+[F4, A#4, E5, C5]: Fmaj7sus4 sort as [1, 2, 4, 3]
+[F4, A#4, E5, D5]: Fmaj13sus4 omit C, G
+[F4, A#4, E5, E5]: Fmaj7sus4 omit C
+[F4, A#4, E5, F5]: Fmaj7sus4 omit C
+[F4, A#4, E5, G5]: Fmaj9sus4 omit C
+[F4, B4, F#4, A4]: B13#11 omit D#, C#, G# /E#
+[F4, B4, F#4, B4]: Bmaj7#11 omit D#, A# /E#
+[F4, B4, F#4, C5]: [Cmaj7#11 omit E, G /B]/[note F]
+[F4, B4, F#4, D5]: [Bminor sort as [1, 3, 2]]/[note F]
+[F4, B4, F#4, E5]: [Bsus sort as [1, 3, 2]]/[note F]
+[F4, B4, F#4, F5]: Bmaj7#11 omit D#, A# /E#
+[F4, B4, F#4, G5]: [Gmaj7 omit D /B]/[note F]
+[F4, B4, G#4, A4]: Aaugmaj9 omit C# sort as [2, 4, 3, 1]
+[F4, B4, G#4, B4]: Fdim sort as [1, 3, 2]
+[F4, B4, G#4, C5]: [Caugmaj7 omit E sort as [3, 2, 1]]/[note F]
+[F4, B4, G#4, D5]: Fdim7 sort as [1, 3, 2, 4]
+[F4, B4, G#4, E5]: Fdim(Maj7) sort as [1, 3, 2, 4]
+[F4, B4, G#4, F5]: Fdim sort as [1, 3, 2]
+[F4, B4, G#4, G5]: [G#minormajor7 omit D# sort as [2, 1, 3]]/[note F]
+[F4, B4, A4, A4]: Aaug9 omit C#, G /E#
+[F4, B4, A4, B4]: Aaug9 omit C#, G /E#
+[F4, B4, A4, C5]: Cmaj13sus4 omit G, D /F
+[F4, B4, A4, D5]: Bhalf-diminished7 sort as [3, 1, 4, 2]
+[F4, B4, A4, E5]: Fmaj7b5 sort as [1, 3, 2, 4]
+[F4, B4, A4, F5]: Aaug9 omit C#, G /E#
+[F4, B4, A4, G5]: Aaug9 omit C# sort as [2, 4, 1, 3]
+[F4, B4, B4, A4]: Aaug9 omit C#, G /E#
+[F4, B4, B4, B4]: F with diminished fifth
+[F4, B4, B4, C5]: Cmaj7sus4 omit G /F
+[F4, B4, B4, D5]: Bdim/F
+[F4, B4, B4, E5]: Fmaj7b5 omit A
+[F4, B4, B4, F5]: F with diminished fifth
+[F4, B4, B4, G5]: Ffifth_9th bC
+[F4, B4, C#5, A4]: C#aug7 sort as [2, 4, 1, 3]
+[F4, B4, C#5, B4]: C#aug6/E#
+[F4, B4, C#5, C5]: [[C# with major seventh]/[note B]]/[note F]
+[F4, B4, C#5, D5]: Bmadd2 bF# /F
+[F4, B4, C#5, E5]: E6sus2 bF# /F
+[F4, B4, C#5, F5]: C#aug6/E#
+[F4, B4, C#5, G5]: C#frenchsixth sort as [2, 4, 1, 3]
+[F4, B4, D5, A4]: Bhalf-diminished7 sort as [3, 1, 2, 4]
+[F4, B4, D5, B4]: Bdim/F
+[F4, B4, D5, C5]: Cmaj9sus4 omit G /F
+[F4, B4, D5, D5]: Bdim/F
+[F4, B4, D5, E5]: Bmadd4 bF# /F
+[F4, B4, D5, F5]: Bdim/F
+[F4, B4, D5, G5]: G7 sort as [4, 2, 3, 1]
+[F4, B4, E5, A4]: Fmaj7b5 sort as [1, 3, 4, 2]
+[F4, B4, E5, B4]: Fmaj7b5 omit A
+[F4, B4, E5, C5]: Fmaj7#11 omit A sort as [1, 4, 2, 3]
+[F4, B4, E5, D5]: Dm69 omit A /F
+[F4, B4, E5, E5]: Fmaj7b5 omit A
+[F4, B4, E5, F5]: Fmaj7b5 omit A
+[F4, B4, E5, G5]: Fmaj9#11 omit A, C sort as [1, 4, 2, 3]
+[F4, C#5, F#4, A4]: F#minormajor7 sort as [4, 3, 1, 2]
+[F4, C#5, F#4, B4]: F#maj7sus4 sort as [4, 3, 1, 2]
+[F4, C#5, F#4, C5]: C#maj11 omit G#, D# sort as [2, 1, 4, 3]
+[F4, C#5, F#4, D5]: [Dmaj7 omit A sort as [3, 2, 1]]/[note F]
+[F4, C#5, F#4, E5]: [E69 omit G#, B /C#]/[note F]
+[F4, C#5, F#4, F5]: C#add4 omit G# sort as [2, 1, 3]
+[F4, C#5, F#4, G5]: F#maj7sus2 bG# /C# sort as [1, 4, 2, 3]
+[F4, C#5, G#4, A4]: Aaugmaj7 sort as [3, 2, 4, 1]
+[F4, C#5, G#4, B4]: C#7 sort as [2, 1, 3, 4]
+[F4, C#5, G#4, C5]: C#maj7 sort as [2, 1, 3, 4]
+[F4, C#5, G#4, D5]: Ddim(Maj7) sort as [2, 4, 3, 1]
+[F4, C#5, G#4, E5]: [C#minor sort as [1, 3, 2]]/[note F]
+[F4, C#5, G#4, F5]: C#major sort as [2, 1, 3]
+[F4, C#5, G#4, G5]: C#maj7#11 omit B# sort as [2, 1, 3, 4]
+[F4, C#5, A4, A4]: Faug sort as [1, 3, 2]
+[F4, C#5, A4, B4]: C#aug7 sort as [2, 1, 3, 4]
+[F4, C#5, A4, C5]: C#augmaj7 sort as [2, 1, 3, 4]
+[F4, C#5, A4, D5]: Dminormajor7 sort as [2, 4, 3, 1]
+[F4, C#5, A4, E5]: Faugmaj7 sort as [1, 3, 2, 4]
+[F4, C#5, A4, F5]: Faug sort as [1, 3, 2]
+[F4, C#5, A4, G5]: Faug9 omit Eb sort as [1, 3, 2, 4]
+[F4, C#5, B4, A4]: Aaug9 omit G sort as [3, 2, 4, 1]
+[F4, C#5, B4, B4]: C#aug6 sort as [2, 1, 3]
+[F4, C#5, B4, C5]: [[B with minor second]/[note C#]]/[note F]
+[F4, C#5, B4, D5]: Bmadd9 bF# /C#
+[F4, C#5, B4, E5]: [B9sus4 omit F#, A /C#]/[note F]
+[F4, C#5, B4, F5]: C#aug6 sort as [2, 1, 3]
+[F4, C#5, B4, G5]: C#frenchsixth sort as [2, 1, 4, 3]
+[F4, C#5, C#5, A4]: Faug sort as [1, 3, 2]
+[F4, C#5, C#5, B4]: C#aug6 sort as [2, 1, 3]
+[F4, C#5, C#5, C5]: C#maj7 omit G# sort as [2, 1, 3]
+[F4, C#5, C#5, D5]: Dminormajor7 omit A /F
+[F4, C#5, C#5, E5]: Faugmaj7 omit A
+[F4, C#5, C#5, F5]: F with minor sixth
+[F4, C#5, C#5, G5]: Faug9 omit A, Eb
+[F4, C#5, D5, A4]: Dminormajor7 sort as [2, 4, 1, 3]
+[F4, C#5, D5, B4]: [Bmadd2 omit F# /C#]/[note F]
+[F4, C#5, D5, C5]: [[D with minor seventh]/[note C#]]/[note F]
+[F4, C#5, D5, D5]: Dminormajor7 omit A /F
+[F4, C#5, D5, E5]: Dminormajor9 omit A sort as [2, 3, 1, 4]
+[F4, C#5, D5, F5]: Dminormajor7 omit A /F
+[F4, C#5, D5, G5]: G13#11 omit B, A, E /C# sort as [1, 2, 4, 3]
+[F4, C#5, E5, A4]: Faugmaj7 sort as [1, 3, 4, 2]
+[F4, C#5, E5, B4]: [C#m7 omit G#]/[note F]
+[F4, C#5, E5, C5]: [C#minormajor7 omit G#]/[note F]
+[F4, C#5, E5, D5]: Dminormajor9 omit A /F
+[F4, C#5, E5, E5]: Faugmaj7 omit A
+[F4, C#5, E5, F5]: Faugmaj7 omit A
+[F4, C#5, E5, G5]: Faugmaj9 omit A
+[G4, D#4, F#4, A4]: Gaugmaj9 omit B
+[G4, D#4, F#4, B4]: Gaugmaj7 sort as [1, 3, 4, 2]
+[G4, D#4, F#4, C5]: [Cdim/Eb]/[note G]
+[G4, D#4, F#4, D5]: [D#minormajor7 omit A#]/[note G]
+[G4, D#4, F#4, E5]: Eminormajor9 omit B /G
+[G4, D#4, F#4, F5]: [D#madd9 omit A#]/[note G]
+[G4, D#4, F#4, G5]: Gaugmaj7 omit B
+[G4, D#4, G#4, A4]: G#maj7sus2 bA# /D# sort as [1, 4, 2, 3]
+[G4, D#4, G#4, B4]: G#minormajor7 sort as [4, 3, 1, 2]
+[G4, D#4, G#4, C5]: G#maj7 sort as [4, 3, 1, 2]
+[G4, D#4, G#4, D5]: D#maj11 omit A#, E# sort as [2, 1, 4, 3]
+[G4, D#4, G#4, E5]: [Emaj7 omit B sort as [3, 2, 1]]/[note G]
+[G4, D#4, G#4, F5]: D#11 omit A#, C# sort as [2, 1, 4, 3]
+[G4, D#4, G#4, G5]: D#add4 omit A# sort as [2, 1, 3]
+[G4, D#4, A4, A4]: Gaug9 omit B, F
+[G4, D#4, A4, B4]: Gaug9 omit F sort as [1, 3, 4, 2]
+[G4, D#4, A4, C5]: Ahalf-diminished7 sort as [4, 3, 1, 2]
+[G4, D#4, A4, D5]: D#maj7b5 sort as [2, 1, 3, 4]
+[G4, D#4, A4, E5]: A13#11 omit C#, B, F# /G
+[G4, D#4, A4, F5]: Gaug9 omit B sort as [1, 2, 4, 3]
+[G4, D#4, A4, G5]: Gaug9 omit B, F
+[G4, D#4, B4, A4]: Gaug9 omit F sort as [1, 3, 2, 4]
+[G4, D#4, B4, B4]: Gaug sort as [1, 3, 2]
+[G4, D#4, B4, C5]: Cminormajor7 sort as [3, 2, 4, 1]
+[G4, D#4, B4, D5]: D#augmaj7 sort as [2, 1, 3, 4]
+[G4, D#4, B4, E5]: Eminormajor7 sort as [2, 4, 3, 1]
+[G4, D#4, B4, F5]: Gaug7 sort as [1, 3, 2, 4]
+[G4, D#4, B4, G5]: Gaug sort as [1, 3, 2]
+[G4, D#4, C#5, A4]: D#frenchsixth sort as [2, 1, 4, 3]
+[G4, D#4, C#5, B4]: Baug9 omit A sort as [3, 2, 4, 1]
+[G4, D#4, C#5, C5]: C#maj9#11 omit E#, G# sort as [4, 3, 1, 2]
+[G4, D#4, C#5, D5]: [[C# with minor second]/[note D#]]/[note G]
+[G4, D#4, C#5, E5]: C#madd9 bG# /D#
+[G4, D#4, C#5, F5]: D#aug9 omit B sort as [2, 1, 3, 4]
+[G4, D#4, C#5, G5]: D#aug6 sort as [2, 1, 3]
+[G4, D#4, D5, A4]: D#maj7#11 omit A# sort as [2, 1, 3, 4]
+[G4, D#4, D5, B4]: D#augmaj7 sort as [2, 1, 4, 3]
+[G4, D#4, D5, C5]: Cmadd9 sort as [3, 2, 4, 1]
+[G4, D#4, D5, D5]: D#maj7 omit A# sort as [2, 1, 3]
+[G4, D#4, D5, E5]: [[D with major second]/[note D#]]/[note G]
+[G4, D#4, D5, F5]: F13sus2 omit C, Bb /G
+[G4, D#4, D5, G5]: D#maj7 omit A# sort as [2, 1, 3]
+[G4, D#4, E5, A4]: A13#11 omit C#, B, F# /D# sort as [1, 2, 4, 3]
+[G4, D#4, E5, B4]: Eminormajor7 sort as [2, 4, 1, 3]
+[G4, D#4, E5, C5]: [Eaugmaj7 omit G# /D#]/[note G]
+[G4, D#4, E5, D5]: [[E with minor seventh]/[note D#]]/[note G]
+[G4, D#4, E5, E5]: Eminormajor7 omit B /G
+[G4, D#4, E5, F5]: [[E with minor second]/[note D#]]/[note G]
+[G4, D#4, E5, G5]: Eminormajor7 omit B /G
+[G4, E#4, F#4, A4]: [F#minormajor7 omit C# /E#]/[note G]
+[G4, E#4, F#4, B4]: [F#maj7sus4 omit C# /E#]/[note G]
+[G4, E#4, F#4, C5]: [F#maj7b5 omit A# /E#]/[note G]
+[G4, E#4, F#4, D5]: [F#augmaj7 omit A# /E#]/[note G]
+[G4, E#4, F#4, E5]: [[F# with minor seventh]/[note E#]]/[note G]
+[G4, E#4, F#4, F5]: [[F# with major seventh]/[note E#]]/[note G]
+[G4, E#4, F#4, G5]: [E# with minor second]/[note G]
+[G4, E#4, G#4, A4]: [Aaugmaj7 omit C# /E#]/[note G]
+[G4, E#4, G#4, B4]: E#madd9 bC /Fx
+[G4, E#4, G#4, C5]: E#madd9/Fx
+[G4, E#4, G#4, D5]: E#m69 omit B# /Fx
+[G4, E#4, G#4, E5]: E#minormajor9 omit B# /Fx
+[G4, E#4, G#4, F5]: E#m9 omit B#, D# sort as [3, 1, 2, 1]
+[G4, E#4, G#4, G5]: E#madd9 omit B# /Fx
+[G4, E#4, A4, A4]: E#add9 omit B# /Fx
+[G4, E#4, A4, B4]: Gaug9 omit Eb sort as [1, 3, 4, 2]
+[G4, E#4, A4, C5]: E#add9/Fx
+[G4, E#4, A4, D5]: G7sus2 sort as [1, 4, 2, 3]
+[G4, E#4, A4, E5]: E#maj9 omit B# /Fx
+[G4, E#4, A4, F5]: Gaug9 omit B, Eb sort as [1, 2, 3, 2]
+[G4, E#4, A4, G5]: E#add9 omit B# /Fx
+[G4, E#4, B4, A4]: Gaug9 omit Eb sort as [1, 3, 2, 4]
+[G4, E#4, B4, B4]: Gaug6 sort as [1, 3, 2]
+[G4, E#4, B4, C5]: G11 omit D, A sort as [1, 3, 2, 4]
+[G4, E#4, B4, D5]: G7 sort as [1, 4, 2, 3]
+[G4, E#4, B4, E5]: E#maj9#11 omit Gx, B# sort as [3, 1, 4, 2]
+[G4, E#4, B4, F5]: Fmaj9#11 omit A, C, E sort as [2, 1, 3, 1]
+[G4, E#4, B4, G5]: Gaug6 sort as [1, 3, 2]
+[G4, E#4, C#5, A4]: E#aug9 omit D# sort as [4, 1, 3, 2]
+[G4, E#4, C#5, B4]: Gfrenchsixth sort as [1, 4, 3, 2]
+[G4, E#4, C#5, C5]: C#maj7#11 omit G# sort as [4, 2, 1, 3]
+[G4, E#4, C#5, D5]: G7sus4 #C sort as [1, 4, 2, 3]
+[G4, E#4, C#5, E5]: E#augmaj9 omit Gx /Fx
+[G4, E#4, C#5, F5]: E#aug9 omit Gx, D# sort as [3, 1, 2, 1]
+[G4, E#4, C#5, G5]: E#aug9 omit Gx, D# /Fx
+[G4, E#4, D5, A4]: G7sus2 sort as [1, 4, 3, 2]
+[G4, E#4, D5, B4]: G7 sort as [1, 4, 3, 2]
+[G4, E#4, D5, C5]: G7sus4 sort as [1, 4, 3, 2]
+[G4, E#4, D5, D5]: E#69 omit Gx, B# /Fx
+[G4, E#4, D5, E5]: G13sus4 omit C, A sort as [1, 3, 2, 4]
+[G4, E#4, D5, F5]: G9 omit B, A sort as [1, 3, 2, 3]
+[G4, E#4, D5, G5]: E#69 omit Gx, B# /Fx
+[G4, E#4, E5, A4]: G13sus4 omit C, D sort as [1, 2, 4, 3]
+[G4, E#4, E5, B4]: E#maj9#11 omit Gx, B# sort as [3, 1, 2, 4]
+[G4, E#4, E5, C5]: G13sus4 omit D, A sort as [1, 3, 4, 2]
+[G4, E#4, E5, D5]: G13sus4 omit C, A sort as [1, 3, 4, 2]
+[G4, E#4, E5, E5]: E#maj9 omit Gx, B# /Fx
+[G4, E#4, E5, F5]: G13sus4 omit C, D, A sort as [1, 2, 3, 2]
+[G4, E#4, E5, G5]: E#maj9 omit Gx, B# /Fx
+[G4, F#4, F#4, A4]: Gmaj9 omit B, D
+[G4, F#4, F#4, B4]: Gmaj7 omit D sort as [1, 3, 2]
+[G4, F#4, F#4, C5]: Cmaj7#11 omit E, B /G
+[G4, F#4, F#4, D5]: Gmaj7 omit B sort as [1, 3, 2]
+[G4, F#4, F#4, E5]: Emadd9 omit B /G
+[G4, F#4, F#4, F5]: [F# with major seventh]/[note G]
+[G4, F#4, F#4, G5]: G with major seventh
+[G4, F#4, G#4, A4]: [F#madd2 omit C#]/[note G]
+[G4, F#4, G#4, B4]: [G#m7 omit D# /F#]/[note G]
+[G4, F#4, G#4, C5]: [G#aug6/Ex]/[note G]
+[G4, F#4, G#4, D5]: Gmaj7sus2 bA sort as [1, 4, 2, 3]
+[G4, F#4, G#4, E5]: [F#7sus2 omit C#]/[note G]
+[G4, F#4, G#4, F5]: [F#maj7sus2 omit C#]/[note G]
+[G4, F#4, G#4, G5]: [F# with major second]/[note G]
+[G4, F#4, A4, A4]: Gmaj9 omit B, D
+[G4, F#4, A4, B4]: A13sus2 omit E, D /G
+[G4, F#4, A4, C5]: Gmaj11 omit B, D
+[G4, F#4, A4, D5]: Gmaj7sus2 sort as [1, 4, 2, 3]
+[G4, F#4, A4, E5]: Gmaj13sus4 omit C, D
+[G4, F#4, A4, F5]: [F#minormajor7 omit C#]/[note G]
+[G4, F#4, A4, G5]: Gmaj9 omit B, D
+[G4, F#4, B4, A4]: Gmaj9 omit D sort as [1, 3, 2, 4]
+[G4, F#4, B4, B4]: Gmaj7 omit D sort as [1, 3, 2]
+[G4, F#4, B4, C5]: Gmaj11 omit D, A sort as [1, 3, 2, 4]
+[G4, F#4, B4, D5]: Gmaj7 sort as [1, 4, 2, 3]
+[G4, F#4, B4, E5]: Emadd2 sort as [3, 2, 4, 1]
+[G4, F#4, B4, F5]: [F#maj7sus4 omit C#]/[note G]
+[G4, F#4, B4, G5]: Gmaj7 omit D sort as [1, 3, 2]
+[G4, F#4, C#5, A4]: Gmaj9#11 omit B, D sort as [1, 2, 4, 3]
+[G4, F#4, C#5, B4]: Gmaj7b5 sort as [1, 4, 3, 2]
+[G4, F#4, C#5, C5]: [F#maj7#11 omit A#, E#]/[note G]
+[G4, F#4, C#5, D5]: Gmaj7#11 omit B sort as [1, 3, 4, 2]
+[G4, F#4, C#5, E5]: Gmaj13#11 omit B, D, A
+[G4, F#4, C#5, F5]: C#add4 bG# /F# sort as [1, 4, 2, 3]
+[G4, F#4, C#5, G5]: Gmaj7b5 omit B sort as [1, 3, 2]
+[G4, F#4, D5, A4]: Gmaj7sus2 sort as [1, 4, 3, 2]
+[G4, F#4, D5, B4]: Gmaj7 sort as [1, 4, 3, 2]
+[G4, F#4, D5, C5]: Gmaj7sus4 sort as [1, 4, 3, 2]
+[G4, F#4, D5, D5]: Gmaj7 omit B sort as [1, 3, 2]
+[G4, F#4, D5, E5]: Gmaj13sus4 omit C, A sort as [1, 3, 2, 4]
+[G4, F#4, D5, F5]: [F#augmaj7 omit A#]/[note G]
+[G4, F#4, D5, G5]: Gmaj7 omit B sort as [1, 3, 2]
+[G4, F#4, E5, A4]: Gmaj13sus4 omit C, D sort as [1, 2, 4, 3]
+[G4, F#4, E5, B4]: Emadd9 sort as [2, 4, 1, 3]
+[G4, F#4, E5, C5]: Gmaj13sus4 omit D, A sort as [1, 3, 4, 2]
+[G4, F#4, E5, D5]: Gmaj13sus4 omit C, A sort as [1, 3, 4, 2]
+[G4, F#4, E5, E5]: Emadd9 omit B /G
+[G4, F#4, E5, F5]: [[E with minor second]/[note F#]]/[note G]
+[G4, F#4, E5, G5]: Emadd9 omit B /G
+[G4, G#4, F#4, A4]: [F#madd9 omit C# /G#]/[note G]
+[G4, G#4, F#4, B4]: [F#9sus4 omit C#, E /G#]/[note G]
+[G4, G#4, F#4, C5]: [G#aug6 sort as [1, 3, 2]]/[note G]
+[G4, G#4, F#4, D5]: Gmaj7sus2 bA sort as [1, 2, 4, 3]
+[G4, G#4, F#4, E5]: [Eadd9 omit B /G#]/[note G]
+[G4, G#4, F#4, F5]: [F#maj9 omit A#, C# /G#]/[note G]
+[G4, G#4, F#4, G5]: [G# with minor seventh]/[note G]
+[G4, G#4, G#4, A4]: [G# with minor second]/[note G]
+[G4, G#4, G#4, B4]: G#minormajor7 omit D# /Fx
+[G4, G#4, G#4, C5]: G#maj7 omit D# /Fx
+[G4, G#4, G#4, D5]: G#maj7b5 omit B# /Fx
+[G4, G#4, G#4, E5]: G#augmaj7 omit B# /Fx
+[G4, G#4, G#4, F5]: Fmadd2 omit C /G
+[G4, G#4, G#4, G5]: G with minor second
+[G4, G#4, A4, A4]: [G# with minor second]/[note G]
+[G4, G#4, A4, B4]: [Amaj7sus2 omit E /G#]/[note G]
+[G4, G#4, A4, C5]: [Aminormajor7 omit E /G#]/[note G]
+[G4, G#4, A4, D5]: Gmadd2 bA, bb3
+[G4, G#4, A4, E5]: [Amaj7 omit C# /G#]/[note G]
+[G4, G#4, A4, F5]: [Aaugmaj7 omit C# /G#]/[note G]
+[G4, G#4, A4, G5]: [G# with minor second]/[note G]
+[G4, G#4, B4, A4]: [Amaj9 omit C#, E /G#]/[note G]
+[G4, G#4, B4, B4]: G#minormajor7 omit D# /Fx
+[G4, G#4, B4, C5]: [Caugmaj7 omit E /G#]/[note G]
+[G4, G#4, B4, D5]: G#dim(Maj7)/Fx
+[G4, G#4, B4, E5]: G#minormajor7 #D# /Fx
+[G4, G#4, B4, F5]: Fmadd2 bC /G
+[G4, G#4, B4, G5]: G#minormajor7 omit D# /Fx
+[G4, G#4, C#5, A4]: [Amaj7 omit E sort as [3, 2, 1]]/[note G]
+[G4, G#4, C#5, B4]: G#dim(Maj7) bb5/#4 sort as [1, 2, 4, 3]
+[G4, G#4, C#5, C5]: C#maj7#11 omit E# sort as [4, 2, 1, 3]
+[G4, G#4, C#5, D5]: G#maj7sus4 bD# /Fx
+[G4, G#4, C#5, E5]: G#augmaj7 #B# /Fx
+[G4, G#4, C#5, F5]: C#add4 #F# /Fx
+[G4, G#4, C#5, G5]: G#maj7sus4 omit D# /Fx
+[G4, G#4, D5, A4]: Gmadd2 bA, bb3 sort as [1, 2, 4, 3]
+[G4, G#4, D5, B4]: G#dim(Maj7) sort as [4, 1, 3, 2]
+[G4, G#4, D5, C5]: G#maj7b5 sort as [4, 1, 3, 2]
+[G4, G#4, D5, D5]: G#maj7b5 omit B# /Fx
+[G4, G#4, D5, E5]: G6sus2 bA
+[G4, G#4, D5, F5]: G7sus2 bA
+[G4, G#4, D5, G5]: G#maj7b5 omit B# /Fx
+[G4, G#4, E5, A4]: [Eadd4 omit B sort as [2, 1, 3]]/[note G]
+[G4, G#4, E5, B4]: G#minormajor7 #D# /Dx sort as [1, 2, 4, 3]
+[G4, G#4, E5, C5]: G#augmaj7 sort as [4, 1, 3, 2]
+[G4, G#4, E5, D5]: G6sus2 bA sort as [1, 2, 4, 3]
+[G4, G#4, E5, E5]: G#augmaj7 omit B# /Fx
+[G4, G#4, E5, F5]: Fminormajor9 omit C sort as [4, 2, 3, 1]
+[G4, G#4, E5, G5]: G#augmaj7 omit B# /Fx
+[G4, A#4, F#4, A4]: Gminormajor9 omit D
+[G4, A#4, F#4, B4]: [F#add4 omit C# sort as [2, 1, 3]]/[note G]
+[G4, A#4, F#4, C5]: C13#11 omit E, D, A /G
+[G4, A#4, F#4, D5]: Gminormajor7 sort as [1, 2, 4, 3]
+[G4, A#4, F#4, E5]: Emadd9 bB /Bb
+[G4, A#4, F#4, F5]: [F#maj7 omit C# sort as [2, 1, 3]]/[note G]
+[G4, A#4, F#4, G5]: Gminormajor7 omit D
+[G4, A#4, G#4, A4]: [[G# with minor second]/[note A#]]/[note G]
+[G4, A#4, G#4, B4]: G#minormajor9 omit D# /Fx
+[G4, A#4, G#4, C5]: G#maj9 omit D# /Fx
+[G4, A#4, G#4, D5]: G#maj9#11 omit B#, D# sort as [2, 3, 1, 4]
+[G4, A#4, G#4, E5]: G#augmaj9 omit B# /Fx
+[G4, A#4, G#4, F5]: A#13sus4 omit D#, B# sort as [4, 1, 3, 2]
+[G4, A#4, G#4, G5]: G#maj9 omit B#, D# /Fx
+[G4, A#4, A4, A4]: Gmadd9 omit D
+[G4, A#4, A4, B4]: [[A with major second]/[note A#]]/[note G]
+[G4, A#4, A4, C5]: Gm11 omit D, F
+[G4, A#4, A4, D5]: Gmadd2 sort as [1, 3, 2, 4]
+[G4, A#4, A4, E5]: Gm13 omit D, F, C
+[G4, A#4, A4, F5]: Gm9 omit D sort as [1, 2, 4, 3]
+[G4, A#4, A4, G5]: Gmadd9 omit D
+[G4, A#4, B4, A4]: [[B with minor seventh]/[note A#]]/[note G]
+[G4, A#4, B4, B4]: Baugmaj7 omit D# /Fx
+[G4, A#4, B4, C5]: [[B with minor second]/[note A#]]/[note G]
+[G4, A#4, B4, D5]: Gadd2 #A
+[G4, A#4, B4, E5]: Baugmaj7 #D# /Fx
+[G4, A#4, B4, F5]: A#6sus2 bB# /Fx
+[G4, A#4, B4, G5]: Baugmaj7 omit D# /Fx
+[G4, A#4, C#5, A4]: Gmadd9 bD
+[G4, A#4, C#5, B4]: Baugmaj9 omit D# /Fx
+[G4, A#4, C#5, C5]: A#m13 omit E#, G#, D# /Fx
+[G4, A#4, C#5, D5]: Gmadd4 #C
+[G4, A#4, C#5, E5]: Gdim7
+[G4, A#4, C#5, F5]: Ghalf-diminished7
+[G4, A#4, C#5, G5]: Gdim
+[G4, A#4, D5, A4]: Gmadd9
+[G4, A#4, D5, B4]: Gadd2 #A sort as [1, 2, 4, 3]
+[G4, A#4, D5, C5]: Gmadd4 sort as [1, 2, 4, 3]
+[G4, A#4, D5, D5]: Gminor
+[G4, A#4, D5, E5]: Gm6
+[G4, A#4, D5, F5]: Gm7
+[G4, A#4, D5, G5]: Gminor
+[G4, A#4, E5, A4]: Gm69 omit D
+[G4, A#4, E5, B4]: Baugmaj7 #D# /A# sort as [1, 2, 4, 3]
+[G4, A#4, E5, C5]: C7 sort as [3, 4, 2, 1]
+[G4, A#4, E5, D5]: Gm6 sort as [1, 2, 4, 3]
+[G4, A#4, E5, E5]: Edim/G
+[G4, A#4, E5, F5]: A#6sus4 #D# /Fx
+[G4, A#4, E5, G5]: Edim/G
+[G4, B4, F#4, A4]: Gmaj9 omit D
+[G4, B4, F#4, B4]: Gmaj7 omit D
+[G4, B4, F#4, C5]: Cmaj7#11 omit E /G
+[G4, B4, F#4, D5]: Gmaj7 sort as [1, 2, 4, 3]
+[G4, B4, F#4, E5]: Emadd9/G
+[G4, B4, F#4, F5]: [Bmaj7#11 omit D#, A#]/[note G]
+[G4, B4, F#4, G5]: Gmaj7 omit D
+[G4, B4, G#4, A4]: [Amaj7sus2 omit E /B]/[note G]
+[G4, B4, G#4, B4]: G#minormajor7 omit D# sort as [3, 2, 1]
+[G4, B4, G#4, C5]: [Caugmaj7 omit E sort as [3, 2, 1]]/[note G]
+[G4, B4, G#4, D5]: G#dim(Maj7) sort as [4, 2, 1, 3]
+[G4, B4, G#4, E5]: [Emajor sort as [3, 2, 1]]/[note G]
+[G4, B4, G#4, F5]: [Fdim sort as [3, 2, 1]]/[note G]
+[G4, B4, G#4, G5]: G#minormajor7 omit D# sort as [3, 2, 1]
+[G4, B4, A4, A4]: Gadd9 omit D
+[G4, B4, A4, B4]: Gadd9 omit D
+[G4, B4, A4, C5]: Am9 omit E /G
+[G4, B4, A4, D5]: Gadd2 sort as [1, 3, 2, 4]
+[G4, B4, A4, E5]: A9 omit C# /G
+[G4, B4, A4, F5]: Aaug9 omit C# /G
+[G4, B4, A4, G5]: Gadd9 omit D
+[G4, B4, B4, A4]: Gadd9 omit D
+[G4, B4, B4, B4]: G with major third
+[G4, B4, B4, C5]: Gadd4 omit D
+[G4, B4, B4, D5]: Gmajor
+[G4, B4, B4, E5]: Eminor/G
+[G4, B4, B4, F5]: Gaug6
+[G4, B4, B4, G5]: G with major third
+[G4, B4, C#5, A4]: Gadd9 bD
+[G4, B4, C#5, B4]: Gfrenchsixth omit F
+[G4, B4, C#5, C5]: Gadd4 bD sort as [1, 2, 4, 3]
+[G4, B4, C#5, D5]: Gadd4 #C
+[G4, B4, C#5, E5]: C#half-diminished7/G
+[G4, B4, C#5, F5]: Gfrenchsixth
+[G4, B4, C#5, G5]: Gfrenchsixth omit F
+[G4, B4, D5, A4]: Gadd9
+[G4, B4, D5, B4]: Gmajor
+[G4, B4, D5, C5]: Gadd4 sort as [1, 2, 4, 3]
+[G4, B4, D5, D5]: Gmajor
+[G4, B4, D5, E5]: Gadd6
+[G4, B4, D5, F5]: G7
+[G4, B4, D5, G5]: Gmajor
+[G4, B4, E5, A4]: G69 omit D
+[G4, B4, E5, B4]: Eminor/G
+[G4, B4, E5, C5]: Cmaj7 sort as [3, 4, 2, 1]
+[G4, B4, E5, D5]: Gadd6 sort as [1, 2, 4, 3]
+[G4, B4, E5, E5]: Eminor/G
+[G4, B4, E5, F5]: Gaug7 #b6/#5
+[G4, B4, E5, G5]: Eminor/G
+[G4, C#5, F#4, A4]: Gmaj9#11 omit B, D sort as [1, 4, 2, 3]
+[G4, C#5, F#4, B4]: Gmaj7b5 sort as [1, 3, 4, 2]
+[G4, C#5, F#4, C5]: [C#maj7sus4 omit G#]/[note G]
+[G4, C#5, F#4, D5]: Gmaj7#11 omit B sort as [1, 4, 2, 3]
+[G4, C#5, F#4, E5]: Em69 omit B /G
+[G4, C#5, F#4, F5]: C#add4 bG# /F# sort as [1, 2, 4, 3]
+[G4, C#5, F#4, G5]: Gmaj7b5 omit B
+[G4, C#5, G#4, A4]: [Amaj7 omit E /C#]/[note G]
+[G4, C#5, G#4, B4]: C#13#11 omit E#, D#, A# /Fx
+[G4, C#5, G#4, C5]: C#maj7#11 omit E# /Fx
+[G4, C#5, G#4, D5]: [Dmaj7#11 omit F#, A /C#]/[note G]
+[G4, C#5, G#4, E5]: [C#minor sort as [1, 3, 2]]/[note G]
+[G4, C#5, G#4, F5]: C#maj7#11 omit B# sort as [4, 1, 3, 2]
+[G4, C#5, G#4, G5]: C#maj7#11 omit E#, B# /Fx
+[G4, C#5, A4, A4]: Gfifth_9th bD
+[G4, C#5, A4, B4]: Baug9 omit D# sort as [2, 4, 3, 1]
+[G4, C#5, A4, C5]: C6sus2 bD /Db sort as [1, 4, 2, 3]
+[G4, C#5, A4, D5]: Dmaj7sus4 sort as [2, 4, 3, 1]
+[G4, C#5, A4, E5]: A7 sort as [4, 2, 1, 3]
+[G4, C#5, A4, F5]: Aaug7 sort as [4, 2, 1, 3]
+[G4, C#5, A4, G5]: Gfifth_9th bD
+[G4, C#5, B4, A4]: Baug9 omit D# sort as [2, 4, 1, 3]
+[G4, C#5, B4, B4]: Baug9 omit D#, A /Fx
+[G4, C#5, B4, C5]: Gadd4 bD sort as [1, 4, 2, 3]
+[G4, C#5, B4, D5]: Dmaj13sus4 omit A, E /G
+[G4, C#5, B4, E5]: C#half-diminished7 sort as [3, 1, 4, 2]
+[G4, C#5, B4, F5]: Gfrenchsixth sort as [1, 3, 2, 4]
+[G4, C#5, B4, G5]: Baug9 omit D#, A /Fx
+[G4, C#5, C#5, A4]: Gfifth_9th bD
+[G4, C#5, C#5, B4]: Baug9 omit D#, A /Fx
+[G4, C#5, C#5, C5]: C#maj7#11 omit E#, G# /Fx
+[G4, C#5, C#5, D5]: Dmaj7sus4 omit A /G
+[G4, C#5, C#5, E5]: C#dim/G
+[G4, C#5, C#5, F5]: Ghalf-diminished7 omit Bb
+[G4, C#5, C#5, G5]: G with diminished fifth
+[G4, C#5, D5, A4]: Dmaj7sus4 sort as [2, 4, 1, 3]
+[G4, C#5, D5, B4]: Gmaj7#11 omit F# sort as [1, 4, 2, 3]
+[G4, C#5, D5, C5]: [[D with minor seventh]/[note C#]]/[note G]
+[G4, C#5, D5, D5]: Dmaj7sus4 omit A /G
+[G4, C#5, D5, E5]: G6sus4 #C
+[G4, C#5, D5, F5]: G7sus4 #C
+[G4, C#5, D5, G5]: Dmaj7sus4 omit A /G
+[G4, C#5, E5, A4]: A7 sort as [4, 2, 3, 1]
+[G4, C#5, E5, B4]: C#half-diminished7 sort as [3, 1, 2, 4]
+[G4, C#5, E5, C5]: C#dim(Maj7) sort as [3, 1, 2, 4]
+[G4, C#5, E5, D5]: Dmaj9sus4 omit A /G
+[G4, C#5, E5, E5]: C#dim/G
+[G4, C#5, E5, F5]: Fmaj7sus2 #C /G
+[G4, C#5, E5, G5]: C#dim/G
+[Ab4, D#4, F#4, A4]: F#m13 omit C#, E, B /G#
+[Ab4, D#4, F#4, B4]: Abm7 sort as [1, 3, 4, 2]
+[Ab4, D#4, F#4, C5]: Ab7 sort as [1, 3, 4, 2]
+[Ab4, D#4, F#4, D5]: Ab13#11 omit C, Bb, F
+[Ab4, D#4, F#4, E5]: Emaj9 omit B /G#
+[Ab4, D#4, F#4, F5]: Ab13sus4 omit Db, Bb
+[Ab4, D#4, F#4, G5]: [Gaugmaj7 omit B /D#]/[note Ab]
+[Ab4, D#4, G#4, A4]: Amaj7#11 omit C#, E sort as [2, 3, 2, 1]
+[Ab4, D#4, G#4, B4]: G#m9 omit F#, A# sort as [1, 3, 1, 2]
+[Ab4, D#4, G#4, C5]: G#9 omit F#, A# sort as [1, 3, 1, 2]
+[Ab4, D#4, G#4, D5]: Abmaj7#11 omit C, G sort as [1, 2, 1, 3]
+[Ab4, D#4, G#4, E5]: Emaj9 omit B, F# sort as [2, 3, 2, 1]
+[Ab4, D#4, G#4, F5]: Ab69 omit C, Bb sort as [1, 2, 1, 3]
+[Ab4, D#4, G#4, G5]: Abmaj9 omit C, Bb sort as [1, 2, 1, 3]
+[Ab4, D#4, A4, A4]: Amaj7#11 omit C#, E /G#
+[Ab4, D#4, A4, B4]: Amaj9#11 omit C#, E sort as [2, 4, 1, 3]
+[Ab4, D#4, A4, C5]: Adim(Maj7) sort as [4, 3, 1, 2]
+[Ab4, D#4, A4, D5]: Amaj7sus4 bE /Eb sort as [1, 4, 2, 3]
+[Ab4, D#4, A4, E5]: Amaj7#11 omit C# /G#
+[Ab4, D#4, A4, F5]: [D#fifth_9th bA#]/[note Ab]
+[Ab4, D#4, A4, G5]: [Gaug9 omit B, F /D#]/[note Ab]
+[Ab4, D#4, B4, A4]: Amaj9#11 omit C#, E sort as [2, 4, 3, 1]
+[Ab4, D#4, B4, B4]: Abminor sort as [1, 3, 2]
+[Ab4, D#4, B4, C5]: Abadd2 #A# sort as [1, 4, 2, 3]
+[Ab4, D#4, B4, D5]: Abmadd4 #C# sort as [1, 4, 2, 3]
+[Ab4, D#4, B4, E5]: Emaj7 sort as [2, 4, 3, 1]
+[Ab4, D#4, B4, F5]: Abm6 sort as [1, 3, 2, 4]
+[Ab4, D#4, B4, G5]: Abminormajor7 sort as [1, 3, 2, 4]
+[Ab4, D#4, C#5, A4]: Amaj7#11 omit E sort as [3, 4, 2, 1]
+[Ab4, D#4, C#5, B4]: Abmadd4 sort as [1, 4, 3, 2]
+[Ab4, D#4, C#5, C5]: Abadd4 sort as [1, 4, 3, 2]
+[Ab4, D#4, C#5, D5]: Abadd4 #B#, #C# sort as [1, 4, 2, 3]
+[Ab4, D#4, C#5, E5]: C#madd9/G#
+[Ab4, D#4, C#5, F5]: Ab6sus4 sort as [1, 3, 2, 4]
+[Ab4, D#4, C#5, G5]: Abmaj7sus4 sort as [1, 3, 2, 4]
+[Ab4, D#4, D5, A4]: [D#maj7b5 omit Fx sort as [1, 3, 2]]/[note Ab]
+[Ab4, D#4, D5, B4]: [D#augmaj7 omit Fx sort as [1, 3, 2]]/[note Ab]
+[Ab4, D#4, D5, C5]: Abmaj7#11 omit G sort as [1, 3, 4, 2]
+[Ab4, D#4, D5, D5]: Abmaj7#11 omit C, G
+[Ab4, D#4, D5, E5]: [[D with major second]/[note D#]]/[note Ab]
+[Ab4, D#4, D5, F5]: D#maj11 omit Fx, A# /G#
+[Ab4, D#4, D5, G5]: Abmaj7#11 omit C sort as [1, 2, 4, 3]
+[Ab4, D#4, E5, A4]: Amaj7#11 omit C# sort as [3, 4, 2, 1]
+[Ab4, D#4, E5, B4]: Emaj7 sort as [2, 4, 1, 3]
+[Ab4, D#4, E5, C5]: Eaugmaj7 sort as [2, 4, 1, 3]
+[Ab4, D#4, E5, D5]: [[E with minor seventh]/[note D#]]/[note Ab]
+[Ab4, D#4, E5, E5]: Emaj7 omit B /G#
+[Ab4, D#4, E5, F5]: [[E with minor second]/[note D#]]/[note Ab]
+[Ab4, D#4, E5, G5]: [Eminormajor7 omit B /D#]/[note Ab]
+[Ab4, E#4, F#4, A4]: F#minormajor9 omit C# sort as [4, 3, 1, 2]
+[Ab4, E#4, F#4, B4]: F#maj9sus4 omit C# sort as [4, 3, 1, 2]
+[Ab4, E#4, F#4, C5]: F#maj9#11 omit A#, C# sort as [3, 2, 1, 4]
+[Ab4, E#4, F#4, D5]: F#augmaj9 omit A# sort as [4, 3, 1, 2]
+[Ab4, E#4, F#4, E5]: [[F# with minor seventh]/[note E#]]/[note Ab]
+[Ab4, E#4, F#4, F5]: F#maj9 omit A#, C# sort as [3, 2, 1, 2]
+[Ab4, E#4, F#4, G5]: [[F# with minor second]/[note E#]]/[note Ab]
+[Ab4, E#4, G#4, A4]: Aaugmaj9 omit C#, B sort as [3, 2, 3, 1]
+[Ab4, E#4, G#4, B4]: G#m69 omit D#, A# sort as [1, 3, 1, 2]
+[Ab4, E#4, G#4, C5]: E#m9 omit D#, Fx sort as [2, 1, 2, 3]
+[Ab4, E#4, G#4, D5]: E#m69 omit B#, Fx sort as [2, 1, 2, 3]
+[Ab4, E#4, G#4, E5]: E#minormajor9 omit B#, Fx sort as [2, 1, 2, 3]
+[Ab4, E#4, G#4, F5]: [[G# with major sixth]/[note E#]]/[note Ab]
+[Ab4, E#4, G#4, G5]: E#m9 omit B#, D# sort as [2, 1, 2, 3]
+[Ab4, E#4, A4, A4]: Aaugmaj7 omit C# sort as [3, 2, 1]
+[Ab4, E#4, A4, B4]: Aaugmaj9 omit C# sort as [3, 2, 1, 4]
+[Ab4, E#4, A4, C5]: E#add9 #G /F###
+[Ab4, E#4, A4, D5]: Aaugmaj7 #C# /E# sort as [1, 4, 2, 3]
+[Ab4, E#4, A4, E5]: [E#maj7 omit B#]/[note Ab]
+[Ab4, E#4, A4, F5]: Aaugmaj9 omit C#, B sort as [3, 2, 1, 2]
+[Ab4, E#4, A4, G5]: [E#add9 omit B#]/[note Ab]
+[Ab4, E#4, B4, A4]: Aaugmaj9 omit C# sort as [3, 2, 4, 1]
+[Ab4, E#4, B4, B4]: E#dim sort as [2, 1, 3]
+[Ab4, E#4, B4, C5]: Caugmaj7 #E /E# sort as [1, 4, 2, 3]
+[Ab4, E#4, B4, D5]: Abdim7 sort as [1, 4, 2, 3]
+[Ab4, E#4, B4, E5]: E#dim(Maj7) sort as [2, 1, 3, 4]
+[Ab4, E#4, B4, F5]: Abm69 omit Eb, Bb sort as [1, 3, 2, 3]
+[Ab4, E#4, B4, G5]: [E#fifth_9th bC]/[note Ab]
+[Ab4, E#4, C#5, A4]: Aaugmaj7 sort as [4, 3, 2, 1]
+[Ab4, E#4, C#5, B4]: C#7 sort as [3, 2, 1, 4]
+[Ab4, E#4, C#5, C5]: C#maj7 sort as [3, 2, 1, 4]
+[Ab4, E#4, C#5, D5]: Ddim(Maj7) sort as [3, 2, 4, 1]
+[Ab4, E#4, C#5, E5]: Ab6sus4 #D# sort as [1, 4, 2, 3]
+[Ab4, E#4, C#5, F5]: Ab13sus2 omit Bb, Eb, Gb sort as [1, 3, 2, 3]
+[Ab4, E#4, C#5, G5]: Abmaj13sus4 omit Eb, Bb sort as [1, 4, 2, 3]
+[Ab4, E#4, D5, A4]: [Dminor sort as [2, 1, 3]]/[note Ab]
+[Ab4, E#4, D5, B4]: Abdim7 sort as [1, 4, 3, 2]
+[Ab4, E#4, D5, C5]: E#m6 sort as [2, 1, 4, 3]
+[Ab4, E#4, D5, D5]: Ddim sort as [3, 2, 1]
+[Ab4, E#4, D5, E5]: Dmadd2 bA /F sort as [1, 4, 2, 3]
+[Ab4, E#4, D5, F5]: Fm69 omit C, G sort as [2, 1, 3, 1]
+[Ab4, E#4, D5, G5]: E#m69 omit B# sort as [2, 1, 3, 4]
+[Ab4, E#4, E5, A4]: [E#maj7 omit B# sort as [1, 3, 2]]/[note Ab]
+[Ab4, E#4, E5, B4]: E#dim(Maj7) sort as [2, 1, 4, 3]
+[Ab4, E#4, E5, C5]: E#minormajor7 sort as [2, 1, 4, 3]
+[Ab4, E#4, E5, D5]: [Dmadd9 omit A /F]/[note Ab]
+[Ab4, E#4, E5, E5]: E#minormajor7 omit B# sort as [2, 1, 3]
+[Ab4, E#4, E5, F5]: Fminormajor9 omit C, G sort as [2, 1, 3, 1]
+[Ab4, E#4, E5, G5]: E#minormajor9 omit B# sort as [2, 1, 3, 4]
+[Ab4, F#4, F#4, A4]: F#madd9 omit C# /G#
+[Ab4, F#4, F#4, B4]: F#9sus4 omit C#, E /G#
+[Ab4, F#4, F#4, C5]: Abaug6 sort as [1, 3, 2]
+[Ab4, F#4, F#4, D5]: F#aug9 omit A#, E /G#
+[Ab4, F#4, F#4, E5]: Eadd9 omit B /G#
+[Ab4, F#4, F#4, F5]: F#maj9 omit A#, C# /G#
+[Ab4, F#4, F#4, G5]: [F# with minor second]/[note Ab]
+[Ab4, F#4, G#4, A4]: Amaj13sus4 omit D, E, B sort as [2, 3, 2, 1]
+[Ab4, F#4, G#4, B4]: G#m9 omit D#, A# sort as [1, 3, 1, 2]
+[Ab4, F#4, G#4, C5]: G#aug9 omit E, A# sort as [1, 3, 1, 2]
+[Ab4, F#4, G#4, D5]: F#aug9 omit A#, E sort as [3, 1, 3, 2]
+[Ab4, F#4, G#4, E5]: F#9sus2 omit C# /G#
+[Ab4, F#4, G#4, F5]: Ab13sus4 omit Db, Eb, Bb sort as [1, 2, 1, 3]
+[Ab4, F#4, G#4, G5]: [[G# with major seventh]/[note F#]]/[note Ab]
+[Ab4, F#4, A4, A4]: F#madd9 omit C# /G#
+[Ab4, F#4, A4, B4]: Amaj13sus2 omit E, D /G#
+[Ab4, F#4, A4, C5]: F#madd9 bC# /G#
+[Ab4, F#4, A4, D5]: Amaj13sus4 omit E, B /G#
+[Ab4, F#4, A4, E5]: F#m9 omit C# /G#
+[Ab4, F#4, A4, F5]: F#minormajor9 omit C# /G#
+[Ab4, F#4, A4, G5]: [Gmaj9 omit B, D /F#]/[note Ab]
+[Ab4, F#4, B4, A4]: B13sus4 omit E, C# sort as [4, 2, 1, 3]
+[Ab4, F#4, B4, B4]: F#9sus4 omit C#, E /G#
+[Ab4, F#4, B4, C5]: B6sus2 bC# /F# sort as [1, 4, 2, 3]
+[Ab4, F#4, B4, D5]: Abhalf-diminished7 sort as [1, 4, 2, 3]
+[Ab4, F#4, B4, E5]: F#9sus4 omit C# /G#
+[Ab4, F#4, B4, F5]: F#maj9sus4 omit C# /G#
+[Ab4, F#4, B4, G5]: [Gmaj7 omit D sort as [3, 2, 1]]/[note Ab]
+[Ab4, F#4, C#5, A4]: F#madd9 sort as [4, 1, 3, 2]
+[Ab4, F#4, C#5, B4]: Abm11 omit Eb, Bb sort as [1, 3, 4, 2]
+[Ab4, F#4, C#5, C5]: Ab11 omit Eb, Bb sort as [1, 3, 4, 2]
+[Ab4, F#4, C#5, D5]: Dmaj7b5 sort as [3, 2, 4, 1]
+[Ab4, F#4, C#5, E5]: F#9 omit A# /G#
+[Ab4, F#4, C#5, F5]: F#maj9 omit A# /G#
+[Ab4, F#4, C#5, G5]: [Gmaj7#11 omit B, D /F#]/[note Ab]
+[Ab4, F#4, D5, A4]: Dmaj7#11 omit C# sort as [4, 2, 1, 3]
+[Ab4, F#4, D5, B4]: Abhalf-diminished7 sort as [1, 4, 3, 2]
+[Ab4, F#4, D5, C5]: Abfrenchsixth sort as [1, 4, 3, 2]
+[Ab4, F#4, D5, D5]: F#aug9 omit A#, E /G#
+[Ab4, F#4, D5, E5]: F#aug9 omit A# /G#
+[Ab4, F#4, D5, F5]: F#augmaj9 omit A# /G#
+[Ab4, F#4, D5, G5]: [Dadd4 omit A sort as [2, 1, 3]]/[note Ab]
+[Ab4, F#4, E5, A4]: F#m9 omit C# sort as [4, 1, 3, 2]
+[Ab4, F#4, E5, B4]: Eadd9 sort as [2, 4, 1, 3]
+[Ab4, F#4, E5, C5]: Abaug7 sort as [1, 4, 3, 2]
+[Ab4, F#4, E5, D5]: F#aug9 omit A# sort as [4, 1, 3, 2]
+[Ab4, F#4, E5, E5]: Eadd9 omit B /G#
+[Ab4, F#4, E5, F5]: [[E with minor second]/[note F#]]/[note Ab]
+[Ab4, F#4, E5, G5]: [Emadd9 omit B /F#]/[note Ab]
+[Ab4, G#4, F#4, A4]: F#m9 omit C#, E sort as [3, 3, 1, 2]
+[Ab4, G#4, F#4, B4]: F#9sus4 omit C#, E sort as [3, 3, 1, 2]
+[Ab4, G#4, F#4, C5]: Abaug9 omit Fb, Bb sort as [1, 1, 4, 3]
+[Ab4, G#4, F#4, D5]: F#aug9 omit A#, E sort as [3, 3, 1, 2]
+[Ab4, G#4, F#4, E5]: F#aug9 omit A#, D sort as [3, 3, 1, 2]
+[Ab4, G#4, F#4, F5]: Ab13sus4 omit Db, Eb, Bb sort as [1, 1, 2, 3]
+[Ab4, G#4, F#4, G5]: [[F# with minor second]/[note G#]]/[note Ab]
+[Ab4, G#4, G#4, A4]: [G# with minor second]/[note Ab]
+[Ab4, G#4, G#4, B4]: [G# with minor third]/[note Ab]
+[Ab4, G#4, G#4, C5]: [G# with major third]/[note Ab]
+[Ab4, G#4, G#4, D5]: G#5(+octave) bD# /G#
+[Ab4, G#4, G#4, E5]: G#5(+octave) #D# /G#
+[Ab4, G#4, G#4, F5]: [G# with major sixth]/[note Ab]
+[Ab4, G#4, G#4, G5]: [G# with major seventh]/[note Ab]
+[Ab4, G#4, A4, A4]: [G# with minor second]/[note Ab]
+[Ab4, G#4, A4, B4]: Amaj13sus2 omit E, D, F# sort as [3, 3, 1, 2]
+[Ab4, G#4, A4, C5]: Aminormajor9 omit E, B sort as [3, 3, 1, 2]
+[Ab4, G#4, A4, D5]: Amaj9sus4 omit E, B sort as [3, 3, 1, 2]
+[Ab4, G#4, A4, E5]: Amaj9 omit C#, B sort as [3, 3, 1, 2]
+[Ab4, G#4, A4, F5]: Aaugmaj9 omit C#, B sort as [3, 3, 1, 2]
+[Ab4, G#4, A4, G5]: [[A with minor seventh]/[note G#]]/[note Ab]
+[Ab4, G#4, B4, A4]: Amaj9 omit C#, E sort as [2, 2, 3, 1]
+[Ab4, G#4, B4, B4]: [G# with minor third]/[note Ab]
+[Ab4, G#4, B4, C5]: Caugmaj9 omit E, D sort as [2, 2, 3, 1]
+[Ab4, G#4, B4, D5]: Bm69 omit F#, C# sort as [3, 3, 1, 2]
+[Ab4, G#4, B4, E5]: E9 omit D, F# sort as [2, 2, 3, 1]
+[Ab4, G#4, B4, F5]: Abm69 omit Eb, Bb sort as [1, 1, 2, 3]
+[Ab4, G#4, B4, G5]: Abminormajor9 omit Eb, Bb sort as [1, 1, 2, 3]
+[Ab4, G#4, C#5, A4]: Amaj9 omit E, B sort as [3, 3, 2, 1]
+[Ab4, G#4, C#5, B4]: B69 omit D#, F# sort as [2, 2, 3, 1]
+[Ab4, G#4, C#5, C5]: Ab11 omit Eb, Gb, Bb sort as [1, 1, 4, 3]
+[Ab4, G#4, C#5, D5]: Dmaj7#11 omit F#, A sort as [3, 3, 2, 1]
+[Ab4, G#4, C#5, E5]: C#m9 omit B, D# sort as [3, 3, 1, 2]
+[Ab4, G#4, C#5, F5]: Ab13sus4 omit Eb, Gb, Bb sort as [1, 1, 2, 3]
+[Ab4, G#4, C#5, G5]: Abmaj9sus4 omit Eb, Bb sort as [1, 1, 2, 3]
+[Ab4, G#4, D5, A4]: Dmaj7#11 omit F#, C# sort as [3, 3, 1, 2]
+[Ab4, G#4, D5, B4]: Bm69 omit F#, C# sort as [3, 3, 2, 1]
+[Ab4, G#4, D5, C5]: Caug9 omit E, Bb sort as [2, 2, 3, 1]
+[Ab4, G#4, D5, D5]: G#5(+octave) bD# /G#
+[Ab4, G#4, D5, E5]: Eaug9 omit C, F# sort as [2, 2, 3, 1]
+[Ab4, G#4, D5, F5]: Fm69 omit C, G sort as [2, 2, 3, 1]
+[Ab4, G#4, D5, G5]: Abmaj7#11 omit C, Eb sort as [1, 1, 4, 3]
+[Ab4, G#4, E5, A4]: E11 omit B, D, F# sort as [2, 2, 1, 3]
+[Ab4, G#4, E5, B4]: E9 omit D, F# sort as [2, 2, 1, 3]
+[Ab4, G#4, E5, C5]: Abaug9 omit Gb, Bb sort as [1, 1, 4, 3]
+[Ab4, G#4, E5, D5]: Eaug9 omit C, F# sort as [2, 2, 1, 3]
+[Ab4, G#4, E5, E5]: G#5(+octave) #D# /G#
+[Ab4, G#4, E5, F5]: Fminormajor9 omit C, G sort as [2, 2, 3, 1]
+[Ab4, G#4, E5, G5]: Abaugmaj9 omit C, Bb sort as [1, 1, 2, 3]
+[Ab4, A#4, F#4, A4]: [A#augmaj7 omit Cx]/[note Ab]
+[Ab4, A#4, F#4, B4]: Abm9 omit Eb sort as [1, 4, 2, 3]
+[Ab4, A#4, F#4, C5]: A#aug9 omit Cx sort as [3, 1, 2, 4]
+[Ab4, A#4, F#4, D5]: A#aug7 sort as [4, 1, 3, 2]
+[Ab4, A#4, F#4, E5]: F#aug9 omit D sort as [4, 2, 1, 3]
+[Ab4, A#4, F#4, F5]: Ab13sus2 omit Eb, Db
+[Ab4, A#4, F#4, G5]: [Gminormajor7 omit D /Bb]/[note Ab]
+[Ab4, A#4, G#4, A4]: [[G# with minor second]/[note A#]]/[note Ab]
+[Ab4, A#4, G#4, B4]: G#m9 omit D#, F# sort as [1, 3, 1, 2]
+[Ab4, A#4, G#4, C5]: A#aug9 omit Cx, F# sort as [2, 1, 2, 3]
+[Ab4, A#4, G#4, D5]: Abmaj9#11 omit C, Eb, G sort as [1, 2, 1, 3]
+[Ab4, A#4, G#4, E5]: G#aug9 omit B#, F# sort as [1, 3, 1, 2]
+[Ab4, A#4, G#4, F5]: Ab13sus4 omit Db, Eb, Gb sort as [1, 2, 1, 3]
+[Ab4, A#4, G#4, G5]: Abmaj13sus2 omit Eb, Db, F sort as [1, 2, 1, 3]
+[Ab4, A#4, A4, A4]: [A# with major seventh]/[note Ab]
+[Ab4, A#4, A4, B4]: [[A with major second]/[note A#]]/[note Ab]
+[Ab4, A#4, A4, C5]: [A#maj9 omit Cx, E#]/[note Ab]
+[Ab4, A#4, A4, D5]: [A#maj7 omit E# sort as [1, 3, 2]]/[note Ab]
+[Ab4, A#4, A4, E5]: [A#maj7b5 omit Cx sort as [1, 3, 2]]/[note Ab]
+[Ab4, A#4, A4, F5]: [A#maj7 omit Cx sort as [1, 3, 2]]/[note Ab]
+[Ab4, A#4, A4, G5]: [Gmadd9 omit D /Bb]/[note Ab]
+[Ab4, A#4, B4, A4]: [[B with minor seventh]/[note A#]]/[note Ab]
+[Ab4, A#4, B4, B4]: Abmadd2 omit Eb
+[Ab4, A#4, B4, C5]: [[B with minor second]/[note A#]]/[note Ab]
+[Ab4, A#4, B4, D5]: Abmadd2 bD#
+[Ab4, A#4, B4, E5]: Abmadd2 #D#
+[Ab4, A#4, B4, F5]: A#7sus2 bB# /G#
+[Ab4, A#4, B4, G5]: Abminormajor9 omit Eb sort as [1, 4, 2, 3]
+[Ab4, A#4, C#5, A4]: [A#minormajor7 omit E#]/[note Ab]
+[Ab4, A#4, C#5, B4]: Abm11 omit Eb, Gb sort as [1, 3, 4, 2]
+[Ab4, A#4, C#5, C5]: Ab11 omit Eb, Gb sort as [1, 3, 4, 2]
+[Ab4, A#4, C#5, D5]: C#6sus2 bD# /G#
+[Ab4, A#4, C#5, E5]: A#half-diminished7/G#
+[Ab4, A#4, C#5, F5]: A#m7/G#
+[Ab4, A#4, C#5, G5]: C#6sus4 #F# /G#
+[Ab4, A#4, D5, A4]: [A#maj7 omit E#]/[note Ab]
+[Ab4, A#4, D5, B4]: Abmadd2 bD# sort as [1, 2, 4, 3]
+[Ab4, A#4, D5, C5]: Caug9 omit E /G#
+[Ab4, A#4, D5, D5]: A#aug6/F###
+[Ab4, A#4, D5, E5]: A#frenchsixth/F###
+[Ab4, A#4, D5, F5]: A#7/G#
+[Ab4, A#4, D5, G5]: Abmaj7sus2 bD#
+[Ab4, A#4, E5, A4]: [A#maj7b5 omit Cx]/[note Ab]
+[Ab4, A#4, E5, B4]: Emaj7#11 omit D# sort as [2, 4, 1, 3]
+[Ab4, A#4, E5, C5]: Caug7 sort as [3, 4, 2, 1]
+[Ab4, A#4, E5, D5]: A#frenchsixth sort as [4, 1, 3, 2]
+[Ab4, A#4, E5, E5]: A#half-diminished7 omit C# /G#
+[Ab4, A#4, E5, F5]: Ab6sus2 #D#
+[Ab4, A#4, E5, G5]: Abaugmaj9 omit C sort as [1, 4, 2, 3]
+[Ab4, B4, F#4, A4]: B13sus4 omit E, C# /G#
+[Ab4, B4, F#4, B4]: Abm7 omit Eb
+[Ab4, B4, F#4, C5]: B6sus2 bC# /F# sort as [1, 2, 4, 3]
+[Ab4, B4, F#4, D5]: Abhalf-diminished7 sort as [1, 2, 4, 3]
+[Ab4, B4, F#4, E5]: Eadd9/G#
+[Ab4, B4, F#4, F5]: F#maj11 omit A#, C# /G#
+[Ab4, B4, F#4, G5]: [Gmaj7 omit D /B]/[note Ab]
+[Ab4, B4, G#4, A4]: Amaj9 omit C#, E sort as [2, 3, 2, 1]
+[Ab4, B4, G#4, B4]: [B with major sixth]/[note Ab]
+[Ab4, B4, G#4, C5]: Caugmaj9 omit E, D sort as [2, 3, 2, 1]
+[Ab4, B4, G#4, D5]: Bm69 omit F#, C# sort as [3, 1, 3, 2]
+[Ab4, B4, G#4, E5]: E9 omit D, F# sort as [2, 3, 2, 1]
+[Ab4, B4, G#4, F5]: Abm69 omit Eb, Bb sort as [1, 2, 1, 3]
+[Ab4, B4, G#4, G5]: Abminormajor9 omit Eb, Bb sort as [1, 2, 1, 3]
+[Ab4, B4, A4, A4]: Amaj9 omit C#, E /G#
+[Ab4, B4, A4, B4]: Amaj9 omit C#, E /G#
+[Ab4, B4, A4, C5]: Aminormajor9 omit E /G#
+[Ab4, B4, A4, D5]: Amaj9sus4 omit E /G#
+[Ab4, B4, A4, E5]: Amaj9 omit C# /G#
+[Ab4, B4, A4, F5]: Aaugmaj9 omit C# /G#
+[Ab4, B4, A4, G5]: [Gadd9 omit D /B]/[note Ab]
+[Ab4, B4, B4, A4]: Amaj9 omit C#, E /G#
+[Ab4, B4, B4, B4]: Ab with minor third
+[Ab4, B4, B4, C5]: Caugmaj7 omit E /G#
+[Ab4, B4, B4, D5]: Abdim
+[Ab4, B4, B4, E5]: Emajor/G#
+[Ab4, B4, B4, F5]: Fdim/Ab
+[Ab4, B4, B4, G5]: Abminormajor7 omit Eb
+[Ab4, B4, C#5, A4]: B13sus2 omit F#, E /G#
+[Ab4, B4, C#5, B4]: Abmadd4 omit Eb
+[Ab4, B4, C#5, C5]: [[C# with major seventh]/[note B]]/[note Ab]
+[Ab4, B4, C#5, D5]: Abmadd4 bD#
+[Ab4, B4, C#5, E5]: C#m7/G#
+[Ab4, B4, C#5, F5]: C#7/G#
+[Ab4, B4, C#5, G5]: Abdim(Maj7) bb5/#4
+[Ab4, B4, D5, A4]: Amaj11 omit C#, E /G#
+[Ab4, B4, D5, B4]: Abdim
+[Ab4, B4, D5, C5]: Caugmaj9 omit E /G#
+[Ab4, B4, D5, D5]: Abdim
+[Ab4, B4, D5, E5]: E7/G#
+[Ab4, B4, D5, F5]: Abdim7
+[Ab4, B4, D5, G5]: Abdim(Maj7)
+[Ab4, B4, E5, A4]: B13sus4 omit F#, C# /G#
+[Ab4, B4, E5, B4]: Emajor/G#
+[Ab4, B4, E5, C5]: Caugmaj7 sort as [3, 4, 2, 1]
+[Ab4, B4, E5, D5]: E7 sort as [2, 3, 1, 4]
+[Ab4, B4, E5, E5]: Emajor/G#
+[Ab4, B4, E5, F5]: Fdim(Maj7)/Ab
+[Ab4, B4, E5, G5]: Abminormajor7 #D#
+[Ab4, C#5, F#4, A4]: F#madd2 sort as [2, 4, 1, 3]
+[Ab4, C#5, F#4, B4]: C#7sus4 sort as [3, 1, 2, 4]
+[Ab4, C#5, F#4, C5]: C#maj7sus4 sort as [3, 1, 2, 4]
+[Ab4, C#5, F#4, D5]: Dmaj7b5 sort as [3, 4, 2, 1]
+[Ab4, C#5, F#4, E5]: E69 omit B /G#
+[Ab4, C#5, F#4, F5]: Ab13sus4 omit Eb, Bb
+[Ab4, C#5, F#4, G5]: C#add4 #E#, #F# sort as [4, 1, 3, 2]
+[Ab4, C#5, G#4, A4]: Amaj9 omit E, B sort as [3, 2, 3, 1]
+[Ab4, C#5, G#4, B4]: C#9 omit E#, D# sort as [2, 1, 2, 3]
+[Ab4, C#5, G#4, C5]: C#maj9 omit E#, D# sort as [2, 1, 2, 3]
+[Ab4, C#5, G#4, D5]: Dmaj7#11 omit F#, A sort as [3, 2, 3, 1]
+[Ab4, C#5, G#4, E5]: C#m9 omit B, D# sort as [3, 1, 3, 2]
+[Ab4, C#5, G#4, F5]: Ab13sus4 omit Eb, Gb, Bb sort as [1, 2, 1, 3]
+[Ab4, C#5, G#4, G5]: Abmaj9sus4 omit Eb, Bb sort as [1, 2, 1, 3]
+[Ab4, C#5, A4, A4]: Amaj7 omit E sort as [3, 2, 1]
+[Ab4, C#5, A4, B4]: Amaj9 omit E sort as [3, 2, 1, 4]
+[Ab4, C#5, A4, C5]: [C#augmaj7 omit E#]/[note Ab]
+[Ab4, C#5, A4, D5]: Amaj11 omit E, B sort as [3, 2, 1, 4]
+[Ab4, C#5, A4, E5]: Amaj7 sort as [4, 2, 1, 3]
+[Ab4, C#5, A4, F5]: Aaugmaj7 sort as [4, 2, 1, 3]
+[Ab4, C#5, A4, G5]: [Aaug6 sort as [2, 1, 3]]/[note Ab]
+[Ab4, C#5, B4, A4]: Amaj9 omit E sort as [3, 2, 4, 1]
+[Ab4, C#5, B4, B4]: B69 omit D#, F# /G#
+[Ab4, C#5, B4, C5]: [[B with minor second]/[note C#]]/[note Ab]
+[Ab4, C#5, B4, D5]: Bm69 omit F# /G#
+[Ab4, C#5, B4, E5]: C#m7 sort as [3, 1, 4, 2]
+[Ab4, C#5, B4, F5]: C#7 sort as [3, 1, 4, 2]
+[Ab4, C#5, B4, G5]: C#13#11 omit E#, D#, A# /Fx sort as [1, 4, 2, 3]
+[Ab4, C#5, C#5, A4]: Amaj7 omit E sort as [3, 2, 1]
+[Ab4, C#5, C#5, B4]: B69 omit D#, F# /G#
+[Ab4, C#5, C#5, C5]: Abadd4 omit Eb sort as [1, 3, 2]
+[Ab4, C#5, C#5, D5]: Dmaj7b5 omit F# /Ab
+[Ab4, C#5, C#5, E5]: C#minor/G#
+[Ab4, C#5, C#5, F5]: C#major/G#
+[Ab4, C#5, C#5, G5]: Abmaj7sus4 omit Eb
+[Ab4, C#5, D5, A4]: Dmaj7#11 omit F# sort as [4, 3, 1, 2]
+[Ab4, C#5, D5, B4]: Bm69 omit F# sort as [3, 4, 2, 1]
+[Ab4, C#5, D5, C5]: [[D with minor seventh]/[note C#]]/[note Ab]
+[Ab4, C#5, D5, D5]: Dmaj7b5 omit F# /Ab
+[Ab4, C#5, D5, E5]: C#madd2 bD# /G#
+[Ab4, C#5, D5, F5]: Ddim(Maj7)/Ab
+[Ab4, C#5, D5, G5]: Abmaj7sus4 bD#
+[Ab4, C#5, E5, A4]: Amaj7 sort as [4, 2, 3, 1]
+[Ab4, C#5, E5, B4]: C#m7 sort as [3, 1, 2, 4]
+[Ab4, C#5, E5, C5]: C#minormajor7 sort as [3, 1, 2, 4]
+[Ab4, C#5, E5, D5]: Dmaj9#11 omit F#, A sort as [4, 2, 3, 1]
+[Ab4, C#5, E5, E5]: C#minor/G#
+[Ab4, C#5, E5, F5]: Ab6sus4 #D#
+[Ab4, C#5, E5, G5]: Abaugmaj7 #B#
+[Bb4, D#4, F#4, A4]: Bbaugmaj7 #Cx
+[Bb4, D#4, F#4, B4]: Bmaj7 sort as [4, 2, 3, 1]
+[Bb4, D#4, F#4, C5]: D#m6 sort as [3, 1, 2, 4]
+[Bb4, D#4, F#4, D5]: D#minormajor7 sort as [3, 1, 2, 4]
+[Bb4, D#4, F#4, E5]: Emaj9#11 omit G#, B sort as [4, 2, 3, 1]
+[Bb4, D#4, F#4, F5]: D#madd2 sort as [4, 1, 3, 2]
+[Bb4, D#4, F#4, G5]: Bb6sus4 #E#
+[Bb4, D#4, G#4, A4]: D#add4 #Fx, #G# sort as [4, 1, 3, 2]
+[Bb4, D#4, G#4, B4]: G#madd2 sort as [2, 4, 1, 3]
+[Bb4, D#4, G#4, C5]: Bb9sus4 omit F
+[Bb4, D#4, G#4, D5]: D#maj7sus4 sort as [3, 1, 2, 4]
+[Bb4, D#4, G#4, E5]: Emaj7b5 sort as [3, 4, 2, 1]
+[Bb4, D#4, G#4, F5]: Bb7sus4 sort as [1, 2, 4, 3]
+[Bb4, D#4, G#4, G5]: Bb13sus4 omit F, C
+[Bb4, D#4, A4, A4]: Bbmaj7sus4 omit F
+[Bb4, D#4, A4, B4]: [Baug6/D#]/[note Bb]
+[Bb4, D#4, A4, C5]: Bbmaj9sus4 omit F
+[Bb4, D#4, A4, D5]: Bbmaj11 omit F, C sort as [1, 4, 2, 3]
+[Bb4, D#4, A4, E5]: Bbmaj7sus4 bE# sort as [1, 2, 4, 3]
+[Bb4, D#4, A4, F5]: Bbmaj7sus4 sort as [1, 2, 4, 3]
+[Bb4, D#4, A4, G5]: Bbmaj13sus4 omit F, C
+[Bb4, D#4, B4, A4]: [Baug6 sort as [2, 1, 3]]/[note Bb]
+[Bb4, D#4, B4, B4]: Bmaj7 omit F# sort as [3, 2, 1]
+[Bb4, D#4, B4, C5]: [Cminormajor7 omit G /Eb]/[note Bb]
+[Bb4, D#4, B4, D5]: [D#augmaj7 omit Fx]/[note Bb]
+[Bb4, D#4, B4, E5]: Bmaj11 omit F#, C# sort as [3, 2, 1, 4]
+[Bb4, D#4, B4, F5]: Bmaj7b5 sort as [4, 2, 1, 3]
+[Bb4, D#4, B4, G5]: Baugmaj7 sort as [4, 2, 1, 3]
+[Bb4, D#4, C#5, A4]: D#13#11 omit Fx, E#, B# /Gx sort as [1, 4, 2, 3]
+[Bb4, D#4, C#5, B4]: Bmaj9 omit F# sort as [3, 2, 4, 1]
+[Bb4, D#4, C#5, C5]: D#13sus4 omit G#, E# sort as [2, 1, 3, 4]
+[Bb4, D#4, C#5, D5]: [[C# with minor second]/[note D#]]/[note Bb]
+[Bb4, D#4, C#5, E5]: C#m69 omit G# /A#
+[Bb4, D#4, C#5, F5]: Bbmadd4 sort as [1, 3, 2, 4]
+[Bb4, D#4, C#5, G5]: D#7 sort as [3, 1, 4, 2]
+[Bb4, D#4, D5, A4]: D#maj7#11 omit Fx sort as [2, 1, 3, 4]
+[Bb4, D#4, D5, B4]: [D#augmaj7 omit Fx sort as [1, 3, 2]]/[note Bb]
+[Bb4, D#4, D5, C5]: Cm9 omit G sort as [3, 2, 4, 1]
+[Bb4, D#4, D5, D5]: Bbadd4 omit F sort as [1, 3, 2]
+[Bb4, D#4, D5, E5]: [[D with major second]/[note D#]]/[note Bb]
+[Bb4, D#4, D5, F5]: Bbadd4 sort as [1, 3, 2, 4]
+[Bb4, D#4, D5, G5]: D#maj7 sort as [3, 1, 4, 2]
+[Bb4, D#4, E5, A4]: Bbmaj7sus4 bE#
+[Bb4, D#4, E5, B4]: Emaj7#11 omit G# sort as [4, 3, 1, 2]
+[Bb4, D#4, E5, C5]: [Eaugmaj7 omit G# /D#]/[note Bb]
+[Bb4, D#4, E5, D5]: [[E with minor seventh]/[note D#]]/[note Bb]
+[Bb4, D#4, E5, E5]: Emaj7b5 omit G# /Bb
+[Bb4, D#4, E5, F5]: Bbadd4 #Cx, #D#
+[Bb4, D#4, E5, G5]: Edim(Maj7)/Bb
+[Bb4, E#4, F#4, A4]: [F#minormajor7 omit C# /E#]/[note Bb]
+[Bb4, E#4, F#4, B4]: Bmaj7#11 omit D# sort as [3, 4, 2, 1]
+[Bb4, E#4, F#4, C5]: F#maj7b5 sort as [2, 4, 1, 3]
+[Bb4, E#4, F#4, D5]: F#augmaj7 sort as [2, 4, 1, 3]
+[Bb4, E#4, F#4, E5]: [[F# with minor seventh]/[note E#]]/[note Bb]
+[Bb4, E#4, F#4, F5]: F#maj9 omit C#, G# sort as [2, 3, 1, 3]
+[Bb4, E#4, F#4, G5]: [[F# with minor second]/[note E#]]/[note Bb]
+[Bb4, E#4, G#4, A4]: [Aaugmaj7 omit C# /E#]/[note Bb]
+[Bb4, E#4, G#4, B4]: G#m13 omit D#, F#, C# /A#
+[Bb4, E#4, G#4, C5]: Bb7sus2 sort as [1, 3, 4, 2]
+[Bb4, E#4, G#4, D5]: Bb7 sort as [1, 3, 4, 2]
+[Bb4, E#4, G#4, E5]: Bb13#11 omit D, C, G
+[Bb4, E#4, G#4, F5]: Bb9 omit D, C sort as [1, 2, 3, 2]
+[Bb4, E#4, G#4, G5]: Bb13sus4 omit Eb, C
+[Bb4, E#4, A4, A4]: Bbmaj7 omit D
+[Bb4, E#4, A4, B4]: [E#frenchsixth omit D#]/[note Bb]
+[Bb4, E#4, A4, C5]: Bbmaj7sus2 sort as [1, 3, 4, 2]
+[Bb4, E#4, A4, D5]: Bbmaj7 sort as [1, 3, 4, 2]
+[Bb4, E#4, A4, E5]: Bbmaj7#11 omit D
+[Bb4, E#4, A4, F5]: Bbmaj9 omit D, C sort as [1, 2, 3, 2]
+[Bb4, E#4, A4, G5]: Gm9 omit D /Bb
+[Bb4, E#4, B4, A4]: [Aaug9 omit C#, G /E#]/[note Bb]
+[Bb4, E#4, B4, B4]: Bmaj7#11 omit D#, F# /A#
+[Bb4, E#4, B4, C5]: Bbmadd2 bB#, bb3 sort as [1, 4, 2, 3]
+[Bb4, E#4, B4, D5]: Bdim(Maj7) sort as [4, 3, 1, 2]
+[Bb4, E#4, B4, E5]: Bmaj7sus4 bF# /F sort as [1, 4, 2, 3]
+[Bb4, E#4, B4, F5]: Bmaj7#11 omit D#, F# sort as [2, 3, 1, 3]
+[Bb4, E#4, B4, G5]: [E#fifth_9th bC]/[note Bb]
+[Bb4, E#4, C#5, A4]: Bbminormajor7 sort as [1, 3, 2, 4]
+[Bb4, E#4, C#5, B4]: Bmaj9#11 omit D#, F# sort as [2, 4, 3, 1]
+[Bb4, E#4, C#5, C5]: Bbmadd2 sort as [1, 4, 3, 2]
+[Bb4, E#4, C#5, D5]: Bbadd2 #B# sort as [1, 4, 2, 3]
+[Bb4, E#4, C#5, E5]: Bbmadd4 #D# sort as [1, 4, 2, 3]
+[Bb4, E#4, C#5, F5]: Bbm9 omit Ab, C sort as [1, 3, 2, 3]
+[Bb4, E#4, C#5, G5]: Bbm6 sort as [1, 3, 2, 4]
+[Bb4, E#4, D5, A4]: Bbmaj7 sort as [1, 3, 2, 4]
+[Bb4, E#4, D5, B4]: Bdim(Maj7) sort as [4, 3, 2, 1]
+[Bb4, E#4, D5, C5]: Bbadd2 sort as [1, 4, 3, 2]
+[Bb4, E#4, D5, D5]: Bbmajor sort as [1, 3, 2]
+[Bb4, E#4, D5, E5]: Bbmaj7#11 omit A sort as [1, 3, 2, 4]
+[Bb4, E#4, D5, F5]: Bb9 omit Ab, C sort as [1, 3, 2, 3]
+[Bb4, E#4, D5, G5]: Bbadd6 sort as [1, 3, 2, 4]
+[Bb4, E#4, E5, A4]: Bbmaj7#11 omit D sort as [1, 2, 4, 3]
+[Bb4, E#4, E5, B4]: [E#maj7b5 omit Gx sort as [1, 3, 2]]/[note Bb]
+[Bb4, E#4, E5, C5]: Bbmaj9#11 omit D, A sort as [1, 2, 4, 3]
+[Bb4, E#4, E5, D5]: Bbmaj7#11 omit A sort as [1, 3, 4, 2]
+[Bb4, E#4, E5, E5]: Bbmaj7#11 omit D, A
+[Bb4, E#4, E5, F5]: Bbmaj7#11 omit D, A sort as [1, 2, 3, 2]
+[Bb4, E#4, E5, G5]: E#maj11 omit Gx, B# /A#
+[Bb4, F#4, F#4, A4]: Bbaugmaj7 omit D
+[Bb4, F#4, F#4, B4]: F#add4 omit C# sort as [2, 1, 3]
+[Bb4, F#4, F#4, C5]: Bbaug9 omit D, Ab
+[Bb4, F#4, F#4, D5]: Bbaug sort as [1, 3, 2]
+[Bb4, F#4, F#4, E5]: F#aug6 sort as [2, 1, 3]
+[Bb4, F#4, F#4, F5]: F#maj7 omit C# sort as [2, 1, 3]
+[Bb4, F#4, F#4, G5]: Gminormajor7 omit D /Bb
+[Bb4, F#4, G#4, A4]: [F#madd2 omit C#]/[note Bb]
+[Bb4, F#4, G#4, B4]: G#m9 omit D# sort as [4, 3, 1, 2]
+[Bb4, F#4, G#4, C5]: Bbaug9 omit D
+[Bb4, F#4, G#4, D5]: Bbaug7 sort as [1, 3, 4, 2]
+[Bb4, F#4, G#4, E5]: G#aug9 omit B# sort as [4, 3, 1, 2]
+[Bb4, F#4, G#4, F5]: F#maj9 omit C# sort as [2, 1, 4, 3]
+[Bb4, F#4, G#4, G5]: [[G# with major seventh]/[note F#]]/[note Bb]
+[Bb4, F#4, A4, A4]: Bbaugmaj7 omit D
+[Bb4, F#4, A4, B4]: [F#madd4 omit C#]/[note Bb]
+[Bb4, F#4, A4, C5]: Bbaugmaj9 omit D
+[Bb4, F#4, A4, D5]: Bbaugmaj7 sort as [1, 3, 4, 2]
+[Bb4, F#4, A4, E5]: [F#m7 omit C#]/[note Bb]
+[Bb4, F#4, A4, F5]: [F#minormajor7 omit C#]/[note Bb]
+[Bb4, F#4, A4, G5]: Gminormajor9 omit D /Bb
+[Bb4, F#4, B4, A4]: [A69 omit C#, E /F#]/[note Bb]
+[Bb4, F#4, B4, B4]: F#add4 omit C# sort as [2, 1, 3]
+[Bb4, F#4, B4, C5]: Bmaj7sus2 bC# /F# sort as [1, 4, 2, 3]
+[Bb4, F#4, B4, D5]: Bminormajor7 sort as [4, 3, 1, 2]
+[Bb4, F#4, B4, E5]: Bmaj7sus4 sort as [4, 3, 1, 2]
+[Bb4, F#4, B4, F5]: F#maj11 omit C#, G# sort as [2, 1, 4, 3]
+[Bb4, F#4, B4, G5]: [Gmaj7 omit D sort as [3, 2, 1]]/[note Bb]
+[Bb4, F#4, C#5, A4]: [F#minor sort as [1, 3, 2]]/[note Bb]
+[Bb4, F#4, C#5, B4]: Bmaj9 omit D# sort as [3, 2, 4, 1]
+[Bb4, F#4, C#5, C5]: F#maj7#11 omit E# sort as [2, 1, 3, 4]
+[Bb4, F#4, C#5, D5]: Daugmaj7 sort as [3, 2, 4, 1]
+[Bb4, F#4, C#5, E5]: F#7 sort as [2, 1, 3, 4]
+[Bb4, F#4, C#5, F5]: F#maj7 sort as [2, 1, 3, 4]
+[Bb4, F#4, C#5, G5]: Gdim(Maj7) sort as [2, 4, 3, 1]
+[Bb4, F#4, D5, A4]: Bbaugmaj7 sort as [1, 3, 2, 4]
+[Bb4, F#4, D5, B4]: Bminormajor7 sort as [4, 3, 2, 1]
+[Bb4, F#4, D5, C5]: Bbaug9 omit Ab sort as [1, 3, 2, 4]
+[Bb4, F#4, D5, D5]: Bbaug sort as [1, 3, 2]
+[Bb4, F#4, D5, E5]: F#aug7 sort as [2, 1, 3, 4]
+[Bb4, F#4, D5, F5]: F#augmaj7 sort as [2, 1, 3, 4]
+[Bb4, F#4, D5, G5]: Gminormajor7 sort as [2, 4, 3, 1]
+[Bb4, F#4, E5, A4]: [E9sus4 omit B, D /F#]/[note Bb]
+[Bb4, F#4, E5, B4]: F#11 omit C#, G# sort as [2, 1, 3, 4]
+[Bb4, F#4, E5, C5]: F#frenchsixth sort as [2, 1, 4, 3]
+[Bb4, F#4, E5, D5]: Daug9 omit C sort as [3, 2, 4, 1]
+[Bb4, F#4, E5, E5]: F#aug6 sort as [2, 1, 3]
+[Bb4, F#4, E5, F5]: [[E with minor second]/[note F#]]/[note Bb]
+[Bb4, F#4, E5, G5]: Emadd9 bB /F#
+[Bb4, G#4, F#4, A4]: [F#madd9 omit C# /G#]/[note Bb]
+[Bb4, G#4, F#4, B4]: G#m9 omit D# sort as [4, 1, 3, 2]
+[Bb4, G#4, F#4, C5]: Bbaug9 omit D sort as [1, 3, 2, 4]
+[Bb4, G#4, F#4, D5]: Bbaug7 sort as [1, 4, 3, 2]
+[Bb4, G#4, F#4, E5]: G#aug9 omit B# sort as [4, 1, 3, 2]
+[Bb4, G#4, F#4, F5]: F#maj9 omit C# sort as [2, 4, 1, 3]
+[Bb4, G#4, F#4, G5]: [[F# with minor second]/[note G#]]/[note Bb]
+[Bb4, G#4, G#4, A4]: [G# with minor second]/[note Bb]
+[Bb4, G#4, G#4, B4]: G#madd9 omit D# /A#
+[Bb4, G#4, G#4, C5]: G#add9 omit D# /A#
+[Bb4, G#4, G#4, D5]: Bbaug6 sort as [1, 3, 2]
+[Bb4, G#4, G#4, E5]: G#aug9 omit B#, F# /A#
+[Bb4, G#4, G#4, F5]: G#69 omit B#, D# /A#
+[Bb4, G#4, G#4, G5]: G#maj9 omit B#, D# /A#
+[Bb4, G#4, A4, A4]: [G# with minor second]/[note Bb]
+[Bb4, G#4, A4, B4]: [Amaj7sus2 omit E /G#]/[note Bb]
+[Bb4, G#4, A4, C5]: [Aminormajor7 omit E /G#]/[note Bb]
+[Bb4, G#4, A4, D5]: [Amaj7sus4 omit E /G#]/[note Bb]
+[Bb4, G#4, A4, E5]: [Amaj7 omit C# /G#]/[note Bb]
+[Bb4, G#4, A4, F5]: [Aaugmaj7 omit C# /G#]/[note Bb]
+[Bb4, G#4, A4, G5]: [[A with minor seventh]/[note G#]]/[note Bb]
+[Bb4, G#4, B4, A4]: [Amaj9 omit C#, E /G#]/[note Bb]
+[Bb4, G#4, B4, B4]: G#madd9 omit D# /A#
+[Bb4, G#4, B4, C5]: [Caugmaj7 omit E /G#]/[note Bb]
+[Bb4, G#4, B4, D5]: G#madd9 bD# /A#
+[Bb4, G#4, B4, E5]: Bmaj13sus4 omit F#, C# /A#
+[Bb4, G#4, B4, F5]: G#m69 omit D# /A#
+[Bb4, G#4, B4, G5]: G#minormajor9 omit D# /A#
+[Bb4, G#4, C#5, A4]: [Amaj7 omit E sort as [3, 2, 1]]/[note Bb]
+[Bb4, G#4, C#5, B4]: C#13sus4 omit F#, D# sort as [4, 2, 1, 3]
+[Bb4, G#4, C#5, C5]: Bbm9 omit F sort as [1, 3, 2, 4]
+[Bb4, G#4, C#5, D5]: C#6sus2 bD# /G# sort as [1, 4, 2, 3]
+[Bb4, G#4, C#5, E5]: Bbhalf-diminished7 sort as [1, 4, 2, 3]
+[Bb4, G#4, C#5, F5]: Bbm7 sort as [1, 4, 2, 3]
+[Bb4, G#4, C#5, G5]: G#maj9sus4 omit D# /A#
+[Bb4, G#4, D5, A4]: [Dmaj7#11 omit F#, C# /G#]/[note Bb]
+[Bb4, G#4, D5, B4]: G#madd9 bD# /D sort as [1, 2, 4, 3]
+[Bb4, G#4, D5, C5]: Bbaug9 omit Gb sort as [1, 3, 2, 4]
+[Bb4, G#4, D5, D5]: Bbaug6 sort as [1, 3, 2]
+[Bb4, G#4, D5, E5]: Bbfrenchsixth sort as [1, 4, 2, 3]
+[Bb4, G#4, D5, F5]: Bb7 sort as [1, 4, 2, 3]
+[Bb4, G#4, D5, G5]: G#maj9#11 omit B#, D# sort as [3, 1, 4, 2]
+[Bb4, G#4, E5, A4]: [Eadd4 omit B sort as [2, 1, 3]]/[note Bb]
+[Bb4, G#4, E5, B4]: Emaj7#11 omit D# sort as [4, 2, 1, 3]
+[Bb4, G#4, E5, C5]: G#aug9 omit F# sort as [4, 1, 3, 2]
+[Bb4, G#4, E5, D5]: Bbfrenchsixth sort as [1, 4, 3, 2]
+[Bb4, G#4, E5, E5]: G#aug9 omit B#, F# /A#
+[Bb4, G#4, E5, F5]: Bb7sus4 #D# sort as [1, 4, 2, 3]
+[Bb4, G#4, E5, G5]: G#augmaj9 omit B# /A#
+[Bb4, A#4, F#4, A4]: Bbaugmaj9 omit D, C sort as [1, 1, 2, 3]
+[Bb4, A#4, F#4, B4]: F#11 omit C#, E, G# sort as [2, 2, 1, 3]
+[Bb4, A#4, F#4, C5]: Bbaug9 omit D, Ab sort as [1, 1, 2, 3]
+[Bb4, A#4, F#4, D5]: Bbaug9 omit Ab, C sort as [1, 1, 4, 3]
+[Bb4, A#4, F#4, E5]: F#aug9 omit D, G# sort as [2, 2, 1, 3]
+[Bb4, A#4, F#4, F5]: F#maj9 omit C#, G# sort as [2, 2, 1, 3]
+[Bb4, A#4, F#4, G5]: Gminormajor9 omit D, A sort as [2, 2, 3, 1]
+[Bb4, A#4, G#4, A4]: [[G# with minor second]/[note A#]]/[note Bb]
+[Bb4, A#4, G#4, B4]: G#m9 omit D#, F# sort as [3, 3, 1, 2]
+[Bb4, A#4, G#4, C5]: Bbaug9 omit D, Gb sort as [1, 1, 2, 3]
+[Bb4, A#4, G#4, D5]: Bbaug9 omit Gb, C sort as [1, 1, 4, 3]
+[Bb4, A#4, G#4, E5]: G#aug9 omit B#, F# sort as [3, 3, 1, 2]
+[Bb4, A#4, G#4, F5]: G#69 omit B#, D# sort as [3, 3, 1, 2]
+[Bb4, A#4, G#4, G5]: Bb13sus4 omit Eb, F, C sort as [1, 1, 2, 3]
+[Bb4, A#4, A4, A4]: [A# with major seventh]/[note Bb]
+[Bb4, A#4, A4, B4]: [[A with major second]/[note A#]]/[note Bb]
+[Bb4, A#4, A4, C5]: Bbmaj9 omit D, F sort as [1, 1, 2, 3]
+[Bb4, A#4, A4, D5]: Bbmaj9 omit F, C sort as [1, 1, 4, 3]
+[Bb4, A#4, A4, E5]: Bbmaj7#11 omit D, F sort as [1, 1, 2, 3]
+[Bb4, A#4, A4, F5]: Bbmaj9 omit D, C sort as [1, 1, 4, 3]
+[Bb4, A#4, A4, G5]: Bbmaj13sus4 omit Eb, F, C sort as [1, 1, 2, 3]
+[Bb4, A#4, B4, A4]: [[B with minor seventh]/[note A#]]/[note Bb]
+[Bb4, A#4, B4, B4]: [A# with minor second]/[note Bb]
+[Bb4, A#4, B4, C5]: [[B with minor second]/[note A#]]/[note Bb]
+[Bb4, A#4, B4, D5]: Bminormajor9 omit F#, C# sort as [3, 3, 1, 2]
+[Bb4, A#4, B4, E5]: Bmaj9sus4 omit F#, C# sort as [3, 3, 1, 2]
+[Bb4, A#4, B4, F5]: Bmaj7#11 omit D#, F# sort as [2, 2, 1, 3]
+[Bb4, A#4, B4, G5]: Baugmaj9 omit D#, C# sort as [3, 3, 1, 2]
+[Bb4, A#4, C#5, A4]: Bbminormajor9 omit F, C sort as [1, 1, 2, 3]
+[Bb4, A#4, C#5, B4]: Bmaj9 omit D#, F# sort as [2, 2, 3, 1]
+[Bb4, A#4, C#5, C5]: Bbm9 omit F, Ab sort as [1, 1, 2, 3]
+[Bb4, A#4, C#5, D5]: Daugmaj9 omit F#, E sort as [2, 2, 3, 1]
+[Bb4, A#4, C#5, E5]: C#m69 omit G#, D# sort as [3, 3, 1, 2]
+[Bb4, A#4, C#5, F5]: Bbm9 omit Ab, C sort as [1, 1, 2, 3]
+[Bb4, A#4, C#5, G5]: Bbm69 omit F, C sort as [1, 1, 2, 3]
+[Bb4, A#4, D5, A4]: Bbmaj9 omit F, C sort as [1, 1, 2, 3]
+[Bb4, A#4, D5, B4]: Bminormajor9 omit F#, C# sort as [3, 3, 2, 1]
+[Bb4, A#4, D5, C5]: Bbaug9 omit Gb, Ab sort as [1, 1, 2, 3]
+[Bb4, A#4, D5, D5]: [A# with major third]/[note Bb]
+[Bb4, A#4, D5, E5]: Bbmaj7#11 omit F, A sort as [1, 1, 2, 3]
+[Bb4, A#4, D5, F5]: Bb9 omit Ab, C sort as [1, 1, 2, 3]
+[Bb4, A#4, D5, G5]: Bb69 omit F, C sort as [1, 1, 2, 3]
+[Bb4, A#4, E5, A4]: Bbmaj7#11 omit D, F sort as [1, 1, 4, 3]
+[Bb4, A#4, E5, B4]: Emaj7#11 omit G#, D# sort as [3, 3, 1, 2]
+[Bb4, A#4, E5, C5]: Bbmaj9#11 omit D, F, A sort as [1, 1, 4, 3]
+[Bb4, A#4, E5, D5]: Daug9 omit F#, C sort as [2, 2, 3, 1]
+[Bb4, A#4, E5, E5]: A#5(+octave) bE# /A#
+[Bb4, A#4, E5, F5]: Fmaj9sus4 omit C, G sort as [2, 2, 3, 1]
+[Bb4, A#4, E5, G5]: Gm69 omit D, A sort as [2, 2, 3, 1]
+[Bb4, B4, F#4, A4]: [Bm7 omit D]/[note Bb]
+[Bb4, B4, F#4, B4]: Bmaj7 omit D# /A#
+[Bb4, B4, F#4, C5]: Bmaj7sus2 bC# /F# sort as [1, 2, 4, 3]
+[Bb4, B4, F#4, D5]: Bminormajor7 sort as [4, 1, 3, 2]
+[Bb4, B4, F#4, E5]: Bmaj7sus4 sort as [4, 1, 3, 2]
+[Bb4, B4, F#4, F5]: Bmaj7#11 omit D# sort as [3, 1, 2, 4]
+[Bb4, B4, F#4, G5]: [Gmaj7 omit D /B]/[note Bb]
+[Bb4, B4, G#4, A4]: [Amaj7sus2 omit E /B]/[note Bb]
+[Bb4, B4, G#4, B4]: G#madd2 omit D# /A#
+[Bb4, B4, G#4, C5]: [Caugmaj7 omit E sort as [3, 2, 1]]/[note Bb]
+[Bb4, B4, G#4, D5]: G#madd2 bD# /A# sort as [1, 2, 4, 3]
+[Bb4, B4, G#4, E5]: Bmaj13sus4 omit F#, C# sort as [3, 1, 4, 2]
+[Bb4, B4, G#4, F5]: G#m69 omit D# sort as [4, 2, 1, 3]
+[Bb4, B4, G#4, G5]: G#minormajor9 omit D# sort as [4, 2, 1, 3]
+[Bb4, B4, A4, A4]: [B with minor seventh]/[note Bb]
+[Bb4, B4, A4, B4]: [B with minor seventh]/[note Bb]
+[Bb4, B4, A4, C5]: [Amadd9 omit E /B]/[note Bb]
+[Bb4, B4, A4, D5]: [A9sus4 omit E, G /B]/[note Bb]
+[Bb4, B4, A4, E5]: Eadd4 #G#, #A sort as [2, 4, 3, 1]
+[Bb4, B4, A4, F5]: Bbmaj7sus2 bB# sort as [1, 2, 4, 3]
+[Bb4, B4, A4, G5]: [Gadd9 omit D /B]/[note Bb]
+[Bb4, B4, B4, A4]: [B with minor seventh]/[note Bb]
+[Bb4, B4, B4, B4]: Bb with minor second
+[Bb4, B4, B4, C5]: [B with minor second]/[note Bb]
+[Bb4, B4, B4, D5]: Bminormajor7 omit F# /A#
+[Bb4, B4, B4, E5]: Bmaj7sus4 omit F# /A#
+[Bb4, B4, B4, F5]: Bmaj7b5 omit D# /A#
+[Bb4, B4, B4, G5]: Baugmaj7 omit D# /A#
+[Bb4, B4, C#5, A4]: [B7sus2 omit F#]/[note Bb]
+[Bb4, B4, C#5, B4]: Bmaj7sus2 omit F# /A#
+[Bb4, B4, C#5, C5]: [[C# with major seventh]/[note B]]/[note Bb]
+[Bb4, B4, C#5, D5]: Bminormajor9 omit F# sort as [3, 1, 4, 2]
+[Bb4, B4, C#5, E5]: E6sus4 #A /A#
+[Bb4, B4, C#5, F5]: Bbmadd2 bB#
+[Bb4, B4, C#5, G5]: Bmaj7sus2 #F# /A#
+[Bb4, B4, D5, A4]: [Bm7 omit F#]/[note Bb]
+[Bb4, B4, D5, B4]: Bminormajor7 omit F# /A#
+[Bb4, B4, D5, C5]: [Cmaj9 omit E, G /B]/[note Bb]
+[Bb4, B4, D5, D5]: Bminormajor7 omit F# /A#
+[Bb4, B4, D5, E5]: Bdim(Maj7) bb5/#4
+[Bb4, B4, D5, F5]: Bdim(Maj7)/A#
+[Bb4, B4, D5, G5]: Bminormajor7 #F# /A#
+[Bb4, B4, E5, A4]: Eadd4 #G#, #A sort as [2, 4, 1, 3]
+[Bb4, B4, E5, B4]: Bmaj7sus4 omit F# /A#
+[Bb4, B4, E5, C5]: [Cmaj7 omit G sort as [3, 2, 1]]/[note Bb]
+[Bb4, B4, E5, D5]: Bdim(Maj7) bb5/#4 sort as [1, 2, 4, 3]
+[Bb4, B4, E5, E5]: Bmaj7sus4 omit F# /A#
+[Bb4, B4, E5, F5]: Bmaj7sus4 bF# /A#
+[Bb4, B4, E5, G5]: Baugmaj7 #D# /A#
+[Bb4, C#5, F#4, A4]: Bbminormajor7 #E#
+[Bb4, C#5, F#4, B4]: C#13sus4 omit G#, D# /A#
+[Bb4, C#5, F#4, C5]: C#maj13sus4 omit G#, D# /A#
+[Bb4, C#5, F#4, D5]: Daugmaj7 sort as [3, 4, 2, 1]
+[Bb4, C#5, F#4, E5]: F#7 sort as [2, 3, 1, 4]
+[Bb4, C#5, F#4, F5]: F#maj7 sort as [2, 3, 1, 4]
+[Bb4, C#5, F#4, G5]: Gdim(Maj7)/Bb
+[Bb4, C#5, G#4, A4]: [Amaj7 omit E /C#]/[note Bb]
+[Bb4, C#5, G#4, B4]: C#13sus4 omit F#, D# /A#
+[Bb4, C#5, G#4, C5]: Bbm9 omit F
+[Bb4, C#5, G#4, D5]: C#6sus2 bD# /G# sort as [1, 2, 4, 3]
+[Bb4, C#5, G#4, E5]: Bbhalf-diminished7 sort as [1, 2, 4, 3]
+[Bb4, C#5, G#4, F5]: Bbm7 sort as [1, 2, 4, 3]
+[Bb4, C#5, G#4, G5]: G#maj11 omit B#, D# /A#
+[Bb4, C#5, A4, A4]: Bbminormajor7 omit F
+[Bb4, C#5, A4, B4]: [C#aug7 omit E#]/[note Bb]
+[Bb4, C#5, A4, C5]: Bbminormajor9 omit F
+[Bb4, C#5, A4, D5]: [Aadd4 omit E sort as [2, 1, 3]]/[note Bb]
+[Bb4, C#5, A4, E5]: Bbdim(Maj7) sort as [1, 2, 4, 3]
+[Bb4, C#5, A4, F5]: Bbminormajor7 sort as [1, 2, 4, 3]
+[Bb4, C#5, A4, G5]: Gmadd9 bD /Db
+[Bb4, C#5, B4, A4]: [Aadd9 omit E /C#]/[note Bb]
+[Bb4, C#5, B4, B4]: Bmaj9 omit D#, F# /A#
+[Bb4, C#5, B4, C5]: [[B with minor second]/[note C#]]/[note Bb]
+[Bb4, C#5, B4, D5]: Bminormajor9 omit F# /A#
+[Bb4, C#5, B4, E5]: Bmaj9sus4 omit F# /A#
+[Bb4, C#5, B4, F5]: Bmaj9#11 omit D#, F# sort as [2, 3, 1, 4]
+[Bb4, C#5, B4, G5]: Baugmaj9 omit D# /A#
+[Bb4, C#5, C#5, A4]: Bbminormajor7 omit F
+[Bb4, C#5, C#5, B4]: Bmaj9 omit D#, F# /A#
+[Bb4, C#5, C#5, C5]: Bbmadd9 omit F
+[Bb4, C#5, C#5, D5]: Daugmaj7 omit F# /A#
+[Bb4, C#5, C#5, E5]: Bbdim
+[Bb4, C#5, C#5, F5]: Bbminor
+[Bb4, C#5, C#5, G5]: Gdim/Bb
+[Bb4, C#5, D5, A4]: [Dmaj7 omit F# /C#]/[note Bb]
+[Bb4, C#5, D5, B4]: Bminormajor9 omit F# sort as [3, 4, 2, 1]
+[Bb4, C#5, D5, C5]: [[D with minor seventh]/[note C#]]/[note Bb]
+[Bb4, C#5, D5, D5]: Daugmaj7 omit F# /A#
+[Bb4, C#5, D5, E5]: Dmaj7sus2 #A /A#
+[Bb4, C#5, D5, F5]: Bbadd2 #B#
+[Bb4, C#5, D5, G5]: Daugmaj7 #F# /A#
+[Bb4, C#5, E5, A4]: Bbdim(Maj7)
+[Bb4, C#5, E5, B4]: Bmaj11 omit D#, F# /A#
+[Bb4, C#5, E5, C5]: Bbmadd9 bE#
+[Bb4, C#5, E5, D5]: Daugmaj9 omit F# /A#
+[Bb4, C#5, E5, E5]: Bbdim
+[Bb4, C#5, E5, F5]: Bbmadd4 #D#
+[Bb4, C#5, E5, G5]: Bbdim7
